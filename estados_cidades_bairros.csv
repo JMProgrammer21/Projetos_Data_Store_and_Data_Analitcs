@@ -1,0 +1,2701 @@
+ID_End,Estado,Sigla,Cidade,Bairro
+1,Acre,AC,Cardoso Verde,Avenida Duarte
+2,Acre,AC,Cardoso Verde,Viaduto de Porto
+3,Acre,AC,Cardoso Verde,Quadra de Moreira
+4,Acre,AC,Cardoso Verde,Feira de Cavalcanti
+5,Acre,AC,Cardoso Verde,Setor Stella Oliveira
+6,Acre,AC,Ribeiro,Condomínio Bryan Moreira
+7,Acre,AC,Ribeiro,Condomínio Nogueira
+8,Acre,AC,Ribeiro,Pátio de Melo
+9,Acre,AC,Ribeiro,Trecho Pietro da Rosa
+10,Acre,AC,Ribeiro,Alameda de Cardoso
+11,Acre,AC,Martins,Chácara Luiz Otávio da Rosa
+12,Acre,AC,Martins,Condomínio de Pires
+13,Acre,AC,Martins,Fazenda João Felipe Cunha
+14,Acre,AC,Martins,Pátio Sofia Jesus
+15,Acre,AC,Martins,Feira Gustavo Pinto
+16,Acre,AC,Martins de Oliveira,Parque Luiz Otávio Rodrigues
+17,Acre,AC,Martins de Oliveira,Condomínio de da Paz
+18,Acre,AC,Martins de Oliveira,Fazenda Nunes
+19,Acre,AC,Martins de Oliveira,Avenida Cunha
+20,Acre,AC,Martins de Oliveira,Esplanada de da Luz
+21,Acre,AC,Araújo de Lima,Sítio Pedro Miguel Aragão
+22,Acre,AC,Araújo de Lima,Lagoa André Moraes
+23,Acre,AC,Araújo de Lima,Alameda de Nascimento
+24,Acre,AC,Araújo de Lima,Largo Levi Cardoso
+25,Acre,AC,Araújo de Lima,Viaduto de Oliveira
+26,Acre,AC,Rezende,Avenida de Almeida
+27,Acre,AC,Rezende,Loteamento Sabrina Correia
+28,Acre,AC,Rezende,Loteamento de Vieira
+29,Acre,AC,Rezende,Travessa de Cunha
+30,Acre,AC,Rezende,Estação Lucca Jesus
+31,Acre,AC,da Rocha,Núcleo de Correia
+32,Acre,AC,da Rocha,Chácara da Rocha
+33,Acre,AC,da Rocha,Sítio Pinto
+34,Acre,AC,da Rocha,Travessa de Azevedo
+35,Acre,AC,da Rocha,Sítio Bianca Moura
+36,Acre,AC,da Mota,Largo Matheus Costela
+37,Acre,AC,da Mota,Via Araújo
+38,Acre,AC,da Mota,Viaduto Paulo Castro
+39,Acre,AC,da Mota,Vale Silveira
+40,Acre,AC,da Mota,Quadra de Jesus
+41,Acre,AC,Nunes de da Costa,Trecho de Nogueira
+42,Acre,AC,Nunes de da Costa,Viela Cecília Moreira
+43,Acre,AC,Nunes de da Costa,Vereda de da Cruz
+44,Acre,AC,Nunes de da Costa,Área Otávio Nogueira
+45,Acre,AC,Nunes de da Costa,Pátio Gabriela Moreira
+46,Acre,AC,Nunes,Lagoa Theo Ribeiro
+47,Acre,AC,Nunes,Esplanada de Costa
+48,Acre,AC,Nunes,Favela de da Rocha
+49,Acre,AC,Nunes,Trecho de Freitas
+50,Acre,AC,Nunes,Via da Luz
+51,Acre,AC,Cavalcanti,Travessa Sales
+52,Acre,AC,Cavalcanti,Colônia de da Rocha
+53,Acre,AC,Cavalcanti,Lagoa Clarice da Rosa
+54,Acre,AC,Cavalcanti,Vereda de Campos
+55,Acre,AC,Cavalcanti,Pátio Jesus
+56,Acre,AC,Cardoso,Área Martins
+57,Acre,AC,Cardoso,Parque Rocha
+58,Acre,AC,Cardoso,Praia Luana Novaes
+59,Acre,AC,Cardoso,Estrada Nogueira
+60,Acre,AC,Cardoso,Vereda Teixeira
+61,Acre,AC,Almeida dos Dourados,Parque de Silveira
+62,Acre,AC,Almeida dos Dourados,Praça Araújo
+63,Acre,AC,Almeida dos Dourados,Conjunto de Monteiro
+64,Acre,AC,Almeida dos Dourados,Estrada de Castro
+65,Acre,AC,Almeida dos Dourados,Largo Maria Eduarda Pinto
+66,Acre,AC,Cunha Alegre,Praia Pinto
+67,Acre,AC,Cunha Alegre,Núcleo Matheus Duarte
+68,Acre,AC,Cunha Alegre,Ladeira de Moraes
+69,Acre,AC,Cunha Alegre,Colônia de Ferreira
+70,Acre,AC,Cunha Alegre,Parque de Monteiro
+71,Acre,AC,Castro das Pedras,Largo Luiz Felipe Silva
+72,Acre,AC,Castro das Pedras,Distrito Cauê Cavalcanti
+73,Acre,AC,Castro das Pedras,Travessa Juan Aragão
+74,Acre,AC,Castro das Pedras,Largo de Mendes
+75,Acre,AC,Castro das Pedras,Vale da Cunha
+76,Acre,AC,Martins,Condomínio Cunha
+77,Acre,AC,Martins,Condomínio de Barros
+78,Acre,AC,Martins,Jardim Mendes
+79,Acre,AC,Martins,Sítio Davi Luiz Vieira
+80,Acre,AC,Martins,Alameda Luiza da Rosa
+81,Acre,AC,Oliveira da Mata,Lago Yago Silva
+82,Acre,AC,Oliveira da Mata,Recanto da Mata
+83,Acre,AC,Oliveira da Mata,Favela Carvalho
+84,Acre,AC,Oliveira da Mata,Travessa de Alves
+85,Acre,AC,Oliveira da Mata,Loteamento de Freitas
+86,Acre,AC,Campos do Galho,Jardim Correia
+87,Acre,AC,Campos do Galho,Chácara de Rocha
+88,Acre,AC,Campos do Galho,Estrada Castro
+89,Acre,AC,Campos do Galho,Morro Maria Clara Carvalho
+90,Acre,AC,Campos do Galho,Fazenda de Cunha
+91,Acre,AC,das Neves de Porto,Morro de Martins
+92,Acre,AC,das Neves de Porto,Largo Giovanna Monteiro
+93,Acre,AC,das Neves de Porto,Avenida da Cunha
+94,Acre,AC,das Neves de Porto,Vale Isabella Rezende
+95,Acre,AC,das Neves de Porto,Fazenda Ana Luiza Azevedo
+96,Acre,AC,Cardoso,Chácara Alexia Rezende
+97,Acre,AC,Cardoso,Passarela de Barros
+98,Acre,AC,Cardoso,Chácara Silva
+99,Acre,AC,Cardoso,Loteamento Monteiro
+100,Acre,AC,Cardoso,Colônia de Campos
+101,Alagoas,AL,Pinto,Viela de Pinto
+102,Alagoas,AL,Pinto,Travessa de Campos
+103,Alagoas,AL,Pinto,Vereda Caldeira
+104,Alagoas,AL,Pinto,Praça Renan da Mata
+105,Alagoas,AL,Pinto,Parque Nunes
+106,Alagoas,AL,Cunha das Pedras,Parque de Cavalcanti
+107,Alagoas,AL,Cunha das Pedras,Recanto Natália Mendes
+108,Alagoas,AL,Cunha das Pedras,Distrito de Monteiro
+109,Alagoas,AL,Cunha das Pedras,Estrada Aragão
+110,Alagoas,AL,Cunha das Pedras,Estrada de Moura
+111,Alagoas,AL,Barbosa,Esplanada Barbosa
+112,Alagoas,AL,Barbosa,Núcleo Laís Fernandes
+113,Alagoas,AL,Barbosa,Rodovia Silveira
+114,Alagoas,AL,Barbosa,Residencial Maria Vitória Gomes
+115,Alagoas,AL,Barbosa,Recanto de da Costa
+116,Alagoas,AL,da Mata de Goiás,Parque de Ribeiro
+117,Alagoas,AL,da Mata de Goiás,Trevo Camila Nunes
+118,Alagoas,AL,da Mata de Goiás,Residencial Alice da Luz
+119,Alagoas,AL,da Mata de Goiás,Recanto Yasmin da Cunha
+120,Alagoas,AL,da Mata de Goiás,Lagoa Cavalcanti
+121,Alagoas,AL,Rocha Paulista,Rua Mariane Pinto
+122,Alagoas,AL,Rocha Paulista,Rua de da Mata
+123,Alagoas,AL,Rocha Paulista,Travessa de Barbosa
+124,Alagoas,AL,Rocha Paulista,Área de Lopes
+125,Alagoas,AL,Rocha Paulista,Vereda Gabrielly Novaes
+126,Alagoas,AL,Moreira das Flores,Setor Nunes
+127,Alagoas,AL,Moreira das Flores,Largo Carlos Eduardo Fogaça
+128,Alagoas,AL,Moreira das Flores,Setor de Porto
+129,Alagoas,AL,Moreira das Flores,Favela das Neves
+130,Alagoas,AL,Moreira das Flores,Largo Igor Freitas
+131,Alagoas,AL,Oliveira,Passarela de Porto
+132,Alagoas,AL,Oliveira,Estrada Alves
+133,Alagoas,AL,Oliveira,Parque Isabella Nunes
+134,Alagoas,AL,Oliveira,Pátio Monteiro
+135,Alagoas,AL,Oliveira,Recanto de Lima
+136,Alagoas,AL,Teixeira do Campo,Área Raquel da Paz
+137,Alagoas,AL,Teixeira do Campo,Rua Araújo
+138,Alagoas,AL,Teixeira do Campo,Avenida Yuri da Luz
+139,Alagoas,AL,Teixeira do Campo,Sítio Dias
+140,Alagoas,AL,Teixeira do Campo,Distrito de Castro
+141,Alagoas,AL,da Costa das Flores,Aeroporto Carvalho
+142,Alagoas,AL,da Costa das Flores,Vale Enzo da Mata
+143,Alagoas,AL,da Costa das Flores,Conjunto Kamilly Pires
+144,Alagoas,AL,da Costa das Flores,Pátio Henrique Carvalho
+145,Alagoas,AL,da Costa das Flores,Estação de Duarte
+146,Alagoas,AL,Nogueira de da Cruz,Viaduto Stella Cardoso
+147,Alagoas,AL,Nogueira de da Cruz,Trecho de Moraes
+148,Alagoas,AL,Nogueira de da Cruz,Vereda Ana Julia Dias
+149,Alagoas,AL,Nogueira de da Cruz,Viela Sales
+150,Alagoas,AL,Nogueira de da Cruz,Trevo Marina da Cunha
+151,Alagoas,AL,das Neves,Área Cardoso
+152,Alagoas,AL,das Neves,Passarela Beatriz Pinto
+153,Alagoas,AL,das Neves,Esplanada Ana Clara Viana
+154,Alagoas,AL,das Neves,Esplanada de Castro
+155,Alagoas,AL,das Neves,Trevo de Rocha
+156,Alagoas,AL,da Luz,Lagoa de Costa
+157,Alagoas,AL,da Luz,Fazenda de Monteiro
+158,Alagoas,AL,da Luz,Estação Pedro Miguel Peixoto
+159,Alagoas,AL,da Luz,Área de Nunes
+160,Alagoas,AL,da Luz,Colônia Almeida
+161,Alagoas,AL,Silva,Vereda Cardoso
+162,Alagoas,AL,Silva,Colônia de Correia
+163,Alagoas,AL,Silva,Loteamento de Campos
+164,Alagoas,AL,Silva,Travessa Rodrigues
+165,Alagoas,AL,Silva,Jardim de Moreira
+166,Alagoas,AL,Teixeira de Correia,Passarela da Rosa
+167,Alagoas,AL,Teixeira de Correia,Condomínio Luiz Henrique da Paz
+168,Alagoas,AL,Teixeira de Correia,Praia Daniela Nascimento
+169,Alagoas,AL,Teixeira de Correia,Pátio de Campos
+170,Alagoas,AL,Teixeira de Correia,Núcleo Yasmin Nunes
+171,Alagoas,AL,Silveira,Alameda de Rodrigues
+172,Alagoas,AL,Silveira,Campo Nicolas Rezende
+173,Alagoas,AL,Silveira,Estrada Esther Lima
+174,Alagoas,AL,Silveira,Aeroporto de da Mota
+175,Alagoas,AL,Silveira,Loteamento Juan Fogaça
+176,Alagoas,AL,Peixoto,Vereda Cardoso
+177,Alagoas,AL,Peixoto,Avenida de Moreira
+178,Alagoas,AL,Peixoto,Jardim Monteiro
+179,Alagoas,AL,Peixoto,Morro Porto
+180,Alagoas,AL,Peixoto,Aeroporto de Santos
+181,Alagoas,AL,Barros de Costela,Jardim Santos
+182,Alagoas,AL,Barros de Costela,Quadra Alves
+183,Alagoas,AL,Barros de Costela,Alameda de Duarte
+184,Alagoas,AL,Barros de Costela,Vereda de Almeida
+185,Alagoas,AL,Barros de Costela,Avenida de Freitas
+186,Alagoas,AL,Costela das Flores,Fazenda de Melo
+187,Alagoas,AL,Costela das Flores,Pátio Valentina da Mata
+188,Alagoas,AL,Costela das Flores,Ladeira de Cunha
+189,Alagoas,AL,Costela das Flores,Morro Cardoso
+190,Alagoas,AL,Costela das Flores,Conjunto de Farias
+191,Alagoas,AL,Souza do Amparo,Área da Paz
+192,Alagoas,AL,Souza do Amparo,Avenida Isabella Porto
+193,Alagoas,AL,Souza do Amparo,Estrada Nicolas da Paz
+194,Alagoas,AL,Souza do Amparo,Setor Cauê Correia
+195,Alagoas,AL,Souza do Amparo,Trevo André Nascimento
+196,Alagoas,AL,Rezende de Lima,Vereda de Mendes
+197,Alagoas,AL,Rezende de Lima,Favela Jesus
+198,Alagoas,AL,Rezende de Lima,Travessa Carolina Souza
+199,Alagoas,AL,Rezende de Lima,Campo Castro
+200,Alagoas,AL,Rezende de Lima,Chácara de Araújo
+201,Amapá,AP,Viana,Esplanada Luiza da Mota
+202,Amapá,AP,Viana,Área de da Paz
+203,Amapá,AP,Viana,Favela Miguel Teixeira
+204,Amapá,AP,Viana,Pátio de Lima
+205,Amapá,AP,Viana,Feira de Freitas
+206,Amapá,AP,Peixoto da Serra,Praça Theo Rocha
+207,Amapá,AP,Peixoto da Serra,Feira Souza
+208,Amapá,AP,Peixoto da Serra,Sítio Araújo
+209,Amapá,AP,Peixoto da Serra,Trecho Caroline Pereira
+210,Amapá,AP,Peixoto da Serra,Área Kevin da Rocha
+211,Amapá,AP,Cardoso da Mata,Sítio Laís Cardoso
+212,Amapá,AP,Cardoso da Mata,Morro Vitor Hugo Dias
+213,Amapá,AP,Cardoso da Mata,Avenida da Costa
+214,Amapá,AP,Cardoso da Mata,Vale da Mata
+215,Amapá,AP,Cardoso da Mata,Viela Brenda Pinto
+216,Amapá,AP,Rezende da Prata,Praia Calebe Vieira
+217,Amapá,AP,Rezende da Prata,Trevo Marcos Vinicius Silveira
+218,Amapá,AP,Rezende da Prata,Rodovia Maria Luiza Cavalcanti
+219,Amapá,AP,Rezende da Prata,Vereda Farias
+220,Amapá,AP,Rezende da Prata,Praia Cunha
+221,Amapá,AP,Silveira do Norte,Largo de Caldeira
+222,Amapá,AP,Silveira do Norte,Rodovia de Silva
+223,Amapá,AP,Silveira do Norte,Feira de Azevedo
+224,Amapá,AP,Silveira do Norte,Distrito Alana Campos
+225,Amapá,AP,Silveira do Norte,Trecho de da Mota
+226,Amapá,AP,da Costa da Mata,Rodovia da Rosa
+227,Amapá,AP,da Costa da Mata,Avenida Teixeira
+228,Amapá,AP,da Costa da Mata,Conjunto de Jesus
+229,Amapá,AP,da Costa da Mata,Rua Maria Fernanda Teixeira
+230,Amapá,AP,da Costa da Mata,Área da Luz
+231,Amapá,AP,Lima Paulista,Condomínio de Ramos
+232,Amapá,AP,Lima Paulista,Residencial Farias
+233,Amapá,AP,Lima Paulista,Vale de Monteiro
+234,Amapá,AP,Lima Paulista,Lagoa Enzo Gabriel Nascimento
+235,Amapá,AP,Lima Paulista,Conjunto de Fogaça
+236,Amapá,AP,Peixoto,Residencial Alves
+237,Amapá,AP,Peixoto,Passarela Elisa Cardoso
+238,Amapá,AP,Peixoto,Feira de Nascimento
+239,Amapá,AP,Peixoto,Conjunto Pinto
+240,Amapá,AP,Peixoto,Campo de Moraes
+241,Amapá,AP,Oliveira,Largo de Peixoto
+242,Amapá,AP,Oliveira,Trecho Leonardo da Paz
+243,Amapá,AP,Oliveira,Vila Mariane Rodrigues
+244,Amapá,AP,Oliveira,Estação de Moraes
+245,Amapá,AP,Oliveira,Viela Benjamin Oliveira
+246,Amapá,AP,Costela Verde,Condomínio Ribeiro
+247,Amapá,AP,Costela Verde,Rodovia Luiza Nogueira
+248,Amapá,AP,Costela Verde,Trevo da Conceição
+249,Amapá,AP,Costela Verde,Esplanada Alana Fernandes
+250,Amapá,AP,Costela Verde,Colônia Ferreira
+251,Amapá,AP,Fernandes de Castro,Condomínio de da Luz
+252,Amapá,AP,Fernandes de Castro,Trecho Ana Vitória Lima
+253,Amapá,AP,Fernandes de Castro,Praia da Costa
+254,Amapá,AP,Fernandes de Castro,Área de Silva
+255,Amapá,AP,Fernandes de Castro,Chácara Bianca Duarte
+256,Amapá,AP,Moraes de Minas,Travessa de Sales
+257,Amapá,AP,Moraes de Minas,Esplanada Davi Lucca Rodrigues
+258,Amapá,AP,Moraes de Minas,Área Farias
+259,Amapá,AP,Moraes de Minas,Loteamento da Rocha
+260,Amapá,AP,Moraes de Minas,Rodovia de da Cunha
+261,Amapá,AP,Sales,Morro Rodrigues
+262,Amapá,AP,Sales,Campo de Martins
+263,Amapá,AP,Sales,Condomínio Daniel Sales
+264,Amapá,AP,Sales,Viela de Aragão
+265,Amapá,AP,Sales,Chácara Ian Caldeira
+266,Amapá,AP,Aragão das Flores,Trevo Ramos
+267,Amapá,AP,Aragão das Flores,Estação Campos
+268,Amapá,AP,Aragão das Flores,Vereda Pedro Miguel Teixeira
+269,Amapá,AP,Aragão das Flores,Loteamento Freitas
+270,Amapá,AP,Aragão das Flores,Pátio de Correia
+271,Amapá,AP,Castro,Vereda de Araújo
+272,Amapá,AP,Castro,Quadra de Cavalcanti
+273,Amapá,AP,Castro,Praia Viana
+274,Amapá,AP,Castro,Condomínio de Costa
+275,Amapá,AP,Castro,Avenida Pinto
+276,Amapá,AP,Gomes de Nascimento,Aeroporto Barros
+277,Amapá,AP,Gomes de Nascimento,Quadra Costa
+278,Amapá,AP,Gomes de Nascimento,Lagoa de Rodrigues
+279,Amapá,AP,Gomes de Nascimento,Via Sofia Viana
+280,Amapá,AP,Gomes de Nascimento,Rodovia Castro
+281,Amapá,AP,Ramos do Sul,Travessa Isabel Duarte
+282,Amapá,AP,Ramos do Sul,Travessa Caio Santos
+283,Amapá,AP,Ramos do Sul,Núcleo Moreira
+284,Amapá,AP,Ramos do Sul,Pátio Castro
+285,Amapá,AP,Ramos do Sul,Residencial Nicolas da Mata
+286,Amapá,AP,Aragão da Praia,Lago Vitor Castro
+287,Amapá,AP,Aragão da Praia,Avenida de Rodrigues
+288,Amapá,AP,Aragão da Praia,Estrada Oliveira
+289,Amapá,AP,Aragão da Praia,Loteamento Santos
+290,Amapá,AP,Aragão da Praia,Trevo Breno Ribeiro
+291,Amapá,AP,Barros das Pedras,Recanto Renan Santos
+292,Amapá,AP,Barros das Pedras,Vila de Teixeira
+293,Amapá,AP,Barros das Pedras,Quadra Luana Azevedo
+294,Amapá,AP,Barros das Pedras,Área de Correia
+295,Amapá,AP,Barros das Pedras,Praça de Martins
+296,Amapá,AP,da Mota,Fazenda Santos
+297,Amapá,AP,da Mota,Jardim Ana Sophia Novaes
+298,Amapá,AP,da Mota,Aeroporto de Cunha
+299,Amapá,AP,da Mota,Lago Maria Clara Silva
+300,Amapá,AP,da Mota,Recanto Augusto Azevedo
+301,Amazonas,AM,Cunha de Goiás,Aeroporto João Guilherme Rocha
+302,Amazonas,AM,Cunha de Goiás,Núcleo Amanda Campos
+303,Amazonas,AM,Cunha de Goiás,Aeroporto Vieira
+304,Amazonas,AM,Cunha de Goiás,Via Luiza Rocha
+305,Amazonas,AM,Cunha de Goiás,Morro de Fogaça
+306,Amazonas,AM,Ferreira de Dias,Feira Gabriela Martins
+307,Amazonas,AM,Ferreira de Dias,Conjunto de Souza
+308,Amazonas,AM,Ferreira de Dias,Estrada Freitas
+309,Amazonas,AM,Ferreira de Dias,Avenida da Cunha
+310,Amazonas,AM,Ferreira de Dias,Sítio Ana Lívia Barros
+311,Amazonas,AM,Melo,Recanto de Cunha
+312,Amazonas,AM,Melo,Campo Oliveira
+313,Amazonas,AM,Melo,Esplanada João Gabriel Fogaça
+314,Amazonas,AM,Melo,Condomínio Melo
+315,Amazonas,AM,Melo,Jardim Maysa Farias
+316,Amazonas,AM,Vieira,Ladeira da Mota
+317,Amazonas,AM,Vieira,Esplanada Alves
+318,Amazonas,AM,Vieira,Praia João Vitor da Rosa
+319,Amazonas,AM,Vieira,Estação de Sales
+320,Amazonas,AM,Vieira,Loteamento de Moreira
+321,Amazonas,AM,Alves da Serra,Conjunto Araújo
+322,Amazonas,AM,Alves da Serra,Lago Lopes
+323,Amazonas,AM,Alves da Serra,Largo Lima
+324,Amazonas,AM,Alves da Serra,Alameda de Cardoso
+325,Amazonas,AM,Alves da Serra,Campo de Costa
+326,Amazonas,AM,da Mata,Núcleo Thales Jesus
+327,Amazonas,AM,da Mata,Feira Gomes
+328,Amazonas,AM,da Mata,Condomínio de Pinto
+329,Amazonas,AM,da Mata,Chácara de Farias
+330,Amazonas,AM,da Mata,Vale Farias
+331,Amazonas,AM,Caldeira Alegre,Avenida Teixeira
+332,Amazonas,AM,Caldeira Alegre,Estação Fernandes
+333,Amazonas,AM,Caldeira Alegre,Recanto da Cunha
+334,Amazonas,AM,Caldeira Alegre,Sítio Gabriela Souza
+335,Amazonas,AM,Caldeira Alegre,Ladeira de Cardoso
+336,Amazonas,AM,Pinto do Amparo,Pátio Clarice Melo
+337,Amazonas,AM,Pinto do Amparo,Lago Kaique da Paz
+338,Amazonas,AM,Pinto do Amparo,Pátio de Cavalcanti
+339,Amazonas,AM,Pinto do Amparo,Largo Enzo Ferreira
+340,Amazonas,AM,Pinto do Amparo,Jardim de Rodrigues
+341,Amazonas,AM,Porto de Goiás,Vila Silva
+342,Amazonas,AM,Porto de Goiás,Trevo da Conceição
+343,Amazonas,AM,Porto de Goiás,Alameda de da Rosa
+344,Amazonas,AM,Porto de Goiás,Condomínio Farias
+345,Amazonas,AM,Porto de Goiás,Núcleo Correia
+346,Amazonas,AM,Rocha do Sul,Vila Maria Martins
+347,Amazonas,AM,Rocha do Sul,Viela Eduardo Mendes
+348,Amazonas,AM,Rocha do Sul,Sítio Clara Farias
+349,Amazonas,AM,Rocha do Sul,Conjunto Monteiro
+350,Amazonas,AM,Rocha do Sul,Trevo Silveira
+351,Amazonas,AM,Almeida Grande,Trevo de da Rocha
+352,Amazonas,AM,Almeida Grande,Quadra de da Conceição
+353,Amazonas,AM,Almeida Grande,Lagoa Alves
+354,Amazonas,AM,Almeida Grande,Largo Brenda Alves
+355,Amazonas,AM,Almeida Grande,Lagoa Clara Rodrigues
+356,Amazonas,AM,Jesus,Trecho Rafael Martins
+357,Amazonas,AM,Jesus,Morro de Teixeira
+358,Amazonas,AM,Jesus,Lago Dias
+359,Amazonas,AM,Jesus,Lago Maria Luiza Santos
+360,Amazonas,AM,Jesus,Vila Pedro Lucas Campos
+361,Amazonas,AM,Silva,Trevo Eloah Fernandes
+362,Amazonas,AM,Silva,Vale de Cunha
+363,Amazonas,AM,Silva,Travessa de Silveira
+364,Amazonas,AM,Silva,Pátio de Costa
+365,Amazonas,AM,Silva,Pátio Gomes
+366,Amazonas,AM,Ramos da Serra,Favela de Fernandes
+367,Amazonas,AM,Ramos da Serra,Rodovia Helena Dias
+368,Amazonas,AM,Ramos da Serra,Favela da Cruz
+369,Amazonas,AM,Ramos da Serra,Esplanada Luiz Miguel Rocha
+370,Amazonas,AM,Ramos da Serra,Passarela Vinicius Lima
+371,Amazonas,AM,da Cunha do Galho,Fazenda Novaes
+372,Amazonas,AM,da Cunha do Galho,Área Farias
+373,Amazonas,AM,da Cunha do Galho,Recanto de Pereira
+374,Amazonas,AM,da Cunha do Galho,Vereda de Fogaça
+375,Amazonas,AM,da Cunha do Galho,Área Davi Almeida
+376,Amazonas,AM,Moura,Loteamento Silva
+377,Amazonas,AM,Moura,Estação Mendes
+378,Amazonas,AM,Moura,Feira da Luz
+379,Amazonas,AM,Moura,Campo Porto
+380,Amazonas,AM,Moura,Aeroporto Larissa Mendes
+381,Amazonas,AM,Monteiro de Rezende,Viela Araújo
+382,Amazonas,AM,Monteiro de Rezende,Núcleo Porto
+383,Amazonas,AM,Monteiro de Rezende,Sítio Carvalho
+384,Amazonas,AM,Monteiro de Rezende,Feira Cunha
+385,Amazonas,AM,Monteiro de Rezende,Jardim Viana
+386,Amazonas,AM,Pinto de Duarte,Esplanada Bruno Cardoso
+387,Amazonas,AM,Pinto de Duarte,Travessa Lucas Gabriel Campos
+388,Amazonas,AM,Pinto de Duarte,Núcleo Nogueira
+389,Amazonas,AM,Pinto de Duarte,Passarela de Caldeira
+390,Amazonas,AM,Pinto de Duarte,Sítio de da Rocha
+391,Amazonas,AM,da Costa,Recanto Bernardo Barbosa
+392,Amazonas,AM,da Costa,Esplanada Vieira
+393,Amazonas,AM,da Costa,Via Gomes
+394,Amazonas,AM,da Costa,Conjunto Silva
+395,Amazonas,AM,da Costa,Campo Costa
+396,Amazonas,AM,Cunha,Loteamento Cunha
+397,Amazonas,AM,Cunha,Fazenda de Campos
+398,Amazonas,AM,Cunha,Condomínio João Gabriel Peixoto
+399,Amazonas,AM,Cunha,Viaduto Jesus
+400,Amazonas,AM,Cunha,Campo de Lopes
+401,Bahia,BA,Pereira de Minas,Passarela Aragão
+402,Bahia,BA,Pereira de Minas,Travessa Yuri Freitas
+403,Bahia,BA,Pereira de Minas,Esplanada de Souza
+404,Bahia,BA,Pereira de Minas,Trevo Monteiro
+405,Bahia,BA,Pereira de Minas,Distrito de Cavalcanti
+406,Bahia,BA,Ramos Paulista,Residencial de da Cruz
+407,Bahia,BA,Ramos Paulista,Estação de Caldeira
+408,Bahia,BA,Ramos Paulista,Setor de Moura
+409,Bahia,BA,Ramos Paulista,Conjunto de Viana
+410,Bahia,BA,Ramos Paulista,Feira Maria Luiza Pires
+411,Bahia,BA,das Neves da Prata,Trecho Almeida
+412,Bahia,BA,das Neves da Prata,Distrito Joaquim Nunes
+413,Bahia,BA,das Neves da Prata,Aeroporto de Farias
+414,Bahia,BA,das Neves da Prata,Praia Silveira
+415,Bahia,BA,das Neves da Prata,Travessa João Miguel da Costa
+416,Bahia,BA,Caldeira Paulista,Lagoa da Paz
+417,Bahia,BA,Caldeira Paulista,Conjunto da Cruz
+418,Bahia,BA,Caldeira Paulista,Favela Sales
+419,Bahia,BA,Caldeira Paulista,Parque Moreira
+420,Bahia,BA,Caldeira Paulista,Travessa Gabriel Nogueira
+421,Bahia,BA,Pereira,Passarela Duarte
+422,Bahia,BA,Pereira,Condomínio Correia
+423,Bahia,BA,Pereira,Favela Isaac Farias
+424,Bahia,BA,Pereira,Alameda Cardoso
+425,Bahia,BA,Pereira,Rua Ramos
+426,Bahia,BA,Freitas,Favela de Carvalho
+427,Bahia,BA,Freitas,Vale de Campos
+428,Bahia,BA,Freitas,Pátio de Barbosa
+429,Bahia,BA,Freitas,Fazenda da Luz
+430,Bahia,BA,Freitas,Área Nascimento
+431,Bahia,BA,Almeida,Lago Sales
+432,Bahia,BA,Almeida,Pátio de Duarte
+433,Bahia,BA,Almeida,Morro Barros
+434,Bahia,BA,Almeida,Vale Farias
+435,Bahia,BA,Almeida,Quadra João Cardoso
+436,Bahia,BA,Peixoto,Loteamento Melo
+437,Bahia,BA,Peixoto,Setor Barros
+438,Bahia,BA,Peixoto,Recanto de da Cruz
+439,Bahia,BA,Peixoto,Conjunto Oliveira
+440,Bahia,BA,Peixoto,Rua Rocha
+441,Bahia,BA,Lopes de Carvalho,Avenida Davi Lucca da Costa
+442,Bahia,BA,Lopes de Carvalho,Aeroporto Heloísa da Rosa
+443,Bahia,BA,Lopes de Carvalho,Viaduto Pereira
+444,Bahia,BA,Lopes de Carvalho,Viela de Castro
+445,Bahia,BA,Lopes de Carvalho,Residencial Melo
+446,Bahia,BA,Melo,Ladeira Silveira
+447,Bahia,BA,Melo,Favela de Rocha
+448,Bahia,BA,Melo,Morro Freitas
+449,Bahia,BA,Melo,Largo Ian Peixoto
+450,Bahia,BA,Melo,Lago Fernanda da Paz
+451,Bahia,BA,Rezende do Campo,Favela de Ramos
+452,Bahia,BA,Rezende do Campo,Trecho Caio Moreira
+453,Bahia,BA,Rezende do Campo,Largo Cardoso
+454,Bahia,BA,Rezende do Campo,Recanto Alícia Moraes
+455,Bahia,BA,Rezende do Campo,Lago de Pires
+456,Bahia,BA,Araújo das Pedras,Colônia Ferreira
+457,Bahia,BA,Araújo das Pedras,Trevo Carvalho
+458,Bahia,BA,Araújo das Pedras,Pátio de Farias
+459,Bahia,BA,Araújo das Pedras,Parque de da Rosa
+460,Bahia,BA,Araújo das Pedras,Alameda de Castro
+461,Bahia,BA,da Rosa,Parque da Conceição
+462,Bahia,BA,da Rosa,Chácara Moreira
+463,Bahia,BA,da Rosa,Favela Ana Cardoso
+464,Bahia,BA,da Rosa,Viaduto de Viana
+465,Bahia,BA,da Rosa,Estação Mariane da Rocha
+466,Bahia,BA,da Conceição,Fazenda Oliveira
+467,Bahia,BA,da Conceição,Jardim da Cruz
+468,Bahia,BA,da Conceição,Ladeira Cardoso
+469,Bahia,BA,da Conceição,Campo Raul Barros
+470,Bahia,BA,da Conceição,Recanto Carlos Eduardo Caldeira
+471,Bahia,BA,das Neves,Área Teixeira
+472,Bahia,BA,das Neves,Jardim Cauê Araújo
+473,Bahia,BA,das Neves,Estrada de Nunes
+474,Bahia,BA,das Neves,Trecho de Martins
+475,Bahia,BA,das Neves,Parque de da Rosa
+476,Bahia,BA,da Rocha,Fazenda Ramos
+477,Bahia,BA,da Rocha,Estrada Luiz Otávio Cunha
+478,Bahia,BA,da Rocha,Esplanada de Araújo
+479,Bahia,BA,da Rocha,Chácara de Viana
+480,Bahia,BA,da Rocha,Colônia Nunes
+481,Bahia,BA,Rezende,Vale Laís Correia
+482,Bahia,BA,Rezende,Favela Freitas
+483,Bahia,BA,Rezende,Trecho de Barbosa
+484,Bahia,BA,Rezende,Conjunto de Ferreira
+485,Bahia,BA,Rezende,Recanto Melo
+486,Bahia,BA,Caldeira,Estrada de Melo
+487,Bahia,BA,Caldeira,Vereda de Pinto
+488,Bahia,BA,Caldeira,Aeroporto de Souza
+489,Bahia,BA,Caldeira,Quadra Pires
+490,Bahia,BA,Caldeira,Vale de Silva
+491,Bahia,BA,das Neves,Sítio Pires
+492,Bahia,BA,das Neves,Campo Fernandes
+493,Bahia,BA,das Neves,Passarela Nunes
+494,Bahia,BA,das Neves,Viaduto Amanda Araújo
+495,Bahia,BA,das Neves,Jardim de Correia
+496,Bahia,BA,Rezende de Fernandes,Vila Melo
+497,Bahia,BA,Rezende de Fernandes,Rodovia de da Luz
+498,Bahia,BA,Rezende de Fernandes,Alameda de Sales
+499,Bahia,BA,Rezende de Fernandes,Loteamento Fernandes
+500,Bahia,BA,Rezende de Fernandes,Rodovia Isabel Barbosa
+501,Ceará,CE,Pires de Nogueira,Avenida Fernando Peixoto
+502,Ceará,CE,Pires de Nogueira,Viaduto Pires
+503,Ceará,CE,Pires de Nogueira,Colônia Porto
+504,Ceará,CE,Pires de Nogueira,Quadra Yuri Barros
+505,Ceará,CE,Pires de Nogueira,Alameda Moreira
+506,Ceará,CE,Correia,Favela de da Rosa
+507,Ceará,CE,Correia,Colônia Farias
+508,Ceará,CE,Correia,Lago de Campos
+509,Ceará,CE,Correia,Rua Henrique Martins
+510,Ceará,CE,Correia,Colônia Cardoso
+511,Ceará,CE,Duarte da Serra,Passarela Ribeiro
+512,Ceará,CE,Duarte da Serra,Trecho Cardoso
+513,Ceará,CE,Duarte da Serra,Trevo Vitória Cunha
+514,Ceará,CE,Duarte da Serra,Praia Rezende
+515,Ceará,CE,Duarte da Serra,Condomínio Ryan da Cunha
+516,Ceará,CE,Silveira,Distrito Pereira
+517,Ceará,CE,Silveira,Lago de Martins
+518,Ceará,CE,Silveira,Lago Vitor Hugo Costa
+519,Ceará,CE,Silveira,Parque Davi Lucca Moura
+520,Ceará,CE,Silveira,Passarela Costela
+521,Ceará,CE,Fogaça Grande,Núcleo de da Costa
+522,Ceará,CE,Fogaça Grande,Largo Raquel Viana
+523,Ceará,CE,Fogaça Grande,Passarela Peixoto
+524,Ceará,CE,Fogaça Grande,Loteamento Emilly Nascimento
+525,Ceará,CE,Fogaça Grande,Pátio Valentina Castro
+526,Ceará,CE,da Paz,Condomínio da Cunha
+527,Ceará,CE,da Paz,Setor de Nunes
+528,Ceará,CE,da Paz,Residencial Manuela Mendes
+529,Ceará,CE,da Paz,Vale João Lucas Rezende
+530,Ceará,CE,da Paz,Trevo de Pinto
+531,Ceará,CE,Costela,Condomínio de Viana
+532,Ceará,CE,Costela,Trecho Lucca Souza
+533,Ceará,CE,Costela,Núcleo Emanuella Lima
+534,Ceará,CE,Costela,Condomínio de Novaes
+535,Ceará,CE,Costela,Favela Ramos
+536,Ceará,CE,Monteiro,Loteamento de Lopes
+537,Ceará,CE,Monteiro,Largo Oliveira
+538,Ceará,CE,Monteiro,Via Jesus
+539,Ceará,CE,Monteiro,Jardim Pereira
+540,Ceará,CE,Monteiro,Aeroporto Barros
+541,Ceará,CE,Araújo de Novaes,Viela Rocha
+542,Ceará,CE,Araújo de Novaes,Via de Lima
+543,Ceará,CE,Araújo de Novaes,Ladeira Carlos Eduardo Porto
+544,Ceará,CE,Araújo de Novaes,Ladeira Alexia Azevedo
+545,Ceará,CE,Araújo de Novaes,Conjunto Murilo da Luz
+546,Ceará,CE,Pinto,Colônia Cardoso
+547,Ceará,CE,Pinto,Fazenda Rodrigues
+548,Ceará,CE,Pinto,Vale Rebeca Teixeira
+549,Ceará,CE,Pinto,Vila da Paz
+550,Ceará,CE,Pinto,Praça de Dias
+551,Ceará,CE,Carvalho,Estrada Eduardo Mendes
+552,Ceará,CE,Carvalho,Loteamento de Nunes
+553,Ceará,CE,Carvalho,Campo Martins
+554,Ceará,CE,Carvalho,Recanto de Fogaça
+555,Ceará,CE,Carvalho,Estrada Dias
+556,Ceará,CE,Nogueira,Vale de Cavalcanti
+557,Ceará,CE,Nogueira,Via de Gomes
+558,Ceará,CE,Nogueira,Conjunto Maria Sophia Duarte
+559,Ceará,CE,Nogueira,Residencial Moreira
+560,Ceará,CE,Nogueira,Favela Cauã Nogueira
+561,Ceará,CE,Souza do Amparo,Viela de Castro
+562,Ceará,CE,Souza do Amparo,Morro Souza
+563,Ceará,CE,Souza do Amparo,Trecho de Gonçalves
+564,Ceará,CE,Souza do Amparo,Rua Teixeira
+565,Ceará,CE,Souza do Amparo,Aeroporto de Castro
+566,Ceará,CE,Aragão Paulista,Alameda Gonçalves
+567,Ceará,CE,Aragão Paulista,Núcleo Rezende
+568,Ceará,CE,Aragão Paulista,Vale Guilherme Rocha
+569,Ceará,CE,Aragão Paulista,Feira Marcelo da Rocha
+570,Ceará,CE,Aragão Paulista,Campo Lucas Cardoso
+571,Ceará,CE,Farias de Nogueira,Conjunto Maria Alice Rocha
+572,Ceará,CE,Farias de Nogueira,Trecho Pinto
+573,Ceará,CE,Farias de Nogueira,Campo Ana Rodrigues
+574,Ceará,CE,Farias de Nogueira,Vereda Teixeira
+575,Ceará,CE,Farias de Nogueira,Sítio Maria Fernanda Moreira
+576,Ceará,CE,da Costa de Goiás,Condomínio de Gomes
+577,Ceará,CE,da Costa de Goiás,Vale Brenda da Mata
+578,Ceará,CE,da Costa de Goiás,Favela de Cardoso
+579,Ceará,CE,da Costa de Goiás,Núcleo de Sales
+580,Ceará,CE,da Costa de Goiás,Chácara de Cavalcanti
+581,Ceará,CE,Alves Alegre,Lagoa da Costa
+582,Ceará,CE,Alves Alegre,Loteamento Luiz Otávio Melo
+583,Ceará,CE,Alves Alegre,Núcleo Caldeira
+584,Ceará,CE,Alves Alegre,Largo de da Luz
+585,Ceará,CE,Alves Alegre,Sítio de Aragão
+586,Ceará,CE,da Costa,Loteamento de Castro
+587,Ceará,CE,da Costa,Largo de Mendes
+588,Ceará,CE,da Costa,Praia Luiza Dias
+589,Ceará,CE,da Costa,Morro de Gonçalves
+590,Ceará,CE,da Costa,Colônia Nunes
+591,Ceará,CE,Gomes,Lagoa de Freitas
+592,Ceará,CE,Gomes,Trevo de Ribeiro
+593,Ceará,CE,Gomes,Viaduto Alice Santos
+594,Ceará,CE,Gomes,Distrito de Moraes
+595,Ceará,CE,Gomes,Chácara de Freitas
+596,Ceará,CE,Farias,Largo de da Luz
+597,Ceará,CE,Farias,Vila de Rodrigues
+598,Ceará,CE,Farias,Colônia de Rezende
+599,Ceará,CE,Farias,Passarela de Silveira
+600,Ceará,CE,Farias,Lago Isis Moreira
+601,Distrito Federal,DF,Lopes,Recanto de Teixeira
+602,Distrito Federal,DF,Lopes,Passarela Luiz Otávio Santos
+603,Distrito Federal,DF,Lopes,Vale Viana
+604,Distrito Federal,DF,Lopes,Vila Thiago Peixoto
+605,Distrito Federal,DF,Lopes,Lagoa da Paz
+606,Distrito Federal,DF,Barbosa,Vila Martins
+607,Distrito Federal,DF,Barbosa,Passarela de Fogaça
+608,Distrito Federal,DF,Barbosa,Praia de Oliveira
+609,Distrito Federal,DF,Barbosa,Ladeira Mirella Melo
+610,Distrito Federal,DF,Barbosa,Favela Silva
+611,Distrito Federal,DF,Freitas,Esplanada Cavalcanti
+612,Distrito Federal,DF,Freitas,Chácara Araújo
+613,Distrito Federal,DF,Freitas,Morro Lívia da Cruz
+614,Distrito Federal,DF,Freitas,Largo Cunha
+615,Distrito Federal,DF,Freitas,Feira de Duarte
+616,Distrito Federal,DF,da Rocha de Goiás,Conjunto Cunha
+617,Distrito Federal,DF,da Rocha de Goiás,Área Ferreira
+618,Distrito Federal,DF,da Rocha de Goiás,Colônia Maria Cecília Caldeira
+619,Distrito Federal,DF,da Rocha de Goiás,Favela de da Luz
+620,Distrito Federal,DF,da Rocha de Goiás,Fazenda de Costela
+621,Distrito Federal,DF,da Rocha,Pátio João Guilherme Viana
+622,Distrito Federal,DF,da Rocha,Trevo Heloísa Moreira
+623,Distrito Federal,DF,da Rocha,Vila de Pires
+624,Distrito Federal,DF,da Rocha,Núcleo Melo
+625,Distrito Federal,DF,da Rocha,Parque Costela
+626,Distrito Federal,DF,Pires,Sítio Esther da Cruz
+627,Distrito Federal,DF,Pires,Recanto Isaac Ferreira
+628,Distrito Federal,DF,Pires,Rua Fernandes
+629,Distrito Federal,DF,Pires,Recanto Luna Correia
+630,Distrito Federal,DF,Pires,Vereda Luiz Miguel Lopes
+631,Distrito Federal,DF,Farias,Praia Gonçalves
+632,Distrito Federal,DF,Farias,Vereda Vicente Novaes
+633,Distrito Federal,DF,Farias,Rua Helena da Cunha
+634,Distrito Federal,DF,Farias,Vila Melo
+635,Distrito Federal,DF,Farias,Jardim da Cruz
+636,Distrito Federal,DF,Ribeiro,Residencial de Martins
+637,Distrito Federal,DF,Ribeiro,Passarela de Pires
+638,Distrito Federal,DF,Ribeiro,Rodovia de Souza
+639,Distrito Federal,DF,Ribeiro,Setor Carolina Freitas
+640,Distrito Federal,DF,Ribeiro,Lago Maria Vitória Silva
+641,Distrito Federal,DF,Cardoso de Nascimento,Setor Azevedo
+642,Distrito Federal,DF,Cardoso de Nascimento,Viela Felipe Monteiro
+643,Distrito Federal,DF,Cardoso de Nascimento,Núcleo de Duarte
+644,Distrito Federal,DF,Cardoso de Nascimento,Colônia Ana Beatriz Ferreira
+645,Distrito Federal,DF,Cardoso de Nascimento,Trevo Castro
+646,Distrito Federal,DF,Ribeiro de da Mota,Via Breno Campos
+647,Distrito Federal,DF,Ribeiro de da Mota,Residencial Luiz Miguel Cardoso
+648,Distrito Federal,DF,Ribeiro de da Mota,Lago da Rocha
+649,Distrito Federal,DF,Ribeiro de da Mota,Conjunto Natália da Cunha
+650,Distrito Federal,DF,Ribeiro de da Mota,Rua Lima
+651,Distrito Federal,DF,Lima Paulista,Vereda de Araújo
+652,Distrito Federal,DF,Lima Paulista,Distrito André Oliveira
+653,Distrito Federal,DF,Lima Paulista,Praia Isabel Nogueira
+654,Distrito Federal,DF,Lima Paulista,Chácara Ana Carolina Farias
+655,Distrito Federal,DF,Lima Paulista,Conjunto de Alves
+656,Distrito Federal,DF,Rezende Verde,Trecho Diogo das Neves
+657,Distrito Federal,DF,Rezende Verde,Avenida Oliveira
+658,Distrito Federal,DF,Rezende Verde,Recanto Enzo Rocha
+659,Distrito Federal,DF,Rezende Verde,Sítio de Barbosa
+660,Distrito Federal,DF,Rezende Verde,Esplanada da Cruz
+661,Distrito Federal,DF,Nogueira Alegre,Vila Freitas
+662,Distrito Federal,DF,Nogueira Alegre,Passarela Clara Cunha
+663,Distrito Federal,DF,Nogueira Alegre,Área Porto
+664,Distrito Federal,DF,Nogueira Alegre,Parque de Costa
+665,Distrito Federal,DF,Nogueira Alegre,Fazenda Isadora Fernandes
+666,Distrito Federal,DF,da Cunha de Minas,Colônia de Castro
+667,Distrito Federal,DF,da Cunha de Minas,Rua de Martins
+668,Distrito Federal,DF,da Cunha de Minas,Quadra de da Cunha
+669,Distrito Federal,DF,da Cunha de Minas,Núcleo de da Mata
+670,Distrito Federal,DF,da Cunha de Minas,Residencial Isabelly Caldeira
+671,Distrito Federal,DF,Barros da Mata,Fazenda de Santos
+672,Distrito Federal,DF,Barros da Mata,Rua Júlia Cavalcanti
+673,Distrito Federal,DF,Barros da Mata,Trevo Azevedo
+674,Distrito Federal,DF,Barros da Mata,Vale de Azevedo
+675,Distrito Federal,DF,Barros da Mata,Vila Fernandes
+676,Distrito Federal,DF,da Mota,Vale Dias
+677,Distrito Federal,DF,da Mota,Lagoa Nascimento
+678,Distrito Federal,DF,da Mota,Núcleo Dias
+679,Distrito Federal,DF,da Mota,Loteamento de da Paz
+680,Distrito Federal,DF,da Mota,Recanto Araújo
+681,Distrito Federal,DF,Carvalho,Área de da Rocha
+682,Distrito Federal,DF,Carvalho,Loteamento Araújo
+683,Distrito Federal,DF,Carvalho,Favela Araújo
+684,Distrito Federal,DF,Carvalho,Alameda de Cavalcanti
+685,Distrito Federal,DF,Carvalho,Lagoa Amanda Moreira
+686,Distrito Federal,DF,Nunes Verde,Residencial Clara da Costa
+687,Distrito Federal,DF,Nunes Verde,Lagoa de da Paz
+688,Distrito Federal,DF,Nunes Verde,Colônia de Almeida
+689,Distrito Federal,DF,Nunes Verde,Vereda Monteiro
+690,Distrito Federal,DF,Nunes Verde,Largo de da Costa
+691,Distrito Federal,DF,da Conceição de Goiás,Passarela da Conceição
+692,Distrito Federal,DF,da Conceição de Goiás,Vale de Rezende
+693,Distrito Federal,DF,da Conceição de Goiás,Chácara Santos
+694,Distrito Federal,DF,da Conceição de Goiás,Parque Maitê Almeida
+695,Distrito Federal,DF,da Conceição de Goiás,Rua Caio Campos
+696,Distrito Federal,DF,Fogaça,Distrito Ramos
+697,Distrito Federal,DF,Fogaça,Vila de Melo
+698,Distrito Federal,DF,Fogaça,Distrito Kaique Cardoso
+699,Distrito Federal,DF,Fogaça,Vale Pietro Ramos
+700,Distrito Federal,DF,Fogaça,Chácara de Rodrigues
+701,Espírito Santo,ES,Almeida Paulista,Recanto de da Rocha
+702,Espírito Santo,ES,Almeida Paulista,Parque de Novaes
+703,Espírito Santo,ES,Almeida Paulista,Esplanada Breno Freitas
+704,Espírito Santo,ES,Almeida Paulista,Viela de Dias
+705,Espírito Santo,ES,Almeida Paulista,Residencial Cavalcanti
+706,Espírito Santo,ES,Cavalcanti Grande,Vale Jesus
+707,Espírito Santo,ES,Cavalcanti Grande,Distrito de Moraes
+708,Espírito Santo,ES,Cavalcanti Grande,Praça de Silveira
+709,Espírito Santo,ES,Cavalcanti Grande,Lagoa Pires
+710,Espírito Santo,ES,Cavalcanti Grande,Distrito Júlia das Neves
+711,Espírito Santo,ES,da Mota do Sul,Vale Pires
+712,Espírito Santo,ES,da Mota do Sul,Colônia Luiz Gustavo Rezende
+713,Espírito Santo,ES,da Mota do Sul,Loteamento Calebe Martins
+714,Espírito Santo,ES,da Mota do Sul,Morro Luigi Pereira
+715,Espírito Santo,ES,da Mota do Sul,Via de Correia
+716,Espírito Santo,ES,Cavalcanti,Aeroporto Costela
+717,Espírito Santo,ES,Cavalcanti,Rua Campos
+718,Espírito Santo,ES,Cavalcanti,Praça Alexandre Rocha
+719,Espírito Santo,ES,Cavalcanti,Colônia Fogaça
+720,Espírito Santo,ES,Cavalcanti,Favela de Viana
+721,Espírito Santo,ES,Dias,Condomínio de Silveira
+722,Espírito Santo,ES,Dias,Vereda Ryan Fogaça
+723,Espírito Santo,ES,Dias,Aeroporto Davi Luiz Alves
+724,Espírito Santo,ES,Dias,Campo Monteiro
+725,Espírito Santo,ES,Dias,Estação de Moraes
+726,Espírito Santo,ES,Araújo dos Dourados,Travessa da Mota
+727,Espírito Santo,ES,Araújo dos Dourados,Estrada Benício Melo
+728,Espírito Santo,ES,Araújo dos Dourados,Travessa Gonçalves
+729,Espírito Santo,ES,Araújo dos Dourados,Núcleo João Felipe Moraes
+730,Espírito Santo,ES,Araújo dos Dourados,Avenida de Lopes
+731,Espírito Santo,ES,Peixoto do Campo,Aeroporto Nicolas Ramos
+732,Espírito Santo,ES,Peixoto do Campo,Praça de Pereira
+733,Espírito Santo,ES,Peixoto do Campo,Morro de Ribeiro
+734,Espírito Santo,ES,Peixoto do Campo,Aeroporto Clarice Souza
+735,Espírito Santo,ES,Peixoto do Campo,Vale de Sales
+736,Espírito Santo,ES,Lima Paulista,Setor de Alves
+737,Espírito Santo,ES,Lima Paulista,Área Nogueira
+738,Espírito Santo,ES,Lima Paulista,Sítio Barbosa
+739,Espírito Santo,ES,Lima Paulista,Praia João Felipe Rodrigues
+740,Espírito Santo,ES,Lima Paulista,Praia Elisa Martins
+741,Espírito Santo,ES,Souza Alegre,Travessa da Cunha
+742,Espírito Santo,ES,Souza Alegre,Trevo Nogueira
+743,Espírito Santo,ES,Souza Alegre,Colônia Ana Vitória Cavalcanti
+744,Espírito Santo,ES,Souza Alegre,Travessa Monteiro
+745,Espírito Santo,ES,Souza Alegre,Vereda Gustavo Henrique Pires
+746,Espírito Santo,ES,da Luz,Largo Letícia Dias
+747,Espírito Santo,ES,da Luz,Fazenda de Ribeiro
+748,Espírito Santo,ES,da Luz,Via Luiz Fernando Santos
+749,Espírito Santo,ES,da Luz,Fazenda de da Cunha
+750,Espírito Santo,ES,da Luz,Distrito de Freitas
+751,Espírito Santo,ES,Melo de Teixeira,Chácara Gomes
+752,Espírito Santo,ES,Melo de Teixeira,Lagoa Pereira
+753,Espírito Santo,ES,Melo de Teixeira,Quadra Lopes
+754,Espírito Santo,ES,Melo de Teixeira,Trevo de Moura
+755,Espírito Santo,ES,Melo de Teixeira,Conjunto Isis Martins
+756,Espírito Santo,ES,Monteiro,Rua de Sales
+757,Espírito Santo,ES,Monteiro,Conjunto de Cardoso
+758,Espírito Santo,ES,Monteiro,Sítio Barbosa
+759,Espírito Santo,ES,Monteiro,Passarela de Rezende
+760,Espírito Santo,ES,Monteiro,Residencial de Almeida
+761,Espírito Santo,ES,Fogaça de Minas,Aeroporto Luiz Miguel Dias
+762,Espírito Santo,ES,Fogaça de Minas,Campo Yuri Dias
+763,Espírito Santo,ES,Fogaça de Minas,Morro Vieira
+764,Espírito Santo,ES,Fogaça de Minas,Jardim Gomes
+765,Espírito Santo,ES,Fogaça de Minas,Colônia de Almeida
+766,Espírito Santo,ES,Vieira,Trecho Cardoso
+767,Espírito Santo,ES,Vieira,Lagoa de Barros
+768,Espírito Santo,ES,Vieira,Vale da Cunha
+769,Espírito Santo,ES,Vieira,Distrito Ana Julia Gomes
+770,Espírito Santo,ES,Vieira,Quadra Samuel Lopes
+771,Espírito Santo,ES,Rodrigues,Travessa de Costa
+772,Espírito Santo,ES,Rodrigues,Sítio de Alves
+773,Espírito Santo,ES,Rodrigues,Jardim de da Cruz
+774,Espírito Santo,ES,Rodrigues,Praça Mirella Rezende
+775,Espírito Santo,ES,Rodrigues,Largo de Fogaça
+776,Espírito Santo,ES,da Cunha Alegre,Setor Julia Teixeira
+777,Espírito Santo,ES,da Cunha Alegre,Chácara de Ferreira
+778,Espírito Santo,ES,da Cunha Alegre,Trevo Julia Silveira
+779,Espírito Santo,ES,da Cunha Alegre,Distrito Lopes
+780,Espírito Santo,ES,da Cunha Alegre,Ladeira Ana Vitória Souza
+781,Espírito Santo,ES,Lopes das Pedras,Rodovia da Rocha
+782,Espírito Santo,ES,Lopes das Pedras,Favela de Sales
+783,Espírito Santo,ES,Lopes das Pedras,Colônia Moraes
+784,Espírito Santo,ES,Lopes das Pedras,Praia Cunha
+785,Espírito Santo,ES,Lopes das Pedras,Jardim Maysa Cardoso
+786,Espírito Santo,ES,Pinto,Área de Aragão
+787,Espírito Santo,ES,Pinto,Pátio Jesus
+788,Espírito Santo,ES,Pinto,Avenida Vieira
+789,Espírito Santo,ES,Pinto,Residencial da Mota
+790,Espírito Santo,ES,Pinto,Estação Laís Cardoso
+791,Espírito Santo,ES,Martins das Pedras,Travessa Julia Cavalcanti
+792,Espírito Santo,ES,Martins das Pedras,Recanto de da Rosa
+793,Espírito Santo,ES,Martins das Pedras,Setor Miguel Rodrigues
+794,Espírito Santo,ES,Martins das Pedras,Alameda Ian Silva
+795,Espírito Santo,ES,Martins das Pedras,Sítio de Mendes
+796,Espírito Santo,ES,Cunha Grande,Loteamento de Pereira
+797,Espírito Santo,ES,Cunha Grande,Colônia Fernandes
+798,Espírito Santo,ES,Cunha Grande,Ladeira Milena da Rocha
+799,Espírito Santo,ES,Cunha Grande,Aeroporto Ian Freitas
+800,Espírito Santo,ES,Cunha Grande,Estação Barros
+801,Goiás,GO,Dias,Vereda de Nascimento
+802,Goiás,GO,Dias,Rua de da Rosa
+803,Goiás,GO,Dias,Morro Lívia Rocha
+804,Goiás,GO,Dias,Rodovia André da Rosa
+805,Goiás,GO,Dias,Pátio de Almeida
+806,Goiás,GO,Rocha,Estação Diogo Pires
+807,Goiás,GO,Rocha,Parque de da Cruz
+808,Goiás,GO,Rocha,Aeroporto de Costa
+809,Goiás,GO,Rocha,Residencial de Santos
+810,Goiás,GO,Rocha,Morro Rocha
+811,Goiás,GO,da Mata,Fazenda Gustavo Ferreira
+812,Goiás,GO,da Mata,Esplanada da Mata
+813,Goiás,GO,da Mata,Recanto Gonçalves
+814,Goiás,GO,da Mata,Colônia Nathan Cavalcanti
+815,Goiás,GO,da Mata,Avenida Isaac Rocha
+816,Goiás,GO,Ribeiro,Rua Moura
+817,Goiás,GO,Ribeiro,Loteamento João Miguel Monteiro
+818,Goiás,GO,Ribeiro,Ladeira Bruna Duarte
+819,Goiás,GO,Ribeiro,Vale Clarice Caldeira
+820,Goiás,GO,Ribeiro,Rodovia de da Rocha
+821,Goiás,GO,Souza da Mata,Rodovia Barros
+822,Goiás,GO,Souza da Mata,Parque Jesus
+823,Goiás,GO,Souza da Mata,Sítio Enzo Gabriel Martins
+824,Goiás,GO,Souza da Mata,Recanto Silveira
+825,Goiás,GO,Souza da Mata,Travessa de Monteiro
+826,Goiás,GO,Farias,Vereda Almeida
+827,Goiás,GO,Farias,Conjunto Fogaça
+828,Goiás,GO,Farias,Esplanada da Rosa
+829,Goiás,GO,Farias,Praça de Santos
+830,Goiás,GO,Farias,Favela Noah Ramos
+831,Goiás,GO,Ribeiro,Lago de Castro
+832,Goiás,GO,Ribeiro,Parque de Aragão
+833,Goiás,GO,Ribeiro,Campo de da Rocha
+834,Goiás,GO,Ribeiro,Vereda Martins
+835,Goiás,GO,Ribeiro,Loteamento da Rocha
+836,Goiás,GO,da Cruz de Vieira,Campo de Lima
+837,Goiás,GO,da Cruz de Vieira,Chácara da Rocha
+838,Goiás,GO,da Cruz de Vieira,Fazenda de Cunha
+839,Goiás,GO,da Cruz de Vieira,Conjunto Barbosa
+840,Goiás,GO,da Cruz de Vieira,Ladeira Alves
+841,Goiás,GO,Souza,Quadra Luiz Gustavo da Mata
+842,Goiás,GO,Souza,Área Cardoso
+843,Goiás,GO,Souza,Recanto de da Mota
+844,Goiás,GO,Souza,Viaduto de da Rocha
+845,Goiás,GO,Souza,Condomínio de Aragão
+846,Goiás,GO,Rocha Verde,Via da Conceição
+847,Goiás,GO,Rocha Verde,Parque de Rocha
+848,Goiás,GO,Rocha Verde,Estação Raquel Sales
+849,Goiás,GO,Rocha Verde,Sítio de Carvalho
+850,Goiás,GO,Rocha Verde,Vila Fogaça
+851,Goiás,GO,Novaes,Sítio de Azevedo
+852,Goiás,GO,Novaes,Estação João Guilherme da Costa
+853,Goiás,GO,Novaes,Jardim Cardoso
+854,Goiás,GO,Novaes,Quadra Luigi Santos
+855,Goiás,GO,Novaes,Vila de Nunes
+856,Goiás,GO,Mendes,Setor Erick Moraes
+857,Goiás,GO,Mendes,Viaduto Alícia Barros
+858,Goiás,GO,Mendes,Rodovia Joaquim Cavalcanti
+859,Goiás,GO,Mendes,Lago de Nogueira
+860,Goiás,GO,Mendes,Praia Fogaça
+861,Goiás,GO,das Neves da Praia,Conjunto Nathan Cunha
+862,Goiás,GO,das Neves da Praia,Alameda Valentina Souza
+863,Goiás,GO,das Neves da Praia,Setor Eduardo Nogueira
+864,Goiás,GO,das Neves da Praia,Lagoa de da Cunha
+865,Goiás,GO,das Neves da Praia,Condomínio Barros
+866,Goiás,GO,da Rosa Paulista,Ladeira de Rezende
+867,Goiás,GO,da Rosa Paulista,Loteamento de da Mota
+868,Goiás,GO,da Rosa Paulista,Conjunto Cardoso
+869,Goiás,GO,da Rosa Paulista,Residencial de Costa
+870,Goiás,GO,da Rosa Paulista,Condomínio de Souza
+871,Goiás,GO,Caldeira Alegre,Quadra de Farias
+872,Goiás,GO,Caldeira Alegre,Vila Sabrina Silveira
+873,Goiás,GO,Caldeira Alegre,Conjunto Enrico Silveira
+874,Goiás,GO,Caldeira Alegre,Vale Carlos Eduardo da Rosa
+875,Goiás,GO,Caldeira Alegre,Sítio de Melo
+876,Goiás,GO,Cardoso,Conjunto Enrico Cardoso
+877,Goiás,GO,Cardoso,Lagoa de Castro
+878,Goiás,GO,Cardoso,Distrito de Silveira
+879,Goiás,GO,Cardoso,Trevo de Vieira
+880,Goiás,GO,Cardoso,Avenida de Melo
+881,Goiás,GO,Mendes de da Luz,Jardim Nogueira
+882,Goiás,GO,Mendes de da Luz,Fazenda Isaac Costa
+883,Goiás,GO,Mendes de da Luz,Lagoa Costela
+884,Goiás,GO,Mendes de da Luz,Residencial de Aragão
+885,Goiás,GO,Mendes de da Luz,Alameda Vitor Hugo Costa
+886,Goiás,GO,Farias das Flores,Loteamento da Cunha
+887,Goiás,GO,Farias das Flores,Quadra Alexandre da Paz
+888,Goiás,GO,Farias das Flores,Alameda Bernardo Teixeira
+889,Goiás,GO,Farias das Flores,Travessa de Costa
+890,Goiás,GO,Farias das Flores,Alameda de Vieira
+891,Goiás,GO,Gomes,Conjunto Freitas
+892,Goiás,GO,Gomes,Recanto Davi Lucca Souza
+893,Goiás,GO,Gomes,Viela Felipe Caldeira
+894,Goiás,GO,Gomes,Lago Novaes
+895,Goiás,GO,Gomes,Fazenda Nicole da Luz
+896,Goiás,GO,Ferreira,Via Santos
+897,Goiás,GO,Ferreira,Conjunto Augusto Silva
+898,Goiás,GO,Ferreira,Área Carvalho
+899,Goiás,GO,Ferreira,Praia Dias
+900,Goiás,GO,Ferreira,Distrito de da Rosa
+901,Maranhão,MA,Nunes,Esplanada Teixeira
+902,Maranhão,MA,Nunes,Praia Dias
+903,Maranhão,MA,Nunes,Passarela de Ramos
+904,Maranhão,MA,Nunes,Sítio da Conceição
+905,Maranhão,MA,Nunes,Praia Silveira
+906,Maranhão,MA,da Conceição,Rodovia de Martins
+907,Maranhão,MA,da Conceição,Vila de Araújo
+908,Maranhão,MA,da Conceição,Trecho João Felipe Viana
+909,Maranhão,MA,da Conceição,Recanto João Miguel Aragão
+910,Maranhão,MA,da Conceição,Sítio de Rezende
+911,Maranhão,MA,Azevedo,Travessa de Barbosa
+912,Maranhão,MA,Azevedo,Conjunto Diogo Alves
+913,Maranhão,MA,Azevedo,Vila de Jesus
+914,Maranhão,MA,Azevedo,Distrito Vitor Gabriel Aragão
+915,Maranhão,MA,Azevedo,Passarela Luiza Farias
+916,Maranhão,MA,Ribeiro das Flores,Pátio de Correia
+917,Maranhão,MA,Ribeiro das Flores,Pátio de Silva
+918,Maranhão,MA,Ribeiro das Flores,Vale de Nascimento
+919,Maranhão,MA,Ribeiro das Flores,Sítio Ryan Costela
+920,Maranhão,MA,Ribeiro das Flores,Pátio de das Neves
+921,Maranhão,MA,das Neves,Estação da Mata
+922,Maranhão,MA,das Neves,Condomínio de Pereira
+923,Maranhão,MA,das Neves,Avenida de da Conceição
+924,Maranhão,MA,das Neves,Lagoa Rezende
+925,Maranhão,MA,das Neves,Passarela de Silveira
+926,Maranhão,MA,Lopes,Condomínio Lorena Barbosa
+927,Maranhão,MA,Lopes,Rua de Caldeira
+928,Maranhão,MA,Lopes,Lago Diego Duarte
+929,Maranhão,MA,Lopes,Parque de Viana
+930,Maranhão,MA,Lopes,Setor Rezende
+931,Maranhão,MA,Campos,Praça Lopes
+932,Maranhão,MA,Campos,Trecho da Mota
+933,Maranhão,MA,Campos,Núcleo Aragão
+934,Maranhão,MA,Campos,Residencial Caldeira
+935,Maranhão,MA,Campos,Núcleo de Souza
+936,Maranhão,MA,Aragão,Morro Maria Clara Cardoso
+937,Maranhão,MA,Aragão,Vale Maria Fernanda Azevedo
+938,Maranhão,MA,Aragão,Parque de Cavalcanti
+939,Maranhão,MA,Aragão,Quadra Ana Sophia da Cunha
+940,Maranhão,MA,Aragão,Vale de Moreira
+941,Maranhão,MA,Lopes dos Dourados,Viela de Cardoso
+942,Maranhão,MA,Lopes dos Dourados,Residencial Antônio Mendes
+943,Maranhão,MA,Lopes dos Dourados,Lagoa de Ribeiro
+944,Maranhão,MA,Lopes dos Dourados,Praia Aragão
+945,Maranhão,MA,Lopes dos Dourados,Fazenda Pereira
+946,Maranhão,MA,Nunes,Praia Gabrielly Cunha
+947,Maranhão,MA,Nunes,Colônia de Vieira
+948,Maranhão,MA,Nunes,Praia Lopes
+949,Maranhão,MA,Nunes,Condomínio João Felipe da Mota
+950,Maranhão,MA,Nunes,Núcleo Nunes
+951,Maranhão,MA,Teixeira da Prata,Viela Luiza Correia
+952,Maranhão,MA,Teixeira da Prata,Vereda Souza
+953,Maranhão,MA,Teixeira da Prata,Distrito Maria Fernanda Gonçalves
+954,Maranhão,MA,Teixeira da Prata,Avenida Cauã Ribeiro
+955,Maranhão,MA,Teixeira da Prata,Loteamento de Nogueira
+956,Maranhão,MA,Costa Verde,Chácara Ana Lívia Almeida
+957,Maranhão,MA,Costa Verde,Sítio da Mata
+958,Maranhão,MA,Costa Verde,Rodovia Cardoso
+959,Maranhão,MA,Costa Verde,Condomínio Maria Alice Lopes
+960,Maranhão,MA,Costa Verde,Colônia de Aragão
+961,Maranhão,MA,Moura do Oeste,Setor Fernanda Cardoso
+962,Maranhão,MA,Moura do Oeste,Jardim de Oliveira
+963,Maranhão,MA,Moura do Oeste,Jardim Sales
+964,Maranhão,MA,Moura do Oeste,Via Oliveira
+965,Maranhão,MA,Moura do Oeste,Rodovia Leandro Melo
+966,Maranhão,MA,Novaes,Travessa Freitas
+967,Maranhão,MA,Novaes,Praia Almeida
+968,Maranhão,MA,Novaes,Núcleo Eduarda Nogueira
+969,Maranhão,MA,Novaes,Trecho Larissa Santos
+970,Maranhão,MA,Novaes,Residencial Fernandes
+971,Maranhão,MA,Gomes Paulista,Recanto Moraes
+972,Maranhão,MA,Gomes Paulista,Campo Monteiro
+973,Maranhão,MA,Gomes Paulista,Conjunto de da Rocha
+974,Maranhão,MA,Gomes Paulista,Alameda Cauã da Cruz
+975,Maranhão,MA,Gomes Paulista,Jardim de Monteiro
+976,Maranhão,MA,Carvalho,Fazenda Sofia Nogueira
+977,Maranhão,MA,Carvalho,Estação de Viana
+978,Maranhão,MA,Carvalho,Viela Murilo Lima
+979,Maranhão,MA,Carvalho,Residencial de Barros
+980,Maranhão,MA,Carvalho,Ladeira Martins
+981,Maranhão,MA,Nogueira Alegre,Setor de Pires
+982,Maranhão,MA,Nogueira Alegre,Viela Gustavo Henrique da Rocha
+983,Maranhão,MA,Nogueira Alegre,Aeroporto Gomes
+984,Maranhão,MA,Nogueira Alegre,Praia de Cavalcanti
+985,Maranhão,MA,Nogueira Alegre,Rua da Mota
+986,Maranhão,MA,Rezende de da Costa,Colônia Brenda Novaes
+987,Maranhão,MA,Rezende de da Costa,Aeroporto Cecília Moraes
+988,Maranhão,MA,Rezende de da Costa,Rodovia Renan Almeida
+989,Maranhão,MA,Rezende de da Costa,Estrada de Aragão
+990,Maranhão,MA,Rezende de da Costa,Jardim de Viana
+991,Maranhão,MA,Rodrigues,Via de Moraes
+992,Maranhão,MA,Rodrigues,Passarela Luiza Aragão
+993,Maranhão,MA,Rodrigues,Avenida de Santos
+994,Maranhão,MA,Rodrigues,Conjunto Vitor Ribeiro
+995,Maranhão,MA,Rodrigues,Travessa Alves
+996,Maranhão,MA,Porto,Rua Pinto
+997,Maranhão,MA,Porto,Trevo Ana Vitória Melo
+998,Maranhão,MA,Porto,Esplanada da Rosa
+999,Maranhão,MA,Porto,Rua Vitor Santos
+1000,Maranhão,MA,Porto,Pátio André da Mata
+1001,Mato Grosso,MT,da Cunha,Núcleo Kamilly Peixoto
+1002,Mato Grosso,MT,da Cunha,Esplanada Larissa Farias
+1003,Mato Grosso,MT,da Cunha,Área Pires
+1004,Mato Grosso,MT,da Cunha,Ladeira de Rocha
+1005,Mato Grosso,MT,da Cunha,Conjunto Fernanda Cardoso
+1006,Mato Grosso,MT,Costa,Parque de da Cruz
+1007,Mato Grosso,MT,Costa,Trecho Pinto
+1008,Mato Grosso,MT,Costa,Chácara Maria Fernanda Martins
+1009,Mato Grosso,MT,Costa,Viela de Gomes
+1010,Mato Grosso,MT,Costa,Conjunto de Santos
+1011,Mato Grosso,MT,Caldeira,Favela Ana Julia Peixoto
+1012,Mato Grosso,MT,Caldeira,Trecho de Martins
+1013,Mato Grosso,MT,Caldeira,Loteamento de Costela
+1014,Mato Grosso,MT,Caldeira,Praia Leandro da Conceição
+1015,Mato Grosso,MT,Caldeira,Condomínio Mirella da Mota
+1016,Mato Grosso,MT,Ribeiro,Lagoa Pires
+1017,Mato Grosso,MT,Ribeiro,Viela de Rodrigues
+1018,Mato Grosso,MT,Ribeiro,Aeroporto de Ferreira
+1019,Mato Grosso,MT,Ribeiro,Recanto Rezende
+1020,Mato Grosso,MT,Ribeiro,Vereda da Conceição
+1021,Mato Grosso,MT,Jesus da Serra,Aeroporto da Rocha
+1022,Mato Grosso,MT,Jesus da Serra,Colônia de Sales
+1023,Mato Grosso,MT,Jesus da Serra,Lago Isaac Ramos
+1024,Mato Grosso,MT,Jesus da Serra,Passarela de Silveira
+1025,Mato Grosso,MT,Jesus da Serra,Trevo Ana Clara Ramos
+1026,Mato Grosso,MT,Peixoto Verde,Alameda Silveira
+1027,Mato Grosso,MT,Peixoto Verde,Viaduto Vitor Monteiro
+1028,Mato Grosso,MT,Peixoto Verde,Lagoa de Moraes
+1029,Mato Grosso,MT,Peixoto Verde,Campo de Fogaça
+1030,Mato Grosso,MT,Peixoto Verde,Jardim Martins
+1031,Mato Grosso,MT,Nogueira,Aeroporto Castro
+1032,Mato Grosso,MT,Nogueira,Feira de Correia
+1033,Mato Grosso,MT,Nogueira,Rodovia Ramos
+1034,Mato Grosso,MT,Nogueira,Distrito de Novaes
+1035,Mato Grosso,MT,Nogueira,Distrito de Moraes
+1036,Mato Grosso,MT,Barros Verde,Largo de Ramos
+1037,Mato Grosso,MT,Barros Verde,Via Aragão
+1038,Mato Grosso,MT,Barros Verde,Residencial de Dias
+1039,Mato Grosso,MT,Barros Verde,Recanto Nicolas da Cruz
+1040,Mato Grosso,MT,Barros Verde,Lago Vieira
+1041,Mato Grosso,MT,Rocha,Condomínio de Barbosa
+1042,Mato Grosso,MT,Rocha,Setor Carolina Gomes
+1043,Mato Grosso,MT,Rocha,Viaduto Matheus Alves
+1044,Mato Grosso,MT,Rocha,Feira Barros
+1045,Mato Grosso,MT,Rocha,Viela de Novaes
+1046,Mato Grosso,MT,Cardoso de da Conceição,Loteamento de Campos
+1047,Mato Grosso,MT,Cardoso de da Conceição,Área Costa
+1048,Mato Grosso,MT,Cardoso de da Conceição,Área Laís Freitas
+1049,Mato Grosso,MT,Cardoso de da Conceição,Lago Alves
+1050,Mato Grosso,MT,Cardoso de da Conceição,Área de Rezende
+1051,Mato Grosso,MT,da Paz,Aeroporto Isabel Lima
+1052,Mato Grosso,MT,da Paz,Lago de da Mota
+1053,Mato Grosso,MT,da Paz,Distrito da Costa
+1054,Mato Grosso,MT,da Paz,Lago de da Cunha
+1055,Mato Grosso,MT,da Paz,Trecho de Rodrigues
+1056,Mato Grosso,MT,Porto das Pedras,Loteamento de Rezende
+1057,Mato Grosso,MT,Porto das Pedras,Morro de Vieira
+1058,Mato Grosso,MT,Porto das Pedras,Distrito de da Mota
+1059,Mato Grosso,MT,Porto das Pedras,Loteamento Novaes
+1060,Mato Grosso,MT,Porto das Pedras,Parque Silveira
+1061,Mato Grosso,MT,Vieira de Minas,Alameda Miguel Silva
+1062,Mato Grosso,MT,Vieira de Minas,Parque Bruna Pires
+1063,Mato Grosso,MT,Vieira de Minas,Conjunto Bryan Farias
+1064,Mato Grosso,MT,Vieira de Minas,Viela Freitas
+1065,Mato Grosso,MT,Vieira de Minas,Pátio de Ramos
+1066,Mato Grosso,MT,Araújo Paulista,Colônia de Lima
+1067,Mato Grosso,MT,Araújo Paulista,Loteamento Lopes
+1068,Mato Grosso,MT,Araújo Paulista,Estrada da Mata
+1069,Mato Grosso,MT,Araújo Paulista,Estrada Manuela Dias
+1070,Mato Grosso,MT,Araújo Paulista,Aeroporto de Sales
+1071,Mato Grosso,MT,Mendes,Residencial Almeida
+1072,Mato Grosso,MT,Mendes,Favela Costela
+1073,Mato Grosso,MT,Mendes,Vereda Melo
+1074,Mato Grosso,MT,Mendes,Chácara Vitor Gabriel Barbosa
+1075,Mato Grosso,MT,Mendes,Largo Freitas
+1076,Mato Grosso,MT,Ribeiro,Núcleo Mirella Moraes
+1077,Mato Grosso,MT,Ribeiro,Praia Benjamin Azevedo
+1078,Mato Grosso,MT,Ribeiro,Pátio Souza
+1079,Mato Grosso,MT,Ribeiro,Viela de da Rocha
+1080,Mato Grosso,MT,Ribeiro,Vila de Ribeiro
+1081,Mato Grosso,MT,Sales,Lago Otávio da Rosa
+1082,Mato Grosso,MT,Sales,Aeroporto Gomes
+1083,Mato Grosso,MT,Sales,Estrada Thomas Gonçalves
+1084,Mato Grosso,MT,Sales,Pátio de Barros
+1085,Mato Grosso,MT,Sales,Lago Cardoso
+1086,Mato Grosso,MT,Gonçalves do Amparo,Colônia Ana Clara da Rocha
+1087,Mato Grosso,MT,Gonçalves do Amparo,Lago Mendes
+1088,Mato Grosso,MT,Gonçalves do Amparo,Aeroporto de das Neves
+1089,Mato Grosso,MT,Gonçalves do Amparo,Trevo Juan Caldeira
+1090,Mato Grosso,MT,Gonçalves do Amparo,Quadra de Aragão
+1091,Mato Grosso,MT,Melo,Setor da Rocha
+1092,Mato Grosso,MT,Melo,Condomínio de Vieira
+1093,Mato Grosso,MT,Melo,Recanto Júlia Vieira
+1094,Mato Grosso,MT,Melo,Setor de Nunes
+1095,Mato Grosso,MT,Melo,Setor de Peixoto
+1096,Mato Grosso,MT,Gonçalves,Pátio Nogueira
+1097,Mato Grosso,MT,Gonçalves,Viela de Lopes
+1098,Mato Grosso,MT,Gonçalves,Fazenda de da Conceição
+1099,Mato Grosso,MT,Gonçalves,Campo Augusto Souza
+1100,Mato Grosso,MT,Gonçalves,Estrada Vitor Hugo Pereira
+1101,Mato Grosso do Sul,MS,Jesus da Praia,Alameda Isaac da Paz
+1102,Mato Grosso do Sul,MS,Jesus da Praia,Jardim da Mota
+1103,Mato Grosso do Sul,MS,Jesus da Praia,Vale Nunes
+1104,Mato Grosso do Sul,MS,Jesus da Praia,Feira de Martins
+1105,Mato Grosso do Sul,MS,Jesus da Praia,Avenida Vieira
+1106,Mato Grosso do Sul,MS,Jesus,Praia de Rezende
+1107,Mato Grosso do Sul,MS,Jesus,Sítio de Barros
+1108,Mato Grosso do Sul,MS,Jesus,Área Fernandes
+1109,Mato Grosso do Sul,MS,Jesus,Estação Ramos
+1110,Mato Grosso do Sul,MS,Jesus,Ladeira de Teixeira
+1111,Mato Grosso do Sul,MS,Barros Alegre,Avenida de Teixeira
+1112,Mato Grosso do Sul,MS,Barros Alegre,Ladeira Emanuelly da Rosa
+1113,Mato Grosso do Sul,MS,Barros Alegre,Trevo de Rezende
+1114,Mato Grosso do Sul,MS,Barros Alegre,Avenida Cauê Moura
+1115,Mato Grosso do Sul,MS,Barros Alegre,Área Isis da Costa
+1116,Mato Grosso do Sul,MS,Santos,Praia Luiz Henrique Rocha
+1117,Mato Grosso do Sul,MS,Santos,Quadra Cunha
+1118,Mato Grosso do Sul,MS,Santos,Estação Barbosa
+1119,Mato Grosso do Sul,MS,Santos,Favela Peixoto
+1120,Mato Grosso do Sul,MS,Santos,Vila Erick Nogueira
+1121,Mato Grosso do Sul,MS,Ribeiro de Porto,Núcleo Silva
+1122,Mato Grosso do Sul,MS,Ribeiro de Porto,Favela Oliveira
+1123,Mato Grosso do Sul,MS,Ribeiro de Porto,Área de Freitas
+1124,Mato Grosso do Sul,MS,Ribeiro de Porto,Trevo Almeida
+1125,Mato Grosso do Sul,MS,Ribeiro de Porto,Passarela de Jesus
+1126,Mato Grosso do Sul,MS,Araújo,Via Maria Eduarda Pereira
+1127,Mato Grosso do Sul,MS,Araújo,Aeroporto Marcos Vinicius Almeida
+1128,Mato Grosso do Sul,MS,Araújo,Avenida Diego Sales
+1129,Mato Grosso do Sul,MS,Araújo,Parque Fernando Melo
+1130,Mato Grosso do Sul,MS,Araújo,Trevo de Araújo
+1131,Mato Grosso do Sul,MS,da Cruz,Vale Júlia Pereira
+1132,Mato Grosso do Sul,MS,da Cruz,Campo de Castro
+1133,Mato Grosso do Sul,MS,da Cruz,Lagoa Campos
+1134,Mato Grosso do Sul,MS,da Cruz,Travessa de Moura
+1135,Mato Grosso do Sul,MS,da Cruz,Estrada Aragão
+1136,Mato Grosso do Sul,MS,Cavalcanti Alegre,Pátio Farias
+1137,Mato Grosso do Sul,MS,Cavalcanti Alegre,Área de Pinto
+1138,Mato Grosso do Sul,MS,Cavalcanti Alegre,Vila de Araújo
+1139,Mato Grosso do Sul,MS,Cavalcanti Alegre,Vila de Barros
+1140,Mato Grosso do Sul,MS,Cavalcanti Alegre,Ladeira de Nunes
+1141,Mato Grosso do Sul,MS,Dias,Alameda Otávio Santos
+1142,Mato Grosso do Sul,MS,Dias,Rua Nunes
+1143,Mato Grosso do Sul,MS,Dias,Trecho Pinto
+1144,Mato Grosso do Sul,MS,Dias,Travessa de Nogueira
+1145,Mato Grosso do Sul,MS,Dias,Residencial de Lopes
+1146,Mato Grosso do Sul,MS,Oliveira,Passarela de Ribeiro
+1147,Mato Grosso do Sul,MS,Oliveira,Parque de Moreira
+1148,Mato Grosso do Sul,MS,Oliveira,Morro Ana Vitória Araújo
+1149,Mato Grosso do Sul,MS,Oliveira,Estação de Almeida
+1150,Mato Grosso do Sul,MS,Oliveira,Colônia Alves
+1151,Mato Grosso do Sul,MS,da Cunha da Serra,Quadra Melissa Vieira
+1152,Mato Grosso do Sul,MS,da Cunha da Serra,Viela Ian Araújo
+1153,Mato Grosso do Sul,MS,da Cunha da Serra,Chácara Oliveira
+1154,Mato Grosso do Sul,MS,da Cunha da Serra,Fazenda de da Cunha
+1155,Mato Grosso do Sul,MS,da Cunha da Serra,Loteamento Caio Ramos
+1156,Mato Grosso do Sul,MS,Castro,Lago Ana Júlia Souza
+1157,Mato Grosso do Sul,MS,Castro,Favela Barbosa
+1158,Mato Grosso do Sul,MS,Castro,Sítio Nunes
+1159,Mato Grosso do Sul,MS,Castro,Esplanada Azevedo
+1160,Mato Grosso do Sul,MS,Castro,Residencial de Cavalcanti
+1161,Mato Grosso do Sul,MS,Moura de Goiás,Vila Ana Clara Pinto
+1162,Mato Grosso do Sul,MS,Moura de Goiás,Pátio Freitas
+1163,Mato Grosso do Sul,MS,Moura de Goiás,Vila Sales
+1164,Mato Grosso do Sul,MS,Moura de Goiás,Travessa de da Cunha
+1165,Mato Grosso do Sul,MS,Moura de Goiás,Loteamento Lucca Souza
+1166,Mato Grosso do Sul,MS,Aragão,Quadra de Porto
+1167,Mato Grosso do Sul,MS,Aragão,Passarela de Jesus
+1168,Mato Grosso do Sul,MS,Aragão,Quadra de Teixeira
+1169,Mato Grosso do Sul,MS,Aragão,Fazenda Lívia Ferreira
+1170,Mato Grosso do Sul,MS,Aragão,Lagoa da Rocha
+1171,Mato Grosso do Sul,MS,Rocha Paulista,Rodovia Cardoso
+1172,Mato Grosso do Sul,MS,Rocha Paulista,Travessa Pereira
+1173,Mato Grosso do Sul,MS,Rocha Paulista,Área Rafael Azevedo
+1174,Mato Grosso do Sul,MS,Rocha Paulista,Campo de Cardoso
+1175,Mato Grosso do Sul,MS,Rocha Paulista,Colônia Ana Lívia Porto
+1176,Mato Grosso do Sul,MS,Moura de Goiás,Distrito Azevedo
+1177,Mato Grosso do Sul,MS,Moura de Goiás,Setor de da Luz
+1178,Mato Grosso do Sul,MS,Moura de Goiás,Quadra Silva
+1179,Mato Grosso do Sul,MS,Moura de Goiás,Passarela de Barbosa
+1180,Mato Grosso do Sul,MS,Moura de Goiás,Recanto Nina Souza
+1181,Mato Grosso do Sul,MS,Novaes,Lagoa de Fernandes
+1182,Mato Grosso do Sul,MS,Novaes,Aeroporto Rodrigo Costa
+1183,Mato Grosso do Sul,MS,Novaes,Chácara de Farias
+1184,Mato Grosso do Sul,MS,Novaes,Pátio Esther Lopes
+1185,Mato Grosso do Sul,MS,Novaes,Largo de Campos
+1186,Mato Grosso do Sul,MS,Caldeira,Trecho Cauã Araújo
+1187,Mato Grosso do Sul,MS,Caldeira,Rodovia de Nascimento
+1188,Mato Grosso do Sul,MS,Caldeira,Ladeira João Caldeira
+1189,Mato Grosso do Sul,MS,Caldeira,Loteamento Theo Cavalcanti
+1190,Mato Grosso do Sul,MS,Caldeira,Viela de Gomes
+1191,Mato Grosso do Sul,MS,Aragão do Norte,Viela Lima
+1192,Mato Grosso do Sul,MS,Aragão do Norte,Viaduto da Cunha
+1193,Mato Grosso do Sul,MS,Aragão do Norte,Vale Lopes
+1194,Mato Grosso do Sul,MS,Aragão do Norte,Recanto da Rocha
+1195,Mato Grosso do Sul,MS,Aragão do Norte,Rodovia de da Rosa
+1196,Mato Grosso do Sul,MS,Gonçalves,Estação Maysa Castro
+1197,Mato Grosso do Sul,MS,Gonçalves,Residencial Noah Barros
+1198,Mato Grosso do Sul,MS,Gonçalves,Feira Nogueira
+1199,Mato Grosso do Sul,MS,Gonçalves,Largo Cavalcanti
+1200,Mato Grosso do Sul,MS,Gonçalves,Quadra de Nascimento
+1201,Minas Gerais,MG,Melo de da Mata,Via Correia
+1202,Minas Gerais,MG,Melo de da Mata,Aeroporto de da Cruz
+1203,Minas Gerais,MG,Melo de da Mata,Travessa Viana
+1204,Minas Gerais,MG,Melo de da Mata,Chácara de Ribeiro
+1205,Minas Gerais,MG,Melo de da Mata,Rua Fogaça
+1206,Minas Gerais,MG,Porto da Praia,Largo de Rezende
+1207,Minas Gerais,MG,Porto da Praia,Praça Enrico Ribeiro
+1208,Minas Gerais,MG,Porto da Praia,Lago de Vieira
+1209,Minas Gerais,MG,Porto da Praia,Setor da Costa
+1210,Minas Gerais,MG,Porto da Praia,Travessa Gustavo Fogaça
+1211,Minas Gerais,MG,Santos de Costa,Praça Nogueira
+1212,Minas Gerais,MG,Santos de Costa,Pátio de Pereira
+1213,Minas Gerais,MG,Santos de Costa,Colônia de Santos
+1214,Minas Gerais,MG,Santos de Costa,Jardim Porto
+1215,Minas Gerais,MG,Santos de Costa,Jardim Nogueira
+1216,Minas Gerais,MG,da Mota das Flores,Viela Sophia Gonçalves
+1217,Minas Gerais,MG,da Mota das Flores,Viela Vitor Gabriel das Neves
+1218,Minas Gerais,MG,da Mota das Flores,Lagoa Barbosa
+1219,Minas Gerais,MG,da Mota das Flores,Jardim Juan da Paz
+1220,Minas Gerais,MG,da Mota das Flores,Colônia de Dias
+1221,Minas Gerais,MG,Aragão,Recanto Nogueira
+1222,Minas Gerais,MG,Aragão,Residencial Ramos
+1223,Minas Gerais,MG,Aragão,Jardim Erick Carvalho
+1224,Minas Gerais,MG,Aragão,Núcleo de Melo
+1225,Minas Gerais,MG,Aragão,Rodovia da Conceição
+1226,Minas Gerais,MG,Castro,Chácara de Moraes
+1227,Minas Gerais,MG,Castro,Setor Lavínia Correia
+1228,Minas Gerais,MG,Castro,Vereda Cardoso
+1229,Minas Gerais,MG,Castro,Chácara de Azevedo
+1230,Minas Gerais,MG,Castro,Rodovia de Cardoso
+1231,Minas Gerais,MG,da Rocha,Ladeira Julia Barros
+1232,Minas Gerais,MG,da Rocha,Praia Anthony Alves
+1233,Minas Gerais,MG,da Rocha,Conjunto de Martins
+1234,Minas Gerais,MG,da Rocha,Residencial Lopes
+1235,Minas Gerais,MG,da Rocha,Estação Isabella Mendes
+1236,Minas Gerais,MG,da Cruz de da Rocha,Loteamento de Pires
+1237,Minas Gerais,MG,da Cruz de da Rocha,Largo de Moreira
+1238,Minas Gerais,MG,da Cruz de da Rocha,Via Cardoso
+1239,Minas Gerais,MG,da Cruz de da Rocha,Morro Monteiro
+1240,Minas Gerais,MG,da Cruz de da Rocha,Alameda Valentina Cardoso
+1241,Minas Gerais,MG,Mendes das Pedras,Viaduto de Pires
+1242,Minas Gerais,MG,Mendes das Pedras,Morro Ribeiro
+1243,Minas Gerais,MG,Mendes das Pedras,Campo de Nogueira
+1244,Minas Gerais,MG,Mendes das Pedras,Colônia Erick da Conceição
+1245,Minas Gerais,MG,Mendes das Pedras,Avenida de Fogaça
+1246,Minas Gerais,MG,Cavalcanti de Minas,Favela Camila Martins
+1247,Minas Gerais,MG,Cavalcanti de Minas,Rodovia Thomas da Cunha
+1248,Minas Gerais,MG,Cavalcanti de Minas,Via Pietra Nogueira
+1249,Minas Gerais,MG,Cavalcanti de Minas,Fazenda de Sales
+1250,Minas Gerais,MG,Cavalcanti de Minas,Núcleo Guilherme Nascimento
+1251,Minas Gerais,MG,Peixoto Verde,Parque André Lopes
+1252,Minas Gerais,MG,Peixoto Verde,Setor Marcos Vinicius da Luz
+1253,Minas Gerais,MG,Peixoto Verde,Passarela Sarah Aragão
+1254,Minas Gerais,MG,Peixoto Verde,Colônia de Mendes
+1255,Minas Gerais,MG,Peixoto Verde,Campo Rezende
+1256,Minas Gerais,MG,Caldeira Verde,Área Valentina Peixoto
+1257,Minas Gerais,MG,Caldeira Verde,Viela Luiz Miguel das Neves
+1258,Minas Gerais,MG,Caldeira Verde,Condomínio da Mota
+1259,Minas Gerais,MG,Caldeira Verde,Avenida Novaes
+1260,Minas Gerais,MG,Caldeira Verde,Viaduto Cunha
+1261,Minas Gerais,MG,Moraes,Estação de da Paz
+1262,Minas Gerais,MG,Moraes,Colônia Peixoto
+1263,Minas Gerais,MG,Moraes,Lagoa Lívia Ribeiro
+1264,Minas Gerais,MG,Moraes,Distrito Lívia Oliveira
+1265,Minas Gerais,MG,Moraes,Campo Peixoto
+1266,Minas Gerais,MG,Carvalho de Cavalcanti,Fazenda da Conceição
+1267,Minas Gerais,MG,Carvalho de Cavalcanti,Distrito de Cardoso
+1268,Minas Gerais,MG,Carvalho de Cavalcanti,Viaduto João Felipe Moura
+1269,Minas Gerais,MG,Carvalho de Cavalcanti,Avenida Pinto
+1270,Minas Gerais,MG,Carvalho de Cavalcanti,Lago Rezende
+1271,Minas Gerais,MG,Barbosa,Estação Almeida
+1272,Minas Gerais,MG,Barbosa,Viaduto Marcelo da Cunha
+1273,Minas Gerais,MG,Barbosa,Avenida de Duarte
+1274,Minas Gerais,MG,Barbosa,Trevo Almeida
+1275,Minas Gerais,MG,Barbosa,Trecho Cecília da Rosa
+1276,Minas Gerais,MG,Moreira,Largo Bianca Costela
+1277,Minas Gerais,MG,Moreira,Feira Nunes
+1278,Minas Gerais,MG,Moreira,Rua Caldeira
+1279,Minas Gerais,MG,Moreira,Jardim Kamilly da Mota
+1280,Minas Gerais,MG,Moreira,Chácara Natália Santos
+1281,Minas Gerais,MG,Cunha dos Dourados,Conjunto Brenda da Cunha
+1282,Minas Gerais,MG,Cunha dos Dourados,Chácara de Gomes
+1283,Minas Gerais,MG,Cunha dos Dourados,Sítio Nunes
+1284,Minas Gerais,MG,Cunha dos Dourados,Quadra Julia Correia
+1285,Minas Gerais,MG,Cunha dos Dourados,Distrito Fernando da Mota
+1286,Minas Gerais,MG,Sales,Estrada de Novaes
+1287,Minas Gerais,MG,Sales,Sítio Moura
+1288,Minas Gerais,MG,Sales,Praça Maria Eduarda das Neves
+1289,Minas Gerais,MG,Sales,Viaduto Melo
+1290,Minas Gerais,MG,Sales,Pátio da Luz
+1291,Minas Gerais,MG,Melo do Galho,Setor Cauê Ferreira
+1292,Minas Gerais,MG,Melo do Galho,Praia Nogueira
+1293,Minas Gerais,MG,Melo do Galho,Feira de Fogaça
+1294,Minas Gerais,MG,Melo do Galho,Sítio Bryan Nogueira
+1295,Minas Gerais,MG,Melo do Galho,Lagoa de Freitas
+1296,Minas Gerais,MG,Monteiro,Chácara Kevin Gomes
+1297,Minas Gerais,MG,Monteiro,Estação Duarte
+1298,Minas Gerais,MG,Monteiro,Feira Beatriz Ramos
+1299,Minas Gerais,MG,Monteiro,Núcleo de Costa
+1300,Minas Gerais,MG,Monteiro,Alameda Kamilly da Mota
+1301,Pará,PA,Cardoso,Setor de Gonçalves
+1302,Pará,PA,Cardoso,Viaduto Lima
+1303,Pará,PA,Cardoso,Quadra de Caldeira
+1304,Pará,PA,Cardoso,Favela de da Conceição
+1305,Pará,PA,Cardoso,Estação Farias
+1306,Pará,PA,Gonçalves,Favela de Araújo
+1307,Pará,PA,Gonçalves,Praia Kamilly Moura
+1308,Pará,PA,Gonçalves,Rua Santos
+1309,Pará,PA,Gonçalves,Lagoa Peixoto
+1310,Pará,PA,Gonçalves,Praia Costela
+1311,Pará,PA,Ferreira da Mata,Praia Sarah Rezende
+1312,Pará,PA,Ferreira da Mata,Avenida Ana Julia Lima
+1313,Pará,PA,Ferreira da Mata,Via Cardoso
+1314,Pará,PA,Ferreira da Mata,Loteamento Valentina Gonçalves
+1315,Pará,PA,Ferreira da Mata,Núcleo Enzo Vieira
+1316,Pará,PA,Moura,Favela de Vieira
+1317,Pará,PA,Moura,Feira Henrique Cardoso
+1318,Pará,PA,Moura,Parque Levi da Rocha
+1319,Pará,PA,Moura,Vila Lucas Gabriel Porto
+1320,Pará,PA,Moura,Estrada Bryan Alves
+1321,Pará,PA,Souza dos Dourados,Ladeira Caroline Araújo
+1322,Pará,PA,Souza dos Dourados,Praça Marcela Fogaça
+1323,Pará,PA,Souza dos Dourados,Fazenda Costela
+1324,Pará,PA,Souza dos Dourados,Estrada Moreira
+1325,Pará,PA,Souza dos Dourados,Estação Joana Santos
+1326,Pará,PA,Castro do Amparo,Vale Ana Vitória Almeida
+1327,Pará,PA,Castro do Amparo,Colônia Luiz Fernando Moura
+1328,Pará,PA,Castro do Amparo,Rodovia de Moreira
+1329,Pará,PA,Castro do Amparo,Loteamento de Gonçalves
+1330,Pará,PA,Castro do Amparo,Estação Rodrigues
+1331,Pará,PA,Martins do Galho,Vereda Bruno Mendes
+1332,Pará,PA,Martins do Galho,Colônia Juliana da Cunha
+1333,Pará,PA,Martins do Galho,Parque Moraes
+1334,Pará,PA,Martins do Galho,Praia Maria Cecília da Rosa
+1335,Pará,PA,Martins do Galho,Viela de Jesus
+1336,Pará,PA,Gomes,Lago Barros
+1337,Pará,PA,Gomes,Fazenda Levi Rocha
+1338,Pará,PA,Gomes,Parque Gonçalves
+1339,Pará,PA,Gomes,Travessa André Cavalcanti
+1340,Pará,PA,Gomes,Condomínio Martins
+1341,Pará,PA,Farias de Ramos,Estrada Ana Laura Dias
+1342,Pará,PA,Farias de Ramos,Lago de Moreira
+1343,Pará,PA,Farias de Ramos,Estação Ferreira
+1344,Pará,PA,Farias de Ramos,Favela Pinto
+1345,Pará,PA,Farias de Ramos,Jardim Ramos
+1346,Pará,PA,Barros do Oeste,Praça de Freitas
+1347,Pará,PA,Barros do Oeste,Setor Rodrigues
+1348,Pará,PA,Barros do Oeste,Rua Marcelo Dias
+1349,Pará,PA,Barros do Oeste,Chácara Souza
+1350,Pará,PA,Barros do Oeste,Trevo de da Mota
+1351,Pará,PA,Ferreira do Norte,Distrito Lucas Gabriel Costela
+1352,Pará,PA,Ferreira do Norte,Passarela Duarte
+1353,Pará,PA,Ferreira do Norte,Favela de Santos
+1354,Pará,PA,Ferreira do Norte,Ladeira Ramos
+1355,Pará,PA,Ferreira do Norte,Aeroporto de Gomes
+1356,Pará,PA,da Costa,Aeroporto Luiz Gustavo Oliveira
+1357,Pará,PA,da Costa,Distrito Souza
+1358,Pará,PA,da Costa,Via Caldeira
+1359,Pará,PA,da Costa,Área Thomas Teixeira
+1360,Pará,PA,da Costa,Vale Cauê Lima
+1361,Pará,PA,Souza,Área da Luz
+1362,Pará,PA,Souza,Vale Theo Cardoso
+1363,Pará,PA,Souza,Favela da Rosa
+1364,Pará,PA,Souza,Praia Lara Alves
+1365,Pará,PA,Souza,Núcleo de Cunha
+1366,Pará,PA,Nogueira Alegre,Trecho Samuel Jesus
+1367,Pará,PA,Nogueira Alegre,Travessa de Nogueira
+1368,Pará,PA,Nogueira Alegre,Jardim Larissa da Cruz
+1369,Pará,PA,Nogueira Alegre,Trecho Castro
+1370,Pará,PA,Nogueira Alegre,Fazenda de Ramos
+1371,Pará,PA,Rezende,Condomínio de Cardoso
+1372,Pará,PA,Rezende,Morro de Santos
+1373,Pará,PA,Rezende,Setor Jesus
+1374,Pará,PA,Rezende,Rua Mendes
+1375,Pará,PA,Rezende,Núcleo de Pinto
+1376,Pará,PA,Cavalcanti,Morro Correia
+1377,Pará,PA,Cavalcanti,Pátio Lívia Ferreira
+1378,Pará,PA,Cavalcanti,Favela de Cunha
+1379,Pará,PA,Cavalcanti,Viela de Martins
+1380,Pará,PA,Cavalcanti,Colônia Moraes
+1381,Pará,PA,Azevedo da Mata,Núcleo de Cunha
+1382,Pará,PA,Azevedo da Mata,Avenida Pedro Miguel Freitas
+1383,Pará,PA,Azevedo da Mata,Viela Theo Pires
+1384,Pará,PA,Azevedo da Mata,Vila de Costela
+1385,Pará,PA,Azevedo da Mata,Morro de Pires
+1386,Pará,PA,Ramos do Norte,Estrada Ana Beatriz Castro
+1387,Pará,PA,Ramos do Norte,Lago de da Luz
+1388,Pará,PA,Ramos do Norte,Núcleo Pedro Martins
+1389,Pará,PA,Ramos do Norte,Quadra Otávio da Conceição
+1390,Pará,PA,Ramos do Norte,Parque Dias
+1391,Pará,PA,Moreira,Largo Lucas Gabriel Duarte
+1392,Pará,PA,Moreira,Rodovia Gabriela Nascimento
+1393,Pará,PA,Moreira,Estrada de Moraes
+1394,Pará,PA,Moreira,Trevo de Correia
+1395,Pará,PA,Moreira,Fazenda de Nunes
+1396,Pará,PA,Rocha,Lagoa Santos
+1397,Pará,PA,Rocha,Via Jesus
+1398,Pará,PA,Rocha,Via de da Paz
+1399,Pará,PA,Rocha,Vale de Almeida
+1400,Pará,PA,Rocha,Esplanada Ana Sophia Porto
+1401,Paraíba,PB,Novaes de Minas,Feira João Vitor Fernandes
+1402,Paraíba,PB,Novaes de Minas,Trevo da Paz
+1403,Paraíba,PB,Novaes de Minas,Passarela de Nascimento
+1404,Paraíba,PB,Novaes de Minas,Trevo Luiz Felipe Teixeira
+1405,Paraíba,PB,Novaes de Minas,Estação de Sales
+1406,Paraíba,PB,Moreira do Oeste,Parque Barbosa
+1407,Paraíba,PB,Moreira do Oeste,Lagoa Heloísa Novaes
+1408,Paraíba,PB,Moreira do Oeste,Travessa de Castro
+1409,Paraíba,PB,Moreira do Oeste,Condomínio Diogo Moura
+1410,Paraíba,PB,Moreira do Oeste,Fazenda Lopes
+1411,Paraíba,PB,das Neves Alegre,Lago da Paz
+1412,Paraíba,PB,das Neves Alegre,Travessa de Caldeira
+1413,Paraíba,PB,das Neves Alegre,Quadra Jesus
+1414,Paraíba,PB,das Neves Alegre,Trecho João Miguel Cavalcanti
+1415,Paraíba,PB,das Neves Alegre,Pátio Letícia Fogaça
+1416,Paraíba,PB,Correia,Praça Rafaela Duarte
+1417,Paraíba,PB,Correia,Aeroporto da Cruz
+1418,Paraíba,PB,Correia,Aeroporto Azevedo
+1419,Paraíba,PB,Correia,Setor Silva
+1420,Paraíba,PB,Correia,Avenida Gomes
+1421,Paraíba,PB,Dias,Morro de Ramos
+1422,Paraíba,PB,Dias,Trevo Fogaça
+1423,Paraíba,PB,Dias,Praça Rodrigo Gonçalves
+1424,Paraíba,PB,Dias,Área de Farias
+1425,Paraíba,PB,Dias,Feira Moreira
+1426,Paraíba,PB,Gomes Alegre,Condomínio de Sales
+1427,Paraíba,PB,Gomes Alegre,Praia de Melo
+1428,Paraíba,PB,Gomes Alegre,Distrito de Teixeira
+1429,Paraíba,PB,Gomes Alegre,Chácara da Rosa
+1430,Paraíba,PB,Gomes Alegre,Loteamento Esther Jesus
+1431,Paraíba,PB,Jesus Alegre,Recanto Aragão
+1432,Paraíba,PB,Jesus Alegre,Viela Henrique Jesus
+1433,Paraíba,PB,Jesus Alegre,Praça de Ramos
+1434,Paraíba,PB,Jesus Alegre,Estação de Ramos
+1435,Paraíba,PB,Jesus Alegre,Loteamento Gustavo Cunha
+1436,Paraíba,PB,Costa,Estrada Fernandes
+1437,Paraíba,PB,Costa,Lagoa da Paz
+1438,Paraíba,PB,Costa,Trevo Farias
+1439,Paraíba,PB,Costa,Aeroporto Isabella Monteiro
+1440,Paraíba,PB,Costa,Jardim Mariane Teixeira
+1441,Paraíba,PB,Vieira,Campo Rezende
+1442,Paraíba,PB,Vieira,Travessa Rocha
+1443,Paraíba,PB,Vieira,Trecho de Pires
+1444,Paraíba,PB,Vieira,Alameda de Alves
+1445,Paraíba,PB,Vieira,Largo Ana Clara da Costa
+1446,Paraíba,PB,Moura,Feira Freitas
+1447,Paraíba,PB,Moura,Pátio Nogueira
+1448,Paraíba,PB,Moura,Viaduto Gustavo da Conceição
+1449,Paraíba,PB,Moura,Rua Maria Alice Duarte
+1450,Paraíba,PB,Moura,Setor de da Luz
+1451,Paraíba,PB,Barbosa das Pedras,Vila Maria Eduarda da Rocha
+1452,Paraíba,PB,Barbosa das Pedras,Chácara Yasmin Lopes
+1453,Paraíba,PB,Barbosa das Pedras,Trevo de Araújo
+1454,Paraíba,PB,Barbosa das Pedras,Fazenda Otávio Barbosa
+1455,Paraíba,PB,Barbosa das Pedras,Conjunto de Fogaça
+1456,Paraíba,PB,Alves,Vale Luiz Felipe Farias
+1457,Paraíba,PB,Alves,Pátio Nascimento
+1458,Paraíba,PB,Alves,Residencial Erick Ribeiro
+1459,Paraíba,PB,Alves,Morro Murilo Nascimento
+1460,Paraíba,PB,Alves,Campo Gustavo Henrique Oliveira
+1461,Paraíba,PB,Cardoso,Lagoa de Viana
+1462,Paraíba,PB,Cardoso,Via Castro
+1463,Paraíba,PB,Cardoso,Trecho Maria Julia Lopes
+1464,Paraíba,PB,Cardoso,Condomínio de Silva
+1465,Paraíba,PB,Cardoso,Alameda de Moura
+1466,Paraíba,PB,Monteiro,Loteamento Alves
+1467,Paraíba,PB,Monteiro,Loteamento de Almeida
+1468,Paraíba,PB,Monteiro,Morro de Farias
+1469,Paraíba,PB,Monteiro,Aeroporto de Campos
+1470,Paraíba,PB,Monteiro,Vila Costela
+1471,Paraíba,PB,Ribeiro,Esplanada de Araújo
+1472,Paraíba,PB,Ribeiro,Largo Almeida
+1473,Paraíba,PB,Ribeiro,Praça de da Mota
+1474,Paraíba,PB,Ribeiro,Trevo de Santos
+1475,Paraíba,PB,Ribeiro,Ladeira Gonçalves
+1476,Paraíba,PB,Silva,Vereda de Vieira
+1477,Paraíba,PB,Silva,Chácara de Caldeira
+1478,Paraíba,PB,Silva,Vereda Pietro Campos
+1479,Paraíba,PB,Silva,Rodovia Lívia Rodrigues
+1480,Paraíba,PB,Silva,Rua de Cardoso
+1481,Paraíba,PB,Ferreira das Pedras,Núcleo de Correia
+1482,Paraíba,PB,Ferreira das Pedras,Favela Caio Porto
+1483,Paraíba,PB,Ferreira das Pedras,Trevo Fernando Viana
+1484,Paraíba,PB,Ferreira das Pedras,Travessa Gomes
+1485,Paraíba,PB,Ferreira das Pedras,Distrito Elisa Mendes
+1486,Paraíba,PB,Moraes,Trecho Mariana da Rosa
+1487,Paraíba,PB,Moraes,Viela Alexandre da Conceição
+1488,Paraíba,PB,Moraes,Passarela Maria Clara Alves
+1489,Paraíba,PB,Moraes,Esplanada de da Mata
+1490,Paraíba,PB,Moraes,Setor Freitas
+1491,Paraíba,PB,Cunha,Estrada Araújo
+1492,Paraíba,PB,Cunha,Ladeira Rebeca Rezende
+1493,Paraíba,PB,Cunha,Rodovia Sabrina Porto
+1494,Paraíba,PB,Cunha,Feira Cardoso
+1495,Paraíba,PB,Cunha,Largo de Araújo
+1496,Paraíba,PB,Nascimento,Rodovia Isadora Castro
+1497,Paraíba,PB,Nascimento,Conjunto de Carvalho
+1498,Paraíba,PB,Nascimento,Parque de Nogueira
+1499,Paraíba,PB,Nascimento,Sítio Lima
+1500,Paraíba,PB,Nascimento,Viela Rezende
+1501,Paraná,PR,Santos do Campo,Quadra de Ferreira
+1502,Paraná,PR,Santos do Campo,Passarela de Gomes
+1503,Paraná,PR,Santos do Campo,Morro Almeida
+1504,Paraná,PR,Santos do Campo,Lagoa de Vieira
+1505,Paraná,PR,Santos do Campo,Condomínio Diogo Cavalcanti
+1506,Paraná,PR,Rodrigues,Feira João Guilherme Novaes
+1507,Paraná,PR,Rodrigues,Trecho de Nunes
+1508,Paraná,PR,Rodrigues,Sítio da Mata
+1509,Paraná,PR,Rodrigues,Largo de Teixeira
+1510,Paraná,PR,Rodrigues,Pátio Bruno Fogaça
+1511,Paraná,PR,Duarte,Viela Maria Julia Freitas
+1512,Paraná,PR,Duarte,Avenida de da Paz
+1513,Paraná,PR,Duarte,Trevo Santos
+1514,Paraná,PR,Duarte,Via Ramos
+1515,Paraná,PR,Duarte,Lagoa Novaes
+1516,Paraná,PR,Fogaça,Lagoa Sofia da Cunha
+1517,Paraná,PR,Fogaça,Quadra Letícia Lima
+1518,Paraná,PR,Fogaça,Viela Benjamin Fernandes
+1519,Paraná,PR,Fogaça,Favela Azevedo
+1520,Paraná,PR,Fogaça,Ladeira de Mendes
+1521,Paraná,PR,Ramos,Vereda de Fernandes
+1522,Paraná,PR,Ramos,Condomínio das Neves
+1523,Paraná,PR,Ramos,Condomínio Davi Cardoso
+1524,Paraná,PR,Ramos,Setor Lorena da Rocha
+1525,Paraná,PR,Ramos,Sítio Felipe Dias
+1526,Paraná,PR,Teixeira de Pinto,Trevo Carlos Eduardo Santos
+1527,Paraná,PR,Teixeira de Pinto,Rua Luiz Otávio Farias
+1528,Paraná,PR,Teixeira de Pinto,Largo Cauê Rezende
+1529,Paraná,PR,Teixeira de Pinto,Morro Cavalcanti
+1530,Paraná,PR,Teixeira de Pinto,Morro Pinto
+1531,Paraná,PR,Almeida,Alameda de Jesus
+1532,Paraná,PR,Almeida,Campo Luna Aragão
+1533,Paraná,PR,Almeida,Largo Aragão
+1534,Paraná,PR,Almeida,Recanto Davi Luiz da Costa
+1535,Paraná,PR,Almeida,Esplanada de Moura
+1536,Paraná,PR,Moura Alegre,Núcleo de Ribeiro
+1537,Paraná,PR,Moura Alegre,Estação Nicolas Rodrigues
+1538,Paraná,PR,Moura Alegre,Núcleo Lucas Gabriel Costela
+1539,Paraná,PR,Moura Alegre,Avenida Ribeiro
+1540,Paraná,PR,Moura Alegre,Área da Mota
+1541,Paraná,PR,da Mata,Praça de Martins
+1542,Paraná,PR,da Mata,Residencial Novaes
+1543,Paraná,PR,da Mata,Viela Cunha
+1544,Paraná,PR,da Mata,Travessa de da Rosa
+1545,Paraná,PR,da Mata,Chácara da Cruz
+1546,Paraná,PR,Azevedo,Trevo da Conceição
+1547,Paraná,PR,Azevedo,Favela Souza
+1548,Paraná,PR,Azevedo,Vale Maria Eduarda Teixeira
+1549,Paraná,PR,Azevedo,Estação Fogaça
+1550,Paraná,PR,Azevedo,Distrito Pedro Lucas Dias
+1551,Paraná,PR,da Paz,Pátio de Santos
+1552,Paraná,PR,da Paz,Lago Olivia Campos
+1553,Paraná,PR,da Paz,Estação Freitas
+1554,Paraná,PR,da Paz,Ladeira de Melo
+1555,Paraná,PR,da Paz,Travessa Monteiro
+1556,Paraná,PR,Rezende dos Dourados,Chácara Dias
+1557,Paraná,PR,Rezende dos Dourados,Esplanada Enrico Gomes
+1558,Paraná,PR,Rezende dos Dourados,Condomínio Bruno Melo
+1559,Paraná,PR,Rezende dos Dourados,Largo Peixoto
+1560,Paraná,PR,Rezende dos Dourados,Viela Maria Julia Ferreira
+1561,Paraná,PR,Cunha,Jardim Nogueira
+1562,Paraná,PR,Cunha,Vereda de Nunes
+1563,Paraná,PR,Cunha,Pátio da Costa
+1564,Paraná,PR,Cunha,Jardim de Porto
+1565,Paraná,PR,Cunha,Conjunto Clarice Monteiro
+1566,Paraná,PR,Rodrigues,Trecho Silveira
+1567,Paraná,PR,Rodrigues,Fazenda Maria Julia Sales
+1568,Paraná,PR,Rodrigues,Distrito Rebeca Vieira
+1569,Paraná,PR,Rodrigues,Colônia Gonçalves
+1570,Paraná,PR,Rodrigues,Avenida Martins
+1571,Paraná,PR,da Mota do Norte,Vale Mariana Dias
+1572,Paraná,PR,da Mota do Norte,Quadra Moraes
+1573,Paraná,PR,da Mota do Norte,Condomínio Lima
+1574,Paraná,PR,da Mota do Norte,Recanto de Melo
+1575,Paraná,PR,da Mota do Norte,Viela de Sales
+1576,Paraná,PR,da Rocha das Flores,Favela Lima
+1577,Paraná,PR,da Rocha das Flores,Largo Duarte
+1578,Paraná,PR,da Rocha das Flores,Parque de Campos
+1579,Paraná,PR,da Rocha das Flores,Sítio Heloísa Rocha
+1580,Paraná,PR,da Rocha das Flores,Trecho Souza
+1581,Paraná,PR,Cardoso da Praia,Trecho Gomes
+1582,Paraná,PR,Cardoso da Praia,Praça Lopes
+1583,Paraná,PR,Cardoso da Praia,Rodovia de Barros
+1584,Paraná,PR,Cardoso da Praia,Chácara Nogueira
+1585,Paraná,PR,Cardoso da Praia,Área de Nogueira
+1586,Paraná,PR,Fernandes,Favela Carvalho
+1587,Paraná,PR,Fernandes,Via João Guilherme Monteiro
+1588,Paraná,PR,Fernandes,Distrito Melo
+1589,Paraná,PR,Fernandes,Lago de Azevedo
+1590,Paraná,PR,Fernandes,Esplanada da Luz
+1591,Paraná,PR,Almeida de Viana,Aeroporto de da Mota
+1592,Paraná,PR,Almeida de Viana,Rodovia Vitor Viana
+1593,Paraná,PR,Almeida de Viana,Trevo Diogo Cunha
+1594,Paraná,PR,Almeida de Viana,Viela Ana Beatriz Cardoso
+1595,Paraná,PR,Almeida de Viana,Rodovia Mirella Nunes
+1596,Paraná,PR,da Rocha,Núcleo Vitor Hugo Cavalcanti
+1597,Paraná,PR,da Rocha,Estrada de Moreira
+1598,Paraná,PR,da Rocha,Ladeira de Monteiro
+1599,Paraná,PR,da Rocha,Jardim de da Paz
+1600,Paraná,PR,da Rocha,Chácara Aragão
+1601,Pernambuco,PE,Cardoso de da Mota,Loteamento Juliana da Cunha
+1602,Pernambuco,PE,Cardoso de da Mota,Morro de Nunes
+1603,Pernambuco,PE,Cardoso de da Mota,Feira Gonçalves
+1604,Pernambuco,PE,Cardoso de da Mota,Sítio Gabrielly Castro
+1605,Pernambuco,PE,Cardoso de da Mota,Passarela Samuel Moraes
+1606,Pernambuco,PE,Barros,Jardim Pinto
+1607,Pernambuco,PE,Barros,Passarela de Freitas
+1608,Pernambuco,PE,Barros,Rodovia João Felipe Barbosa
+1609,Pernambuco,PE,Barros,Alameda de Correia
+1610,Pernambuco,PE,Barros,Via Isaac Pereira
+1611,Pernambuco,PE,Carvalho,Viaduto Melo
+1612,Pernambuco,PE,Carvalho,Vale de Gomes
+1613,Pernambuco,PE,Carvalho,Viaduto Freitas
+1614,Pernambuco,PE,Carvalho,Distrito Correia
+1615,Pernambuco,PE,Carvalho,Lagoa Vitória Silveira
+1616,Pernambuco,PE,Lopes do Amparo,Sítio Almeida
+1617,Pernambuco,PE,Lopes do Amparo,Jardim Dias
+1618,Pernambuco,PE,Lopes do Amparo,Lago Gustavo Novaes
+1619,Pernambuco,PE,Lopes do Amparo,Distrito Lima
+1620,Pernambuco,PE,Lopes do Amparo,Recanto Benjamin da Luz
+1621,Pernambuco,PE,Ramos da Mata,Residencial João Miguel Farias
+1622,Pernambuco,PE,Ramos da Mata,Alameda Cardoso
+1623,Pernambuco,PE,Ramos da Mata,Distrito Emilly Cardoso
+1624,Pernambuco,PE,Ramos da Mata,Rua de Silveira
+1625,Pernambuco,PE,Ramos da Mata,Estrada de da Rocha
+1626,Pernambuco,PE,Correia,Ladeira de Carvalho
+1627,Pernambuco,PE,Correia,Feira da Paz
+1628,Pernambuco,PE,Correia,Loteamento de Moura
+1629,Pernambuco,PE,Correia,Quadra Arthur Monteiro
+1630,Pernambuco,PE,Correia,Condomínio da Rosa
+1631,Pernambuco,PE,Fernandes Paulista,Área Caldeira
+1632,Pernambuco,PE,Fernandes Paulista,Colônia Bárbara Porto
+1633,Pernambuco,PE,Fernandes Paulista,Distrito Rodrigues
+1634,Pernambuco,PE,Fernandes Paulista,Parque de Teixeira
+1635,Pernambuco,PE,Fernandes Paulista,Parque de Costa
+1636,Pernambuco,PE,Monteiro,Lagoa Daniel Porto
+1637,Pernambuco,PE,Monteiro,Residencial de Sales
+1638,Pernambuco,PE,Monteiro,Colônia de Moura
+1639,Pernambuco,PE,Monteiro,Conjunto Jesus
+1640,Pernambuco,PE,Monteiro,Pátio Monteiro
+1641,Pernambuco,PE,Correia da Mata,Pátio de da Luz
+1642,Pernambuco,PE,Correia da Mata,Lagoa de Costela
+1643,Pernambuco,PE,Correia da Mata,Largo Souza
+1644,Pernambuco,PE,Correia da Mata,Vale Silveira
+1645,Pernambuco,PE,Correia da Mata,Morro Gustavo Aragão
+1646,Pernambuco,PE,Alves Paulista,Distrito de Novaes
+1647,Pernambuco,PE,Alves Paulista,Núcleo Costela
+1648,Pernambuco,PE,Alves Paulista,Lagoa de Nunes
+1649,Pernambuco,PE,Alves Paulista,Colônia Stephany Oliveira
+1650,Pernambuco,PE,Alves Paulista,Largo Luiz Gustavo da Cunha
+1651,Pernambuco,PE,Souza,Vila Sarah da Rocha
+1652,Pernambuco,PE,Souza,Feira Gonçalves
+1653,Pernambuco,PE,Souza,Núcleo Peixoto
+1654,Pernambuco,PE,Souza,Rodovia Isabel Alves
+1655,Pernambuco,PE,Souza,Condomínio Sales
+1656,Pernambuco,PE,Castro do Oeste,Recanto Barros
+1657,Pernambuco,PE,Castro do Oeste,Trevo Caio Campos
+1658,Pernambuco,PE,Castro do Oeste,Alameda de Monteiro
+1659,Pernambuco,PE,Castro do Oeste,Conjunto Gabriela Pires
+1660,Pernambuco,PE,Castro do Oeste,Recanto de Gonçalves
+1661,Pernambuco,PE,Mendes do Amparo,Lago Gonçalves
+1662,Pernambuco,PE,Mendes do Amparo,Alameda Heloísa Castro
+1663,Pernambuco,PE,Mendes do Amparo,Vereda Luiz Henrique Vieira
+1664,Pernambuco,PE,Mendes do Amparo,Vereda de Monteiro
+1665,Pernambuco,PE,Mendes do Amparo,Morro Santos
+1666,Pernambuco,PE,da Cruz Grande,Lagoa de Lopes
+1667,Pernambuco,PE,da Cruz Grande,Sítio de Moreira
+1668,Pernambuco,PE,da Cruz Grande,Travessa de Rodrigues
+1669,Pernambuco,PE,da Cruz Grande,Residencial Martins
+1670,Pernambuco,PE,da Cruz Grande,Alameda Emanuella Novaes
+1671,Pernambuco,PE,da Mata de Cardoso,Rodovia de Viana
+1672,Pernambuco,PE,da Mata de Cardoso,Viela Davi Luiz Castro
+1673,Pernambuco,PE,da Mata de Cardoso,Trecho de Costela
+1674,Pernambuco,PE,da Mata de Cardoso,Feira Luiz Felipe Porto
+1675,Pernambuco,PE,da Mata de Cardoso,Sítio de Santos
+1676,Pernambuco,PE,Sales,Colônia Mendes
+1677,Pernambuco,PE,Sales,Distrito Cardoso
+1678,Pernambuco,PE,Sales,Largo de Moraes
+1679,Pernambuco,PE,Sales,Aeroporto Yuri Novaes
+1680,Pernambuco,PE,Sales,Chácara Freitas
+1681,Pernambuco,PE,Fernandes de Ramos,Lagoa Pires
+1682,Pernambuco,PE,Fernandes de Ramos,Área de Pereira
+1683,Pernambuco,PE,Fernandes de Ramos,Vale João da Rosa
+1684,Pernambuco,PE,Fernandes de Ramos,Passarela Igor Aragão
+1685,Pernambuco,PE,Fernandes de Ramos,Favela de Correia
+1686,Pernambuco,PE,Costela,Loteamento de Carvalho
+1687,Pernambuco,PE,Costela,Parque de da Paz
+1688,Pernambuco,PE,Costela,Viela de Aragão
+1689,Pernambuco,PE,Costela,Colônia de Costela
+1690,Pernambuco,PE,Costela,Conjunto de Azevedo
+1691,Pernambuco,PE,Rodrigues,Núcleo de Lima
+1692,Pernambuco,PE,Rodrigues,Jardim Maria Luiza Ribeiro
+1693,Pernambuco,PE,Rodrigues,Colônia de Rocha
+1694,Pernambuco,PE,Rodrigues,Núcleo de Martins
+1695,Pernambuco,PE,Rodrigues,Ladeira Lucas Gabriel Lopes
+1696,Pernambuco,PE,das Neves,Feira Lavínia Farias
+1697,Pernambuco,PE,das Neves,Estrada Ribeiro
+1698,Pernambuco,PE,das Neves,Aeroporto de Rocha
+1699,Pernambuco,PE,das Neves,Conjunto da Cruz
+1700,Pernambuco,PE,das Neves,Via Novaes
+1701,Piauí,PI,Melo,Lagoa Murilo Pinto
+1702,Piauí,PI,Melo,Lago de Almeida
+1703,Piauí,PI,Melo,Viaduto da Rosa
+1704,Piauí,PI,Melo,Colônia Pereira
+1705,Piauí,PI,Melo,Vale de Moura
+1706,Piauí,PI,Cavalcanti da Praia,Largo de Martins
+1707,Piauí,PI,Cavalcanti da Praia,Lago de Oliveira
+1708,Piauí,PI,Cavalcanti da Praia,Trecho Maria Cecília da Rocha
+1709,Piauí,PI,Cavalcanti da Praia,Estrada Mirella da Rosa
+1710,Piauí,PI,Cavalcanti da Praia,Praça João Miguel da Rocha
+1711,Piauí,PI,Araújo,Distrito Isabel Ribeiro
+1712,Piauí,PI,Araújo,Passarela de Rocha
+1713,Piauí,PI,Araújo,Quadra de Moraes
+1714,Piauí,PI,Araújo,Condomínio de Pinto
+1715,Piauí,PI,Araújo,Trevo de da Rosa
+1716,Piauí,PI,Barros Paulista,Vereda de Cavalcanti
+1717,Piauí,PI,Barros Paulista,Chácara de Santos
+1718,Piauí,PI,Barros Paulista,Largo de da Mota
+1719,Piauí,PI,Barros Paulista,Praia Costela
+1720,Piauí,PI,Barros Paulista,Núcleo de Jesus
+1721,Piauí,PI,Fogaça de Ribeiro,Rua de Nunes
+1722,Piauí,PI,Fogaça de Ribeiro,Via Bryan Correia
+1723,Piauí,PI,Fogaça de Ribeiro,Lago de Teixeira
+1724,Piauí,PI,Fogaça de Ribeiro,Estrada de Fogaça
+1725,Piauí,PI,Fogaça de Ribeiro,Via de Moreira
+1726,Piauí,PI,Aragão,Loteamento de Fernandes
+1727,Piauí,PI,Aragão,Jardim João Pedro Sales
+1728,Piauí,PI,Aragão,Aeroporto de Sales
+1729,Piauí,PI,Aragão,Lagoa de Jesus
+1730,Piauí,PI,Aragão,Sítio Jesus
+1731,Piauí,PI,Ferreira Verde,Estação Bianca Novaes
+1732,Piauí,PI,Ferreira Verde,Jardim de Nunes
+1733,Piauí,PI,Ferreira Verde,Feira de Pereira
+1734,Piauí,PI,Ferreira Verde,Área Olivia Lima
+1735,Piauí,PI,Ferreira Verde,Favela Elisa Melo
+1736,Piauí,PI,Azevedo dos Dourados,Rodovia Maitê Sales
+1737,Piauí,PI,Azevedo dos Dourados,Morro Nunes
+1738,Piauí,PI,Azevedo dos Dourados,Aeroporto Ana Clara Cavalcanti
+1739,Piauí,PI,Azevedo dos Dourados,Esplanada de Sales
+1740,Piauí,PI,Azevedo dos Dourados,Morro Lorenzo Gomes
+1741,Piauí,PI,Barros do Campo,Esplanada de Santos
+1742,Piauí,PI,Barros do Campo,Colônia Helena da Cruz
+1743,Piauí,PI,Barros do Campo,Ladeira Ana Vitória Campos
+1744,Piauí,PI,Barros do Campo,Via de Rocha
+1745,Piauí,PI,Barros do Campo,Praça Paulo Azevedo
+1746,Piauí,PI,Carvalho,Loteamento Dias
+1747,Piauí,PI,Carvalho,Travessa Maria Cecília Cavalcanti
+1748,Piauí,PI,Carvalho,Ladeira de Almeida
+1749,Piauí,PI,Carvalho,Aeroporto Gustavo Araújo
+1750,Piauí,PI,Carvalho,Lagoa Viana
+1751,Piauí,PI,Vieira,Estação de da Costa
+1752,Piauí,PI,Vieira,Jardim Viana
+1753,Piauí,PI,Vieira,Alameda Davi Luiz Ribeiro
+1754,Piauí,PI,Vieira,Loteamento Maitê Almeida
+1755,Piauí,PI,Vieira,Parque Freitas
+1756,Piauí,PI,Cunha,Sítio da Conceição
+1757,Piauí,PI,Cunha,Esplanada Maria Clara Cardoso
+1758,Piauí,PI,Cunha,Alameda Correia
+1759,Piauí,PI,Cunha,Alameda Fogaça
+1760,Piauí,PI,Cunha,Loteamento Gomes
+1761,Piauí,PI,da Luz,Área Pires
+1762,Piauí,PI,da Luz,Feira da Paz
+1763,Piauí,PI,da Luz,Quadra de Cardoso
+1764,Piauí,PI,da Luz,Ladeira Duarte
+1765,Piauí,PI,da Luz,Feira Peixoto
+1766,Piauí,PI,Azevedo,Alameda de Melo
+1767,Piauí,PI,Azevedo,Feira de Moreira
+1768,Piauí,PI,Azevedo,Favela Souza
+1769,Piauí,PI,Azevedo,Feira de Carvalho
+1770,Piauí,PI,Azevedo,Fazenda de Silveira
+1771,Piauí,PI,Freitas do Galho,Praia Alana Rodrigues
+1772,Piauí,PI,Freitas do Galho,Alameda Pedro Miguel Pereira
+1773,Piauí,PI,Freitas do Galho,Sítio Azevedo
+1774,Piauí,PI,Freitas do Galho,Aeroporto da Conceição
+1775,Piauí,PI,Freitas do Galho,Área de Moura
+1776,Piauí,PI,Freitas Paulista,Conjunto de Lopes
+1777,Piauí,PI,Freitas Paulista,Esplanada Cunha
+1778,Piauí,PI,Freitas Paulista,Fazenda de Nogueira
+1779,Piauí,PI,Freitas Paulista,Travessa Caldeira
+1780,Piauí,PI,Freitas Paulista,Vale Natália da Rosa
+1781,Piauí,PI,Cunha,Via Bernardo Nunes
+1782,Piauí,PI,Cunha,Aeroporto Nicole Fogaça
+1783,Piauí,PI,Cunha,Parque Rafaela da Rocha
+1784,Piauí,PI,Cunha,Viaduto de Costela
+1785,Piauí,PI,Cunha,Rodovia Porto
+1786,Piauí,PI,Santos da Serra,Aeroporto Araújo
+1787,Piauí,PI,Santos da Serra,Residencial da Luz
+1788,Piauí,PI,Santos da Serra,Vale de Silveira
+1789,Piauí,PI,Santos da Serra,Campo de Ferreira
+1790,Piauí,PI,Santos da Serra,Lago Cardoso
+1791,Piauí,PI,Santos das Flores,Lago Pedro Silveira
+1792,Piauí,PI,Santos das Flores,Vereda da Luz
+1793,Piauí,PI,Santos das Flores,Sítio Kaique Pinto
+1794,Piauí,PI,Santos das Flores,Rua Samuel da Mota
+1795,Piauí,PI,Santos das Flores,Estrada de Teixeira
+1796,Piauí,PI,da Mata,Lagoa de Rezende
+1797,Piauí,PI,da Mata,Vereda de Nogueira
+1798,Piauí,PI,da Mata,Lagoa Danilo Barbosa
+1799,Piauí,PI,da Mata,Lago Luiza Nunes
+1800,Piauí,PI,da Mata,Alameda Melo
+1801,Rio de Janeiro,RJ,Nascimento,Favela Dias
+1802,Rio de Janeiro,RJ,Nascimento,Avenida de Rodrigues
+1803,Rio de Janeiro,RJ,Nascimento,Colônia Fogaça
+1804,Rio de Janeiro,RJ,Nascimento,Morro Cecília Cardoso
+1805,Rio de Janeiro,RJ,Nascimento,Campo Vitor Pereira
+1806,Rio de Janeiro,RJ,da Mata,Estação Miguel da Rocha
+1807,Rio de Janeiro,RJ,da Mata,Núcleo Rocha
+1808,Rio de Janeiro,RJ,da Mata,Aeroporto Novaes
+1809,Rio de Janeiro,RJ,da Mata,Parque de Rocha
+1810,Rio de Janeiro,RJ,da Mata,Núcleo Daniel Porto
+1811,Rio de Janeiro,RJ,Aragão,Estrada Mariane Melo
+1812,Rio de Janeiro,RJ,Aragão,Vereda de Nascimento
+1813,Rio de Janeiro,RJ,Aragão,Núcleo Santos
+1814,Rio de Janeiro,RJ,Aragão,Lago Ramos
+1815,Rio de Janeiro,RJ,Aragão,Recanto Porto
+1816,Rio de Janeiro,RJ,Pereira de Goiás,Chácara Lívia Rezende
+1817,Rio de Janeiro,RJ,Pereira de Goiás,Rua de Caldeira
+1818,Rio de Janeiro,RJ,Pereira de Goiás,Via de Pinto
+1819,Rio de Janeiro,RJ,Pereira de Goiás,Esplanada Vieira
+1820,Rio de Janeiro,RJ,Pereira de Goiás,Trevo Peixoto
+1821,Rio de Janeiro,RJ,Moura,Loteamento João Miguel Jesus
+1822,Rio de Janeiro,RJ,Moura,Jardim de Ferreira
+1823,Rio de Janeiro,RJ,Moura,Rodovia Fogaça
+1824,Rio de Janeiro,RJ,Moura,Largo Oliveira
+1825,Rio de Janeiro,RJ,Moura,Rodovia João Miguel Moura
+1826,Rio de Janeiro,RJ,Cardoso,Fazenda Beatriz Pereira
+1827,Rio de Janeiro,RJ,Cardoso,Condomínio de da Luz
+1828,Rio de Janeiro,RJ,Cardoso,Vale Davi Lucca Nunes
+1829,Rio de Janeiro,RJ,Cardoso,Parque da Luz
+1830,Rio de Janeiro,RJ,Cardoso,Quadra Raquel Oliveira
+1831,Rio de Janeiro,RJ,Cardoso,Núcleo de Porto
+1832,Rio de Janeiro,RJ,Cardoso,Estação de Gonçalves
+1833,Rio de Janeiro,RJ,Cardoso,Parque Thiago Correia
+1834,Rio de Janeiro,RJ,Cardoso,Trecho Bruno Silva
+1835,Rio de Janeiro,RJ,Cardoso,Ladeira da Mota
+1836,Rio de Janeiro,RJ,Aragão,Fazenda Martins
+1837,Rio de Janeiro,RJ,Aragão,Estação de Viana
+1838,Rio de Janeiro,RJ,Aragão,Morro da Costa
+1839,Rio de Janeiro,RJ,Aragão,Via Nascimento
+1840,Rio de Janeiro,RJ,Aragão,Largo Oliveira
+1841,Rio de Janeiro,RJ,Carvalho das Flores,Favela de Barbosa
+1842,Rio de Janeiro,RJ,Carvalho das Flores,Aeroporto de Azevedo
+1843,Rio de Janeiro,RJ,Carvalho das Flores,Travessa Ana Laura Souza
+1844,Rio de Janeiro,RJ,Carvalho das Flores,Trecho Costela
+1845,Rio de Janeiro,RJ,Carvalho das Flores,Rua Gustavo Henrique Nascimento
+1846,Rio de Janeiro,RJ,Cardoso,Favela de Rodrigues
+1847,Rio de Janeiro,RJ,Cardoso,Trecho de Santos
+1848,Rio de Janeiro,RJ,Cardoso,Passarela Pereira
+1849,Rio de Janeiro,RJ,Cardoso,Área Emanuel Moreira
+1850,Rio de Janeiro,RJ,Cardoso,Setor de Nogueira
+1851,Rio de Janeiro,RJ,da Cruz,Aeroporto de da Costa
+1852,Rio de Janeiro,RJ,da Cruz,Núcleo Luiza Souza
+1853,Rio de Janeiro,RJ,da Cruz,Alameda Letícia Fernandes
+1854,Rio de Janeiro,RJ,da Cruz,Praia de Porto
+1855,Rio de Janeiro,RJ,da Cruz,Campo Mirella Pereira
+1856,Rio de Janeiro,RJ,Caldeira do Amparo,Trecho de Pinto
+1857,Rio de Janeiro,RJ,Caldeira do Amparo,Loteamento de da Cunha
+1858,Rio de Janeiro,RJ,Caldeira do Amparo,Praia Aragão
+1859,Rio de Janeiro,RJ,Caldeira do Amparo,Passarela João Vitor Araújo
+1860,Rio de Janeiro,RJ,Caldeira do Amparo,Passarela de Vieira
+1861,Rio de Janeiro,RJ,Mendes,Núcleo Ramos
+1862,Rio de Janeiro,RJ,Mendes,Núcleo da Paz
+1863,Rio de Janeiro,RJ,Mendes,Praça Correia
+1864,Rio de Janeiro,RJ,Mendes,Quadra de Nunes
+1865,Rio de Janeiro,RJ,Mendes,Passarela de Teixeira
+1866,Rio de Janeiro,RJ,Martins,Loteamento Ana Vitória Ribeiro
+1867,Rio de Janeiro,RJ,Martins,Viaduto de Almeida
+1868,Rio de Janeiro,RJ,Martins,Estação de Martins
+1869,Rio de Janeiro,RJ,Martins,Vereda Henrique Barbosa
+1870,Rio de Janeiro,RJ,Martins,Praça Maria Nogueira
+1871,Rio de Janeiro,RJ,Santos de Duarte,Condomínio Gabrielly Cunha
+1872,Rio de Janeiro,RJ,Santos de Duarte,Esplanada de Pires
+1873,Rio de Janeiro,RJ,Santos de Duarte,Parque Maria Luiza Alves
+1874,Rio de Janeiro,RJ,Santos de Duarte,Parque Silveira
+1875,Rio de Janeiro,RJ,Santos de Duarte,Parque Pinto
+1876,Rio de Janeiro,RJ,Barbosa,Viaduto Lara Porto
+1877,Rio de Janeiro,RJ,Barbosa,Setor Castro
+1878,Rio de Janeiro,RJ,Barbosa,Sítio Ana Beatriz Campos
+1879,Rio de Janeiro,RJ,Barbosa,Estrada João Vitor da Costa
+1880,Rio de Janeiro,RJ,Barbosa,Chácara Beatriz da Mota
+1881,Rio de Janeiro,RJ,Souza de Cunha,Feira Paulo Martins
+1882,Rio de Janeiro,RJ,Souza de Cunha,Praça de Cavalcanti
+1883,Rio de Janeiro,RJ,Souza de Cunha,Travessa de da Rosa
+1884,Rio de Janeiro,RJ,Souza de Cunha,Loteamento Julia Cavalcanti
+1885,Rio de Janeiro,RJ,Souza de Cunha,Praça Eduardo Barbosa
+1886,Rio de Janeiro,RJ,Barbosa,Aeroporto de da Costa
+1887,Rio de Janeiro,RJ,Barbosa,Parque Moreira
+1888,Rio de Janeiro,RJ,Barbosa,Vale Emanuel Carvalho
+1889,Rio de Janeiro,RJ,Barbosa,Recanto Silveira
+1890,Rio de Janeiro,RJ,Barbosa,Chácara Pedro Viana
+1891,Rio de Janeiro,RJ,Duarte do Sul,Via Caldeira
+1892,Rio de Janeiro,RJ,Duarte do Sul,Alameda Gustavo Rezende
+1893,Rio de Janeiro,RJ,Duarte do Sul,Fazenda Maria Vitória da Mata
+1894,Rio de Janeiro,RJ,Duarte do Sul,Trecho Alves
+1895,Rio de Janeiro,RJ,Duarte do Sul,Lagoa de Mendes
+1896,Rio de Janeiro,RJ,Santos,Largo de Cardoso
+1897,Rio de Janeiro,RJ,Santos,Esplanada Kaique Cardoso
+1898,Rio de Janeiro,RJ,Santos,Vereda de Peixoto
+1899,Rio de Janeiro,RJ,Santos,Campo Moreira
+1900,Rio de Janeiro,RJ,Santos,Praça de da Luz
+1901,Rio Grande do Norte,RN,da Luz,Travessa da Rosa
+1902,Rio Grande do Norte,RN,da Luz,Via Souza
+1903,Rio Grande do Norte,RN,da Luz,Estação de Gonçalves
+1904,Rio Grande do Norte,RN,da Luz,Esplanada Laura da Cruz
+1905,Rio Grande do Norte,RN,da Luz,Esplanada da Rocha
+1906,Rio Grande do Norte,RN,Caldeira de Minas,Viaduto Cavalcanti
+1907,Rio Grande do Norte,RN,Caldeira de Minas,Jardim Almeida
+1908,Rio Grande do Norte,RN,Caldeira de Minas,Estação de Lopes
+1909,Rio Grande do Norte,RN,Caldeira de Minas,Travessa Natália Moura
+1910,Rio Grande do Norte,RN,Caldeira de Minas,Viela Cardoso
+1911,Rio Grande do Norte,RN,Gonçalves,Residencial Ian Ferreira
+1912,Rio Grande do Norte,RN,Gonçalves,Aeroporto Lucas Cunha
+1913,Rio Grande do Norte,RN,Gonçalves,Vereda Gustavo Henrique Barros
+1914,Rio Grande do Norte,RN,Gonçalves,Vereda Nina Rodrigues
+1915,Rio Grande do Norte,RN,Gonçalves,Estação Isabelly da Paz
+1916,Rio Grande do Norte,RN,Melo de Sales,Avenida da Cunha
+1917,Rio Grande do Norte,RN,Melo de Sales,Passarela de Moreira
+1918,Rio Grande do Norte,RN,Melo de Sales,Morro de Cavalcanti
+1919,Rio Grande do Norte,RN,Melo de Sales,Quadra Mendes
+1920,Rio Grande do Norte,RN,Melo de Sales,Chácara de Teixeira
+1921,Rio Grande do Norte,RN,Cunha,Vila de Vieira
+1922,Rio Grande do Norte,RN,Cunha,Jardim Cardoso
+1923,Rio Grande do Norte,RN,Cunha,Loteamento Campos
+1924,Rio Grande do Norte,RN,Cunha,Trecho de da Rocha
+1925,Rio Grande do Norte,RN,Cunha,Via Lima
+1926,Rio Grande do Norte,RN,Moura da Praia,Pátio Aragão
+1927,Rio Grande do Norte,RN,Moura da Praia,Vale Nunes
+1928,Rio Grande do Norte,RN,Moura da Praia,Residencial de Costela
+1929,Rio Grande do Norte,RN,Moura da Praia,Ladeira Laura da Cunha
+1930,Rio Grande do Norte,RN,Moura da Praia,Parque Davi da Mata
+1931,Rio Grande do Norte,RN,Sales,Praia Ferreira
+1932,Rio Grande do Norte,RN,Sales,Viaduto Nascimento
+1933,Rio Grande do Norte,RN,Sales,Vale de Pinto
+1934,Rio Grande do Norte,RN,Sales,Vale de Correia
+1935,Rio Grande do Norte,RN,Sales,Pátio Pedro Miguel Rocha
+1936,Rio Grande do Norte,RN,Azevedo,Morro Natália da Costa
+1937,Rio Grande do Norte,RN,Azevedo,Núcleo Maysa Duarte
+1938,Rio Grande do Norte,RN,Azevedo,Rua Caroline Barros
+1939,Rio Grande do Norte,RN,Azevedo,Esplanada de Mendes
+1940,Rio Grande do Norte,RN,Azevedo,Setor Souza
+1941,Rio Grande do Norte,RN,Viana de Rocha,Avenida Fernandes
+1942,Rio Grande do Norte,RN,Viana de Rocha,Trevo Letícia Azevedo
+1943,Rio Grande do Norte,RN,Viana de Rocha,Condomínio Lopes
+1944,Rio Grande do Norte,RN,Viana de Rocha,Distrito João Felipe Martins
+1945,Rio Grande do Norte,RN,Viana de Rocha,Campo Miguel Alves
+1946,Rio Grande do Norte,RN,Novaes,Estrada Nicole Monteiro
+1947,Rio Grande do Norte,RN,Novaes,Aeroporto Almeida
+1948,Rio Grande do Norte,RN,Novaes,Condomínio Vieira
+1949,Rio Grande do Norte,RN,Novaes,Rodovia Caldeira
+1950,Rio Grande do Norte,RN,Novaes,Vila de da Rosa
+1951,Rio Grande do Norte,RN,Oliveira,Trecho Silveira
+1952,Rio Grande do Norte,RN,Oliveira,Trevo Fogaça
+1953,Rio Grande do Norte,RN,Oliveira,Praia Eduarda da Luz
+1954,Rio Grande do Norte,RN,Oliveira,Distrito Dias
+1955,Rio Grande do Norte,RN,Oliveira,Ladeira Renan Freitas
+1956,Rio Grande do Norte,RN,Caldeira,Ladeira Júlia Sales
+1957,Rio Grande do Norte,RN,Caldeira,Passarela Pedro Henrique da Rosa
+1958,Rio Grande do Norte,RN,Caldeira,Feira de Vieira
+1959,Rio Grande do Norte,RN,Caldeira,Pátio Gustavo Henrique Nunes
+1960,Rio Grande do Norte,RN,Caldeira,Ladeira de da Conceição
+1961,Rio Grande do Norte,RN,Gomes,Setor de Sales
+1962,Rio Grande do Norte,RN,Gomes,Estação Monteiro
+1963,Rio Grande do Norte,RN,Gomes,Viaduto de da Luz
+1964,Rio Grande do Norte,RN,Gomes,Estrada de Nogueira
+1965,Rio Grande do Norte,RN,Gomes,Sítio Araújo
+1966,Rio Grande do Norte,RN,Fogaça,Vereda de Nunes
+1967,Rio Grande do Norte,RN,Fogaça,Loteamento Ramos
+1968,Rio Grande do Norte,RN,Fogaça,Lagoa Duarte
+1969,Rio Grande do Norte,RN,Fogaça,Aeroporto de da Cruz
+1970,Rio Grande do Norte,RN,Fogaça,Morro Murilo Almeida
+1971,Rio Grande do Norte,RN,Nascimento do Amparo,Jardim de Castro
+1972,Rio Grande do Norte,RN,Nascimento do Amparo,Residencial Ian Caldeira
+1973,Rio Grande do Norte,RN,Nascimento do Amparo,Vale de Farias
+1974,Rio Grande do Norte,RN,Nascimento do Amparo,Fazenda de Alves
+1975,Rio Grande do Norte,RN,Nascimento do Amparo,Distrito de Cardoso
+1976,Rio Grande do Norte,RN,Costa,Quadra de Porto
+1977,Rio Grande do Norte,RN,Costa,Parque de Jesus
+1978,Rio Grande do Norte,RN,Costa,Aeroporto de Mendes
+1979,Rio Grande do Norte,RN,Costa,Avenida Nunes
+1980,Rio Grande do Norte,RN,Costa,Praia de Cardoso
+1981,Rio Grande do Norte,RN,Castro,Distrito da Costa
+1982,Rio Grande do Norte,RN,Castro,Setor de Carvalho
+1983,Rio Grande do Norte,RN,Castro,Trecho Azevedo
+1984,Rio Grande do Norte,RN,Castro,Trevo Dias
+1985,Rio Grande do Norte,RN,Castro,Favela de Araújo
+1986,Rio Grande do Norte,RN,Melo,Avenida Luiz Gustavo Araújo
+1987,Rio Grande do Norte,RN,Melo,Setor Alícia Mendes
+1988,Rio Grande do Norte,RN,Melo,Travessa de Nogueira
+1989,Rio Grande do Norte,RN,Melo,Ladeira Carolina Costela
+1990,Rio Grande do Norte,RN,Melo,Chácara de Sales
+1991,Rio Grande do Norte,RN,Mendes,Lago João Nascimento
+1992,Rio Grande do Norte,RN,Mendes,Chácara Dias
+1993,Rio Grande do Norte,RN,Mendes,Pátio Heloísa Ramos
+1994,Rio Grande do Norte,RN,Mendes,Colônia Azevedo
+1995,Rio Grande do Norte,RN,Mendes,Travessa Augusto Nogueira
+1996,Rio Grande do Norte,RN,Castro da Serra,Viela Leonardo Correia
+1997,Rio Grande do Norte,RN,Castro da Serra,Praia de Peixoto
+1998,Rio Grande do Norte,RN,Castro da Serra,Favela Correia
+1999,Rio Grande do Norte,RN,Castro da Serra,Núcleo Ramos
+2000,Rio Grande do Norte,RN,Castro da Serra,Travessa Melo
+2001,Rio Grande do Sul,RS,Almeida do Campo,Vereda de Rocha
+2002,Rio Grande do Sul,RS,Almeida do Campo,Setor Cavalcanti
+2003,Rio Grande do Sul,RS,Almeida do Campo,Jardim Barbosa
+2004,Rio Grande do Sul,RS,Almeida do Campo,Trecho Eloah Nunes
+2005,Rio Grande do Sul,RS,Almeida do Campo,Favela Jesus
+2006,Rio Grande do Sul,RS,Moura de da Cunha,Via Alves
+2007,Rio Grande do Sul,RS,Moura de da Cunha,Praça Lorena Cunha
+2008,Rio Grande do Sul,RS,Moura de da Cunha,Parque de Alves
+2009,Rio Grande do Sul,RS,Moura de da Cunha,Ladeira Maria Clara Azevedo
+2010,Rio Grande do Sul,RS,Moura de da Cunha,Aeroporto de Souza
+2011,Rio Grande do Sul,RS,da Costa de Duarte,Loteamento de Pinto
+2012,Rio Grande do Sul,RS,da Costa de Duarte,Loteamento da Cruz
+2013,Rio Grande do Sul,RS,da Costa de Duarte,Quadra Isabel Correia
+2014,Rio Grande do Sul,RS,da Costa de Duarte,Parque Gomes
+2015,Rio Grande do Sul,RS,da Costa de Duarte,Loteamento de Silveira
+2016,Rio Grande do Sul,RS,Oliveira,Lago de da Mota
+2017,Rio Grande do Sul,RS,Oliveira,Vila Ian Duarte
+2018,Rio Grande do Sul,RS,Oliveira,Praça Lucca Jesus
+2019,Rio Grande do Sul,RS,Oliveira,Rodovia de Peixoto
+2020,Rio Grande do Sul,RS,Oliveira,Recanto Rezende
+2021,Rio Grande do Sul,RS,Gonçalves do Campo,Esplanada de Alves
+2022,Rio Grande do Sul,RS,Gonçalves do Campo,Conjunto de Rocha
+2023,Rio Grande do Sul,RS,Gonçalves do Campo,Largo Nathan da Mata
+2024,Rio Grande do Sul,RS,Gonçalves do Campo,Avenida Isabella Araújo
+2025,Rio Grande do Sul,RS,Gonçalves do Campo,Morro de Oliveira
+2026,Rio Grande do Sul,RS,Correia do Norte,Vale Cardoso
+2027,Rio Grande do Sul,RS,Correia do Norte,Vereda de Silveira
+2028,Rio Grande do Sul,RS,Correia do Norte,Vale Rodrigo Alves
+2029,Rio Grande do Sul,RS,Correia do Norte,Quadra de das Neves
+2030,Rio Grande do Sul,RS,Correia do Norte,Estrada Pereira
+2031,Rio Grande do Sul,RS,Ribeiro dos Dourados,Alameda Augusto Pereira
+2032,Rio Grande do Sul,RS,Ribeiro dos Dourados,Trevo da Costa
+2033,Rio Grande do Sul,RS,Ribeiro dos Dourados,Núcleo de Barros
+2034,Rio Grande do Sul,RS,Ribeiro dos Dourados,Condomínio de Almeida
+2035,Rio Grande do Sul,RS,Ribeiro dos Dourados,Praia de Nunes
+2036,Rio Grande do Sul,RS,Silva Alegre,Aeroporto Danilo Cunha
+2037,Rio Grande do Sul,RS,Silva Alegre,Pátio João Vitor Caldeira
+2038,Rio Grande do Sul,RS,Silva Alegre,Vale da Conceição
+2039,Rio Grande do Sul,RS,Silva Alegre,Lago de Gonçalves
+2040,Rio Grande do Sul,RS,Silva Alegre,Trecho de Costa
+2041,Rio Grande do Sul,RS,Mendes de Minas,Via Monteiro
+2042,Rio Grande do Sul,RS,Mendes de Minas,Loteamento Moreira
+2043,Rio Grande do Sul,RS,Mendes de Minas,Jardim de Azevedo
+2044,Rio Grande do Sul,RS,Mendes de Minas,Jardim de Pires
+2045,Rio Grande do Sul,RS,Mendes de Minas,Rua de Rocha
+2046,Rio Grande do Sul,RS,da Conceição da Praia,Campo de Melo
+2047,Rio Grande do Sul,RS,da Conceição da Praia,Praça de Cunha
+2048,Rio Grande do Sul,RS,da Conceição da Praia,Colônia Cunha
+2049,Rio Grande do Sul,RS,da Conceição da Praia,Colônia Campos
+2050,Rio Grande do Sul,RS,da Conceição da Praia,Conjunto de Ferreira
+2051,Rio Grande do Sul,RS,Martins,Vila de Teixeira
+2052,Rio Grande do Sul,RS,Martins,Parque de Teixeira
+2053,Rio Grande do Sul,RS,Martins,Trecho Azevedo
+2054,Rio Grande do Sul,RS,Martins,Campo Rocha
+2055,Rio Grande do Sul,RS,Martins,Viaduto Guilherme Araújo
+2056,Rio Grande do Sul,RS,Cardoso,Via de Barros
+2057,Rio Grande do Sul,RS,Cardoso,Área Ramos
+2058,Rio Grande do Sul,RS,Cardoso,Chácara de das Neves
+2059,Rio Grande do Sul,RS,Cardoso,Campo Carlos Eduardo Campos
+2060,Rio Grande do Sul,RS,Cardoso,Sítio de Ribeiro
+2061,Rio Grande do Sul,RS,Martins da Serra,Travessa Rodrigues
+2062,Rio Grande do Sul,RS,Martins da Serra,Alameda Jesus
+2063,Rio Grande do Sul,RS,Martins da Serra,Aeroporto de Costa
+2064,Rio Grande do Sul,RS,Martins da Serra,Campo de Pires
+2065,Rio Grande do Sul,RS,Martins da Serra,Vale de Moreira
+2066,Rio Grande do Sul,RS,Almeida,Jardim Alexandre Novaes
+2067,Rio Grande do Sul,RS,Almeida,Vereda Olivia Barros
+2068,Rio Grande do Sul,RS,Almeida,Avenida Ian Souza
+2069,Rio Grande do Sul,RS,Almeida,Estação de Melo
+2070,Rio Grande do Sul,RS,Almeida,Aeroporto João Felipe Santos
+2071,Rio Grande do Sul,RS,Silva do Oeste,Avenida Ferreira
+2072,Rio Grande do Sul,RS,Silva do Oeste,Ladeira de Silveira
+2073,Rio Grande do Sul,RS,Silva do Oeste,Estrada Luana Cunha
+2074,Rio Grande do Sul,RS,Silva do Oeste,Estação da Rosa
+2075,Rio Grande do Sul,RS,Silva do Oeste,Trevo Luiz Felipe Moura
+2076,Rio Grande do Sul,RS,da Cunha,Aeroporto Rafaela Duarte
+2077,Rio Grande do Sul,RS,da Cunha,Loteamento Arthur Rodrigues
+2078,Rio Grande do Sul,RS,da Cunha,Campo de Ramos
+2079,Rio Grande do Sul,RS,da Cunha,Vereda Ferreira
+2080,Rio Grande do Sul,RS,da Cunha,Lagoa de Ribeiro
+2081,Rio Grande do Sul,RS,da Luz de Duarte,Trecho Carolina Nogueira
+2082,Rio Grande do Sul,RS,da Luz de Duarte,Núcleo de Moraes
+2083,Rio Grande do Sul,RS,da Luz de Duarte,Praça de Rocha
+2084,Rio Grande do Sul,RS,da Luz de Duarte,Lagoa Isaac Aragão
+2085,Rio Grande do Sul,RS,da Luz de Duarte,Lago Teixeira
+2086,Rio Grande do Sul,RS,Rocha Verde,Fazenda Rocha
+2087,Rio Grande do Sul,RS,Rocha Verde,Lago Cardoso
+2088,Rio Grande do Sul,RS,Rocha Verde,Favela Luiz Otávio Alves
+2089,Rio Grande do Sul,RS,Rocha Verde,Rodovia Heloísa Araújo
+2090,Rio Grande do Sul,RS,Rocha Verde,Recanto Oliveira
+2091,Rio Grande do Sul,RS,Rocha,Morro de Campos
+2092,Rio Grande do Sul,RS,Rocha,Praia de da Rosa
+2093,Rio Grande do Sul,RS,Rocha,Campo da Conceição
+2094,Rio Grande do Sul,RS,Rocha,Vila João Miguel Fernandes
+2095,Rio Grande do Sul,RS,Rocha,Aeroporto de Silva
+2096,Rio Grande do Sul,RS,Costela,Pátio da Cunha
+2097,Rio Grande do Sul,RS,Costela,Área Leonardo Monteiro
+2098,Rio Grande do Sul,RS,Costela,Recanto de Moura
+2099,Rio Grande do Sul,RS,Costela,Passarela Almeida
+2100,Rio Grande do Sul,RS,Costela,Residencial Jesus
+2101,Rondônia,RO,Teixeira,Área Ramos
+2102,Rondônia,RO,Teixeira,Trevo Noah Alves
+2103,Rondônia,RO,Teixeira,Morro de Campos
+2104,Rondônia,RO,Teixeira,Conjunto Stephany Barros
+2105,Rondônia,RO,Teixeira,Trecho Farias
+2106,Rondônia,RO,da Conceição das Pedras,Via Luiz Miguel da Rosa
+2107,Rondônia,RO,da Conceição das Pedras,Setor da Rocha
+2108,Rondônia,RO,da Conceição das Pedras,Viela Lopes
+2109,Rondônia,RO,da Conceição das Pedras,Largo Davi Silva
+2110,Rondônia,RO,da Conceição das Pedras,Núcleo da Costa
+2111,Rondônia,RO,Barros de Ribeiro,Rua Pedro Lucas Melo
+2112,Rondônia,RO,Barros de Ribeiro,Rua da Conceição
+2113,Rondônia,RO,Barros de Ribeiro,Rua Luna Santos
+2114,Rondônia,RO,Barros de Ribeiro,Praia Freitas
+2115,Rondônia,RO,Barros de Ribeiro,Viela Aragão
+2116,Rondônia,RO,Rodrigues,Lagoa Martins
+2117,Rondônia,RO,Rodrigues,Lagoa Mendes
+2118,Rondônia,RO,Rodrigues,Viaduto de Araújo
+2119,Rondônia,RO,Rodrigues,Favela de Carvalho
+2120,Rondônia,RO,Rodrigues,Praça Yago Pinto
+2121,Rondônia,RO,Cardoso Paulista,Fazenda Nina da Paz
+2122,Rondônia,RO,Cardoso Paulista,Travessa Rafael Nascimento
+2123,Rondônia,RO,Cardoso Paulista,Lagoa Cunha
+2124,Rondônia,RO,Cardoso Paulista,Travessa de Martins
+2125,Rondônia,RO,Cardoso Paulista,Vereda de Araújo
+2126,Rondônia,RO,Gonçalves de Vieira,Rua de Caldeira
+2127,Rondônia,RO,Gonçalves de Vieira,Trecho Levi Caldeira
+2128,Rondônia,RO,Gonçalves de Vieira,Rua Teixeira
+2129,Rondônia,RO,Gonçalves de Vieira,Avenida de Duarte
+2130,Rondônia,RO,Gonçalves de Vieira,Alameda Novaes
+2131,Rondônia,RO,Nascimento das Pedras,Esplanada de das Neves
+2132,Rondônia,RO,Nascimento das Pedras,Estação Monteiro
+2133,Rondônia,RO,Nascimento das Pedras,Área de Freitas
+2134,Rondônia,RO,Nascimento das Pedras,Feira de da Luz
+2135,Rondônia,RO,Nascimento das Pedras,Via Milena Ramos
+2136,Rondônia,RO,Ferreira,Rodovia Monteiro
+2137,Rondônia,RO,Ferreira,Lago Pedro da Rosa
+2138,Rondônia,RO,Ferreira,Praça Luigi Peixoto
+2139,Rondônia,RO,Ferreira,Vila Cunha
+2140,Rondônia,RO,Ferreira,Travessa de Nascimento
+2141,Rondônia,RO,Nunes,Favela de Sales
+2142,Rondônia,RO,Nunes,Chácara Oliveira
+2143,Rondônia,RO,Nunes,Campo de Porto
+2144,Rondônia,RO,Nunes,Praça Viana
+2145,Rondônia,RO,Nunes,Rodovia Vitor Hugo Nogueira
+2146,Rondônia,RO,Lima,Via Alexandre Souza
+2147,Rondônia,RO,Lima,Praça Rocha
+2148,Rondônia,RO,Lima,Praia Mendes
+2149,Rondônia,RO,Lima,Viela Lucas Martins
+2150,Rondônia,RO,Lima,Ladeira Melo
+2151,Rondônia,RO,Fernandes da Praia,Vale de Sales
+2152,Rondônia,RO,Fernandes da Praia,Rua Costa
+2153,Rondônia,RO,Fernandes da Praia,Condomínio da Rocha
+2154,Rondônia,RO,Fernandes da Praia,Viaduto Porto
+2155,Rondônia,RO,Fernandes da Praia,Estrada Costa
+2156,Rondônia,RO,Sales do Norte,Avenida da Luz
+2157,Rondônia,RO,Sales do Norte,Trevo da Mata
+2158,Rondônia,RO,Sales do Norte,Lagoa Cardoso
+2159,Rondônia,RO,Sales do Norte,Lago Pinto
+2160,Rondônia,RO,Sales do Norte,Vila Melo
+2161,Rondônia,RO,Araújo do Oeste,Via Monteiro
+2162,Rondônia,RO,Araújo do Oeste,Núcleo de Souza
+2163,Rondônia,RO,Araújo do Oeste,Vila de da Paz
+2164,Rondônia,RO,Araújo do Oeste,Travessa de Azevedo
+2165,Rondônia,RO,Araújo do Oeste,Trevo Otávio Moraes
+2166,Rondônia,RO,Castro,Lagoa Ana Beatriz Gomes
+2167,Rondônia,RO,Castro,Lago Esther da Costa
+2168,Rondônia,RO,Castro,Pátio Ana Luiza da Paz
+2169,Rondônia,RO,Castro,Distrito Henrique Oliveira
+2170,Rondônia,RO,Castro,Rua Beatriz Moura
+2171,Rondônia,RO,Lopes,Loteamento de Barbosa
+2172,Rondônia,RO,Lopes,Área Gabriela Nascimento
+2173,Rondônia,RO,Lopes,Esplanada Fernandes
+2174,Rondônia,RO,Lopes,Residencial de da Cruz
+2175,Rondônia,RO,Lopes,Condomínio Ana da Mota
+2176,Rondônia,RO,Lopes da Serra,Sítio Martins
+2177,Rondônia,RO,Lopes da Serra,Morro Cavalcanti
+2178,Rondônia,RO,Lopes da Serra,Esplanada de da Costa
+2179,Rondônia,RO,Lopes da Serra,Jardim Viana
+2180,Rondônia,RO,Lopes da Serra,Estação Alves
+2181,Rondônia,RO,Lima de da Cruz,Largo Pedro Barros
+2182,Rondônia,RO,Lima de da Cruz,Aeroporto Carvalho
+2183,Rondônia,RO,Lima de da Cruz,Trevo Thomas Rezende
+2184,Rondônia,RO,Lima de da Cruz,Distrito Luna Pinto
+2185,Rondônia,RO,Lima de da Cruz,Distrito de Moraes
+2186,Rondônia,RO,Cardoso de Goiás,Área de Martins
+2187,Rondônia,RO,Cardoso de Goiás,Travessa Gomes
+2188,Rondônia,RO,Cardoso de Goiás,Lago Fernanda Gomes
+2189,Rondônia,RO,Cardoso de Goiás,Trecho de Costela
+2190,Rondônia,RO,Cardoso de Goiás,Trevo Stella Freitas
+2191,Rondônia,RO,Novaes do Amparo,Vila Thiago da Rocha
+2192,Rondônia,RO,Novaes do Amparo,Fazenda de da Mota
+2193,Rondônia,RO,Novaes do Amparo,Conjunto Nogueira
+2194,Rondônia,RO,Novaes do Amparo,Feira de da Cunha
+2195,Rondônia,RO,Novaes do Amparo,Jardim Joana da Mata
+2196,Rondônia,RO,da Rosa de Pereira,Sítio Isabelly Farias
+2197,Rondônia,RO,da Rosa de Pereira,Núcleo de Nogueira
+2198,Rondônia,RO,da Rosa de Pereira,Lago de Silveira
+2199,Rondônia,RO,da Rosa de Pereira,Estação Cardoso
+2200,Rondônia,RO,da Rosa de Pereira,Campo Kamilly Farias
+2201,Roraima,RR,Carvalho de Minas,Fazenda Cardoso
+2202,Roraima,RR,Carvalho de Minas,Rodovia Maria Vitória Jesus
+2203,Roraima,RR,Carvalho de Minas,Trevo Evelyn Carvalho
+2204,Roraima,RR,Carvalho de Minas,Largo Pedro Lucas Farias
+2205,Roraima,RR,Carvalho de Minas,Praia de da Costa
+2206,Roraima,RR,Farias de da Cruz,Travessa Marcos Vinicius Fogaça
+2207,Roraima,RR,Farias de da Cruz,Rua Vitor Gabriel Araújo
+2208,Roraima,RR,Farias de da Cruz,Colônia Melo
+2209,Roraima,RR,Farias de da Cruz,Trecho da Cunha
+2210,Roraima,RR,Farias de da Cruz,Colônia de Lima
+2211,Roraima,RR,da Rocha,Estação Diego Moraes
+2212,Roraima,RR,da Rocha,Jardim de Oliveira
+2213,Roraima,RR,da Rocha,Colônia Maysa Martins
+2214,Roraima,RR,da Rocha,Passarela Cardoso
+2215,Roraima,RR,da Rocha,Rodovia Maria Vitória da Luz
+2216,Roraima,RR,Nogueira do Campo,Área Santos
+2217,Roraima,RR,Nogueira do Campo,Quadra de Nogueira
+2218,Roraima,RR,Nogueira do Campo,Chácara Ferreira
+2219,Roraima,RR,Nogueira do Campo,Conjunto de Cardoso
+2220,Roraima,RR,Nogueira do Campo,Quadra Araújo
+2221,Roraima,RR,Rodrigues de Minas,Praça de Pinto
+2222,Roraima,RR,Rodrigues de Minas,Praça Martins
+2223,Roraima,RR,Rodrigues de Minas,Avenida Manuela Santos
+2224,Roraima,RR,Rodrigues de Minas,Ladeira Jesus
+2225,Roraima,RR,Rodrigues de Minas,Alameda João Gabriel Silva
+2226,Roraima,RR,Melo,Campo de Ramos
+2227,Roraima,RR,Melo,Conjunto de Rodrigues
+2228,Roraima,RR,Melo,Viela Moreira
+2229,Roraima,RR,Melo,Condomínio Cardoso
+2230,Roraima,RR,Melo,Aeroporto de Moreira
+2231,Roraima,RR,Porto da Serra,Ladeira Eloah Oliveira
+2232,Roraima,RR,Porto da Serra,Chácara Isadora Oliveira
+2233,Roraima,RR,Porto da Serra,Trevo Azevedo
+2234,Roraima,RR,Porto da Serra,Viaduto Barros
+2235,Roraima,RR,Porto da Serra,Praia de Moura
+2236,Roraima,RR,Silveira,Viaduto de da Cruz
+2237,Roraima,RR,Silveira,Via Nicole Nunes
+2238,Roraima,RR,Silveira,Viela Fernandes
+2239,Roraima,RR,Silveira,Pátio Barros
+2240,Roraima,RR,Silveira,Trecho Juan Carvalho
+2241,Roraima,RR,Almeida de da Luz,Praia de Viana
+2242,Roraima,RR,Almeida de da Luz,Residencial da Luz
+2243,Roraima,RR,Almeida de da Luz,Praia Maysa das Neves
+2244,Roraima,RR,Almeida de da Luz,Praia Mirella da Costa
+2245,Roraima,RR,Almeida de da Luz,Vila Oliveira
+2246,Roraima,RR,Fogaça,Residencial Azevedo
+2247,Roraima,RR,Fogaça,Vereda Fogaça
+2248,Roraima,RR,Fogaça,Chácara de Ferreira
+2249,Roraima,RR,Fogaça,Trevo de Cavalcanti
+2250,Roraima,RR,Fogaça,Distrito de Cavalcanti
+2251,Roraima,RR,Novaes de Oliveira,Chácara de Farias
+2252,Roraima,RR,Novaes de Oliveira,Vereda de Melo
+2253,Roraima,RR,Novaes de Oliveira,Campo de Nascimento
+2254,Roraima,RR,Novaes de Oliveira,Núcleo da Rosa
+2255,Roraima,RR,Novaes de Oliveira,Alameda de Viana
+2256,Roraima,RR,Fogaça,Aeroporto Isabella Sales
+2257,Roraima,RR,Fogaça,Viaduto Pietra Sales
+2258,Roraima,RR,Fogaça,Loteamento Viana
+2259,Roraima,RR,Fogaça,Alameda de Pereira
+2260,Roraima,RR,Fogaça,Quadra Costela
+2261,Roraima,RR,Duarte,Travessa Nunes
+2262,Roraima,RR,Duarte,Rua Manuela Nunes
+2263,Roraima,RR,Duarte,Estrada de Araújo
+2264,Roraima,RR,Duarte,Trecho Nogueira
+2265,Roraima,RR,Duarte,Favela de Rezende
+2266,Roraima,RR,da Luz,Lago de da Conceição
+2267,Roraima,RR,da Luz,Trecho Luna Silveira
+2268,Roraima,RR,da Luz,Vale Noah das Neves
+2269,Roraima,RR,da Luz,Setor de da Mata
+2270,Roraima,RR,da Luz,Colônia de Almeida
+2271,Roraima,RR,Mendes da Mata,Favela Theo Aragão
+2272,Roraima,RR,Mendes da Mata,Parque Luiz Miguel Sales
+2273,Roraima,RR,Mendes da Mata,Recanto Fernanda Moreira
+2274,Roraima,RR,Mendes da Mata,Avenida Davi Lucas Fernandes
+2275,Roraima,RR,Mendes da Mata,Residencial da Luz
+2276,Roraima,RR,Viana,Aeroporto Correia
+2277,Roraima,RR,Viana,Lagoa Cardoso
+2278,Roraima,RR,Viana,Via de Oliveira
+2279,Roraima,RR,Viana,Alameda de Martins
+2280,Roraima,RR,Viana,Passarela de Castro
+2281,Roraima,RR,Rocha da Mata,Parque João Pedro Barbosa
+2282,Roraima,RR,Rocha da Mata,Vale Silveira
+2283,Roraima,RR,Rocha da Mata,Largo Cavalcanti
+2284,Roraima,RR,Rocha da Mata,Sítio de da Cunha
+2285,Roraima,RR,Rocha da Mata,Área de Santos
+2286,Roraima,RR,Souza da Praia,Passarela Marcela Moreira
+2287,Roraima,RR,Souza da Praia,Recanto de da Mata
+2288,Roraima,RR,Souza da Praia,Trecho de Rodrigues
+2289,Roraima,RR,Souza da Praia,Avenida de Melo
+2290,Roraima,RR,Souza da Praia,Aeroporto de Pinto
+2291,Roraima,RR,Rodrigues,Distrito da Rosa
+2292,Roraima,RR,Rodrigues,Avenida de Castro
+2293,Roraima,RR,Rodrigues,Avenida Cardoso
+2294,Roraima,RR,Rodrigues,Trecho Nina Farias
+2295,Roraima,RR,Rodrigues,Quadra Yuri Ramos
+2296,Roraima,RR,das Neves,Viaduto Davi Lucca Rezende
+2297,Roraima,RR,das Neves,Ladeira Dias
+2298,Roraima,RR,das Neves,Residencial Camila Gonçalves
+2299,Roraima,RR,das Neves,Viaduto de das Neves
+2300,Roraima,RR,das Neves,Esplanada Mendes
+2301,Santa Catarina,SC,das Neves,Trevo da Conceição
+2302,Santa Catarina,SC,das Neves,Rua Luana Fernandes
+2303,Santa Catarina,SC,das Neves,Viaduto Nascimento
+2304,Santa Catarina,SC,das Neves,Rua Luna Cardoso
+2305,Santa Catarina,SC,das Neves,Colônia Gomes
+2306,Santa Catarina,SC,Silveira de Goiás,Lagoa de Castro
+2307,Santa Catarina,SC,Silveira de Goiás,Viaduto de Barros
+2308,Santa Catarina,SC,Silveira de Goiás,Estação Costela
+2309,Santa Catarina,SC,Silveira de Goiás,Lago Rodrigues
+2310,Santa Catarina,SC,Silveira de Goiás,Fazenda da Costa
+2311,Santa Catarina,SC,Sales de Goiás,Colônia de Mendes
+2312,Santa Catarina,SC,Sales de Goiás,Praia de da Mota
+2313,Santa Catarina,SC,Sales de Goiás,Pátio de da Conceição
+2314,Santa Catarina,SC,Sales de Goiás,Recanto Monteiro
+2315,Santa Catarina,SC,Sales de Goiás,Morro Joana Nunes
+2316,Santa Catarina,SC,Silveira das Pedras,Passarela de Costela
+2317,Santa Catarina,SC,Silveira das Pedras,Condomínio de da Costa
+2318,Santa Catarina,SC,Silveira das Pedras,Núcleo Peixoto
+2319,Santa Catarina,SC,Silveira das Pedras,Rua Alana Oliveira
+2320,Santa Catarina,SC,Silveira das Pedras,Setor de Carvalho
+2321,Santa Catarina,SC,Silveira,Loteamento da Mota
+2322,Santa Catarina,SC,Silveira,Núcleo Pires
+2323,Santa Catarina,SC,Silveira,Área Fogaça
+2324,Santa Catarina,SC,Silveira,Aeroporto Rodrigues
+2325,Santa Catarina,SC,Silveira,Recanto da Rocha
+2326,Santa Catarina,SC,da Cunha dos Dourados,Condomínio de Barbosa
+2327,Santa Catarina,SC,da Cunha dos Dourados,Travessa Lucas Gabriel Aragão
+2328,Santa Catarina,SC,da Cunha dos Dourados,Recanto Moraes
+2329,Santa Catarina,SC,da Cunha dos Dourados,Rua de da Cruz
+2330,Santa Catarina,SC,da Cunha dos Dourados,Estrada Maria Moraes
+2331,Santa Catarina,SC,da Mota da Serra,Conjunto de Moura
+2332,Santa Catarina,SC,da Mota da Serra,Estrada da Rocha
+2333,Santa Catarina,SC,da Mota da Serra,Alameda Cauã Gonçalves
+2334,Santa Catarina,SC,da Mota da Serra,Residencial Viana
+2335,Santa Catarina,SC,da Mota da Serra,Praia Martins
+2336,Santa Catarina,SC,Costela da Serra,Trevo Monteiro
+2337,Santa Catarina,SC,Costela da Serra,Setor de Barbosa
+2338,Santa Catarina,SC,Costela da Serra,Setor Lopes
+2339,Santa Catarina,SC,Costela da Serra,Jardim Isadora Barbosa
+2340,Santa Catarina,SC,Costela da Serra,Lago Rebeca Barros
+2341,Santa Catarina,SC,Castro,Aeroporto Luiz Gustavo Caldeira
+2342,Santa Catarina,SC,Castro,Avenida da Mata
+2343,Santa Catarina,SC,Castro,Sítio Moraes
+2344,Santa Catarina,SC,Castro,Recanto Esther Almeida
+2345,Santa Catarina,SC,Castro,Rodovia Vitor Gabriel Campos
+2346,Santa Catarina,SC,Moura,Vereda de Sales
+2347,Santa Catarina,SC,Moura,Quadra Maria Fernanda Mendes
+2348,Santa Catarina,SC,Moura,Vereda Lima
+2349,Santa Catarina,SC,Moura,Vila Barbosa
+2350,Santa Catarina,SC,Moura,Lagoa de Nogueira
+2351,Santa Catarina,SC,Souza,Avenida Sales
+2352,Santa Catarina,SC,Souza,Residencial Melo
+2353,Santa Catarina,SC,Souza,Parque da Costa
+2354,Santa Catarina,SC,Souza,Loteamento Enzo Araújo
+2355,Santa Catarina,SC,Souza,Viela de Gonçalves
+2356,Santa Catarina,SC,Caldeira das Flores,Área Milena Peixoto
+2357,Santa Catarina,SC,Caldeira das Flores,Estrada Esther da Costa
+2358,Santa Catarina,SC,Caldeira das Flores,Residencial Guilherme Moreira
+2359,Santa Catarina,SC,Caldeira das Flores,Trevo Fernandes
+2360,Santa Catarina,SC,Caldeira das Flores,Fazenda Lorena da Costa
+2361,Santa Catarina,SC,Aragão Alegre,Trecho de Campos
+2362,Santa Catarina,SC,Aragão Alegre,Lago Sales
+2363,Santa Catarina,SC,Aragão Alegre,Avenida Theo da Mota
+2364,Santa Catarina,SC,Aragão Alegre,Condomínio de Dias
+2365,Santa Catarina,SC,Aragão Alegre,Parque de Moura
+2366,Santa Catarina,SC,da Paz Paulista,Conjunto Costela
+2367,Santa Catarina,SC,da Paz Paulista,Avenida Lucas Sales
+2368,Santa Catarina,SC,da Paz Paulista,Fazenda de Costela
+2369,Santa Catarina,SC,da Paz Paulista,Trecho Dias
+2370,Santa Catarina,SC,da Paz Paulista,Pátio de Martins
+2371,Santa Catarina,SC,Nascimento Grande,Avenida Alícia Teixeira
+2372,Santa Catarina,SC,Nascimento Grande,Lago de Mendes
+2373,Santa Catarina,SC,Nascimento Grande,Recanto Agatha Mendes
+2374,Santa Catarina,SC,Nascimento Grande,Rodovia Catarina Pinto
+2375,Santa Catarina,SC,Nascimento Grande,Distrito de Pereira
+2376,Santa Catarina,SC,da Mata,Lagoa Emilly Cardoso
+2377,Santa Catarina,SC,da Mata,Fazenda de Oliveira
+2378,Santa Catarina,SC,da Mata,Setor Maria Vitória da Costa
+2379,Santa Catarina,SC,da Mata,Campo Joaquim Novaes
+2380,Santa Catarina,SC,da Mata,Fazenda Henrique Monteiro
+2381,Santa Catarina,SC,da Cruz de Almeida,Feira Cardoso
+2382,Santa Catarina,SC,da Cruz de Almeida,Campo de da Cruz
+2383,Santa Catarina,SC,da Cruz de Almeida,Favela Melo
+2384,Santa Catarina,SC,da Cruz de Almeida,Passarela Moura
+2385,Santa Catarina,SC,da Cruz de Almeida,Viela Silva
+2386,Santa Catarina,SC,Gonçalves da Prata,Viela Anthony da Rocha
+2387,Santa Catarina,SC,Gonçalves da Prata,Parque Carvalho
+2388,Santa Catarina,SC,Gonçalves da Prata,Trecho de Barros
+2389,Santa Catarina,SC,Gonçalves da Prata,Trevo de Araújo
+2390,Santa Catarina,SC,Gonçalves da Prata,Setor da Conceição
+2391,Santa Catarina,SC,Moreira,Estação de Nascimento
+2392,Santa Catarina,SC,Moreira,Jardim Leonardo Carvalho
+2393,Santa Catarina,SC,Moreira,Aeroporto de Martins
+2394,Santa Catarina,SC,Moreira,Área Camila Barbosa
+2395,Santa Catarina,SC,Moreira,Setor Farias
+2396,Santa Catarina,SC,Ramos das Flores,Sítio de Peixoto
+2397,Santa Catarina,SC,Ramos das Flores,Condomínio Yago Novaes
+2398,Santa Catarina,SC,Ramos das Flores,Estação Fogaça
+2399,Santa Catarina,SC,Ramos das Flores,Campo de Castro
+2400,Santa Catarina,SC,Ramos das Flores,Distrito Giovanna Moreira
+2401,São Paulo,SP,Monteiro,Chácara Sales
+2402,São Paulo,SP,Monteiro,Praia de Pereira
+2403,São Paulo,SP,Monteiro,Esplanada Augusto Araújo
+2404,São Paulo,SP,Monteiro,Largo de da Rosa
+2405,São Paulo,SP,Monteiro,Sítio de da Conceição
+2406,São Paulo,SP,Nascimento,Alameda de da Mota
+2407,São Paulo,SP,Nascimento,Loteamento Martins
+2408,São Paulo,SP,Nascimento,Conjunto de Cunha
+2409,São Paulo,SP,Nascimento,Via da Paz
+2410,São Paulo,SP,Nascimento,Travessa da Costa
+2411,São Paulo,SP,Azevedo Alegre,Sítio Gustavo Henrique Lopes
+2412,São Paulo,SP,Azevedo Alegre,Feira Cardoso
+2413,São Paulo,SP,Azevedo Alegre,Aeroporto Rodrigo Freitas
+2414,São Paulo,SP,Azevedo Alegre,Residencial Bernardo Araújo
+2415,São Paulo,SP,Azevedo Alegre,Recanto de Lopes
+2416,São Paulo,SP,Oliveira,Estrada Porto
+2417,São Paulo,SP,Oliveira,Jardim Melissa Jesus
+2418,São Paulo,SP,Oliveira,Vale de Freitas
+2419,São Paulo,SP,Oliveira,Lagoa de Costela
+2420,São Paulo,SP,Oliveira,Conjunto Farias
+2421,São Paulo,SP,Cardoso Verde,Estrada Murilo Dias
+2422,São Paulo,SP,Cardoso Verde,Aeroporto Davi Luiz Teixeira
+2423,São Paulo,SP,Cardoso Verde,Chácara Igor Martins
+2424,São Paulo,SP,Cardoso Verde,Vale Duarte
+2425,São Paulo,SP,Cardoso Verde,Morro Nina Duarte
+2426,São Paulo,SP,Pinto,Conjunto Cardoso
+2427,São Paulo,SP,Pinto,Favela Jesus
+2428,São Paulo,SP,Pinto,Fazenda Rodrigues
+2429,São Paulo,SP,Pinto,Lago Castro
+2430,São Paulo,SP,Pinto,Jardim Porto
+2431,São Paulo,SP,Rocha do Sul,Passarela Martins
+2432,São Paulo,SP,Rocha do Sul,Condomínio João Felipe Costa
+2433,São Paulo,SP,Rocha do Sul,Vila Ryan Silveira
+2434,São Paulo,SP,Rocha do Sul,Loteamento Pinto
+2435,São Paulo,SP,Rocha do Sul,Alameda de Santos
+2436,São Paulo,SP,da Paz,Distrito Ana Laura da Cunha
+2437,São Paulo,SP,da Paz,Aeroporto Ribeiro
+2438,São Paulo,SP,da Paz,Quadra João Gabriel Azevedo
+2439,São Paulo,SP,da Paz,Campo da Costa
+2440,São Paulo,SP,da Paz,Quadra Araújo
+2441,São Paulo,SP,Farias,Morro de da Cruz
+2442,São Paulo,SP,Farias,Fazenda Nascimento
+2443,São Paulo,SP,Farias,Passarela João Guilherme Almeida
+2444,São Paulo,SP,Farias,Ladeira Samuel Melo
+2445,São Paulo,SP,Farias,Alameda Maria da Rosa
+2446,São Paulo,SP,Caldeira do Norte,Lago Julia Ribeiro
+2447,São Paulo,SP,Caldeira do Norte,Distrito Leonardo Costela
+2448,São Paulo,SP,Caldeira do Norte,Favela de da Mata
+2449,São Paulo,SP,Caldeira do Norte,Aeroporto Porto
+2450,São Paulo,SP,Caldeira do Norte,Conjunto Danilo Campos
+2451,São Paulo,SP,Castro,Campo Guilherme da Luz
+2452,São Paulo,SP,Castro,Viela Campos
+2453,São Paulo,SP,Castro,Área de Lima
+2454,São Paulo,SP,Castro,Esplanada de Cardoso
+2455,São Paulo,SP,Castro,Alameda de Costela
+2456,São Paulo,SP,Almeida,Setor de Gomes
+2457,São Paulo,SP,Almeida,Lago de Costa
+2458,São Paulo,SP,Almeida,Parque da Cunha
+2459,São Paulo,SP,Almeida,Morro de Barbosa
+2460,São Paulo,SP,Almeida,Travessa de Porto
+2461,São Paulo,SP,Almeida Verde,Núcleo Leonardo Costela
+2462,São Paulo,SP,Almeida Verde,Feira João Guilherme Fogaça
+2463,São Paulo,SP,Almeida Verde,Largo de da Conceição
+2464,São Paulo,SP,Almeida Verde,Condomínio de Teixeira
+2465,São Paulo,SP,Almeida Verde,Chácara de Costa
+2466,São Paulo,SP,da Rocha do Sul,Praia Peixoto
+2467,São Paulo,SP,da Rocha do Sul,Pátio Correia
+2468,São Paulo,SP,da Rocha do Sul,Via Maria Clara Teixeira
+2469,São Paulo,SP,da Rocha do Sul,Esplanada de Viana
+2470,São Paulo,SP,da Rocha do Sul,Lago da Mata
+2471,São Paulo,SP,Ramos de Costa,Lago Farias
+2472,São Paulo,SP,Ramos de Costa,Travessa de Almeida
+2473,São Paulo,SP,Ramos de Costa,Vila de Cunha
+2474,São Paulo,SP,Ramos de Costa,Núcleo Bruna da Rocha
+2475,São Paulo,SP,Ramos de Costa,Favela Maria Vitória da Cunha
+2476,São Paulo,SP,da Mota,Conjunto Rafaela Lima
+2477,São Paulo,SP,da Mota,Fazenda de Alves
+2478,São Paulo,SP,da Mota,Conjunto Caroline Farias
+2479,São Paulo,SP,da Mota,Condomínio João Moraes
+2480,São Paulo,SP,da Mota,Setor Luiz Fernando Lopes
+2481,São Paulo,SP,Alves do Sul,Núcleo Pires
+2482,São Paulo,SP,Alves do Sul,Sítio de Teixeira
+2483,São Paulo,SP,Alves do Sul,Vale Bryan Cardoso
+2484,São Paulo,SP,Alves do Sul,Sítio Teixeira
+2485,São Paulo,SP,Alves do Sul,Distrito Noah Teixeira
+2486,São Paulo,SP,Rodrigues da Praia,Viaduto de da Costa
+2487,São Paulo,SP,Rodrigues da Praia,Fazenda de Ribeiro
+2488,São Paulo,SP,Rodrigues da Praia,Loteamento Fernandes
+2489,São Paulo,SP,Rodrigues da Praia,Núcleo de Silveira
+2490,São Paulo,SP,Rodrigues da Praia,Vale de Cunha
+2491,São Paulo,SP,da Cunha,Sítio de Teixeira
+2492,São Paulo,SP,da Cunha,Chácara Ferreira
+2493,São Paulo,SP,da Cunha,Praça de Costa
+2494,São Paulo,SP,da Cunha,Parque Aragão
+2495,São Paulo,SP,da Cunha,Vila de Silva
+2496,São Paulo,SP,da Cruz,Vale Yago Cardoso
+2497,São Paulo,SP,da Cruz,Ladeira de Pereira
+2498,São Paulo,SP,da Cruz,Quadra da Mata
+2499,São Paulo,SP,da Cruz,Vila Pedro Henrique Silva
+2500,São Paulo,SP,da Cruz,Praia de Duarte
+2501,Sergipe,SE,Dias de Barros,Vila da Conceição
+2502,Sergipe,SE,Dias de Barros,Vereda Mariana Costela
+2503,Sergipe,SE,Dias de Barros,Rua Caldeira
+2504,Sergipe,SE,Dias de Barros,Ladeira Pires
+2505,Sergipe,SE,Dias de Barros,Vereda da Costa
+2506,Sergipe,SE,Campos de Castro,Morro Almeida
+2507,Sergipe,SE,Campos de Castro,Vila Silva
+2508,Sergipe,SE,Campos de Castro,Chácara Ana Julia Silva
+2509,Sergipe,SE,Campos de Castro,Esplanada Sales
+2510,Sergipe,SE,Campos de Castro,Setor de Aragão
+2511,Sergipe,SE,Barbosa,Recanto da Cunha
+2512,Sergipe,SE,Barbosa,Fazenda Moraes
+2513,Sergipe,SE,Barbosa,Via Alana Pinto
+2514,Sergipe,SE,Barbosa,Área Jesus
+2515,Sergipe,SE,Barbosa,Sítio de Barbosa
+2516,Sergipe,SE,da Costa Paulista,Rua Nogueira
+2517,Sergipe,SE,da Costa Paulista,Chácara Stephany Cavalcanti
+2518,Sergipe,SE,da Costa Paulista,Praia João Guilherme Cavalcanti
+2519,Sergipe,SE,da Costa Paulista,Colônia Stephany Santos
+2520,Sergipe,SE,da Costa Paulista,Pátio de Silva
+2521,Sergipe,SE,da Rosa,Viaduto Melo
+2522,Sergipe,SE,da Rosa,Rodovia Melo
+2523,Sergipe,SE,da Rosa,Trevo de Costa
+2524,Sergipe,SE,da Rosa,Vila de das Neves
+2525,Sergipe,SE,da Rosa,Vila Pinto
+2526,Sergipe,SE,Moreira da Serra,Viaduto Daniela da Conceição
+2527,Sergipe,SE,Moreira da Serra,Ladeira Pedro Lucas Gonçalves
+2528,Sergipe,SE,Moreira da Serra,Aeroporto de Jesus
+2529,Sergipe,SE,Moreira da Serra,Alameda da Rosa
+2530,Sergipe,SE,Moreira da Serra,Esplanada Ramos
+2531,Sergipe,SE,Mendes,Ladeira Melissa Silveira
+2532,Sergipe,SE,Mendes,Lagoa de Jesus
+2533,Sergipe,SE,Mendes,Viaduto de Novaes
+2534,Sergipe,SE,Mendes,Setor Milena Sales
+2535,Sergipe,SE,Mendes,Setor de Barros
+2536,Sergipe,SE,das Neves,Trevo de da Costa
+2537,Sergipe,SE,das Neves,Condomínio Ana Carolina Barbosa
+2538,Sergipe,SE,das Neves,Viela de Araújo
+2539,Sergipe,SE,das Neves,Largo da Mata
+2540,Sergipe,SE,das Neves,Vale Moura
+2541,Sergipe,SE,Moreira da Prata,Jardim João Lucas Araújo
+2542,Sergipe,SE,Moreira da Prata,Praia Emilly Pereira
+2543,Sergipe,SE,Moreira da Prata,Colônia de Novaes
+2544,Sergipe,SE,Moreira da Prata,Feira Moura
+2545,Sergipe,SE,Moreira da Prata,Via de Pereira
+2546,Sergipe,SE,Melo das Pedras,Vereda de da Luz
+2547,Sergipe,SE,Melo das Pedras,Morro Lima
+2548,Sergipe,SE,Melo das Pedras,Praia da Rosa
+2549,Sergipe,SE,Melo das Pedras,Sítio Monteiro
+2550,Sergipe,SE,Melo das Pedras,Via Moreira
+2551,Sergipe,SE,Santos,Alameda Guilherme Alves
+2552,Sergipe,SE,Santos,Favela Emilly Correia
+2553,Sergipe,SE,Santos,Jardim da Costa
+2554,Sergipe,SE,Santos,Praça da Mota
+2555,Sergipe,SE,Santos,Via Júlia Caldeira
+2556,Sergipe,SE,da Conceição da Serra,Quadra Peixoto
+2557,Sergipe,SE,da Conceição da Serra,Loteamento Silveira
+2558,Sergipe,SE,da Conceição da Serra,Conjunto Isabel da Rosa
+2559,Sergipe,SE,da Conceição da Serra,Travessa Marcos Vinicius Gonçalves
+2560,Sergipe,SE,da Conceição da Serra,Praça Benjamin Gomes
+2561,Sergipe,SE,Rocha,Quadra Emanuella Correia
+2562,Sergipe,SE,Rocha,Via Moraes
+2563,Sergipe,SE,Rocha,Quadra de da Mata
+2564,Sergipe,SE,Rocha,Ladeira de da Costa
+2565,Sergipe,SE,Rocha,Chácara Guilherme Silva
+2566,Sergipe,SE,Lima,Largo Teixeira
+2567,Sergipe,SE,Lima,Rodovia Gonçalves
+2568,Sergipe,SE,Lima,Área de Rocha
+2569,Sergipe,SE,Lima,Recanto Pietra Silva
+2570,Sergipe,SE,Lima,Rodovia Luiz Gustavo Peixoto
+2571,Sergipe,SE,Freitas da Prata,Sítio Isabella da Costa
+2572,Sergipe,SE,Freitas da Prata,Quadra de Caldeira
+2573,Sergipe,SE,Freitas da Prata,Pátio de Lima
+2574,Sergipe,SE,Freitas da Prata,Praia Maria Luiza Sales
+2575,Sergipe,SE,Freitas da Prata,Ladeira de Santos
+2576,Sergipe,SE,da Costa de Correia,Rua Mariana Rodrigues
+2577,Sergipe,SE,da Costa de Correia,Ladeira Erick Barbosa
+2578,Sergipe,SE,da Costa de Correia,Sítio Enzo Gabriel Novaes
+2579,Sergipe,SE,da Costa de Correia,Estação Vitória da Rosa
+2580,Sergipe,SE,da Costa de Correia,Feira Diego Porto
+2581,Sergipe,SE,da Cunha de Peixoto,Lagoa Monteiro
+2582,Sergipe,SE,da Cunha de Peixoto,Distrito de da Paz
+2583,Sergipe,SE,da Cunha de Peixoto,Favela Viana
+2584,Sergipe,SE,da Cunha de Peixoto,Estação Teixeira
+2585,Sergipe,SE,da Cunha de Peixoto,Núcleo Ribeiro
+2586,Sergipe,SE,Caldeira,Distrito Stephany Oliveira
+2587,Sergipe,SE,Caldeira,Conjunto de da Luz
+2588,Sergipe,SE,Caldeira,Lago Esther Nascimento
+2589,Sergipe,SE,Caldeira,Rodovia Silva
+2590,Sergipe,SE,Caldeira,Fazenda de Porto
+2591,Sergipe,SE,Oliveira,Feira Aragão
+2592,Sergipe,SE,Oliveira,Conjunto Lucas Aragão
+2593,Sergipe,SE,Oliveira,Travessa João Viana
+2594,Sergipe,SE,Oliveira,Morro Theo Gomes
+2595,Sergipe,SE,Oliveira,Fazenda Luiz Otávio Cunha
+2596,Sergipe,SE,Campos de Souza,Área Costela
+2597,Sergipe,SE,Campos de Souza,Vereda Silveira
+2598,Sergipe,SE,Campos de Souza,Rodovia Laís Alves
+2599,Sergipe,SE,Campos de Souza,Ladeira de da Mota
+2600,Sergipe,SE,Campos de Souza,Campo de Freitas
+2601,Tocantins,TO,Monteiro do Galho,Lagoa Costa
+2602,Tocantins,TO,Monteiro do Galho,Morro de Nascimento
+2603,Tocantins,TO,Monteiro do Galho,Alameda Luana Almeida
+2604,Tocantins,TO,Monteiro do Galho,Área Freitas
+2605,Tocantins,TO,Monteiro do Galho,Rua de Moraes
+2606,Tocantins,TO,Moura das Flores,Favela Francisco da Luz
+2607,Tocantins,TO,Moura das Flores,Campo Breno Rezende
+2608,Tocantins,TO,Moura das Flores,Favela de Nascimento
+2609,Tocantins,TO,Moura das Flores,Vale Araújo
+2610,Tocantins,TO,Moura das Flores,Passarela de Dias
+2611,Tocantins,TO,Costela,Travessa de Campos
+2612,Tocantins,TO,Costela,Parque Luiz Gustavo Cardoso
+2613,Tocantins,TO,Costela,Área Monteiro
+2614,Tocantins,TO,Costela,Morro de Ribeiro
+2615,Tocantins,TO,Costela,Trevo Dias
+2616,Tocantins,TO,Caldeira,Ladeira de Campos
+2617,Tocantins,TO,Caldeira,Via Luiza Gomes
+2618,Tocantins,TO,Caldeira,Vereda de Barbosa
+2619,Tocantins,TO,Caldeira,Largo Enzo Gabriel Oliveira
+2620,Tocantins,TO,Caldeira,Avenida de Oliveira
+2621,Tocantins,TO,Monteiro,Quadra Júlia Ramos
+2622,Tocantins,TO,Monteiro,Condomínio de Vieira
+2623,Tocantins,TO,Monteiro,Passarela Sarah Pinto
+2624,Tocantins,TO,Monteiro,Chácara Cavalcanti
+2625,Tocantins,TO,Monteiro,Lago Manuela Moura
+2626,Tocantins,TO,Souza,Parque Maria Julia da Cruz
+2627,Tocantins,TO,Souza,Avenida Lívia Souza
+2628,Tocantins,TO,Souza,Quadra de Monteiro
+2629,Tocantins,TO,Souza,Travessa de Castro
+2630,Tocantins,TO,Souza,Lago de Nascimento
+2631,Tocantins,TO,Moreira do Norte,Viaduto de Cardoso
+2632,Tocantins,TO,Moreira do Norte,Travessa Porto
+2633,Tocantins,TO,Moreira do Norte,Loteamento de Viana
+2634,Tocantins,TO,Moreira do Norte,Chácara de Vieira
+2635,Tocantins,TO,Moreira do Norte,Campo Almeida
+2636,Tocantins,TO,Moura do Norte,Passarela Leonardo Carvalho
+2637,Tocantins,TO,Moura do Norte,Praça Rafaela Duarte
+2638,Tocantins,TO,Moura do Norte,Morro Isadora Cardoso
+2639,Tocantins,TO,Moura do Norte,Estação de Moraes
+2640,Tocantins,TO,Moura do Norte,Esplanada Costela
+2641,Tocantins,TO,da Rosa,Praça Enzo Melo
+2642,Tocantins,TO,da Rosa,Feira de Costela
+2643,Tocantins,TO,da Rosa,Trecho Nina Santos
+2644,Tocantins,TO,da Rosa,Lago Rocha
+2645,Tocantins,TO,da Rosa,Sítio Luiza Araújo
+2646,Tocantins,TO,Gonçalves da Prata,Quadra Lima
+2647,Tocantins,TO,Gonçalves da Prata,Loteamento Clara Silveira
+2648,Tocantins,TO,Gonçalves da Prata,Jardim Joana Nascimento
+2649,Tocantins,TO,Gonçalves da Prata,Praia de Rezende
+2650,Tocantins,TO,Gonçalves da Prata,Vereda Rezende
+2651,Tocantins,TO,Fernandes de Rocha,Vila Sabrina Silveira
+2652,Tocantins,TO,Fernandes de Rocha,Vila da Cunha
+2653,Tocantins,TO,Fernandes de Rocha,Condomínio Moura
+2654,Tocantins,TO,Fernandes de Rocha,Favela da Cunha
+2655,Tocantins,TO,Fernandes de Rocha,Praça Pedro Lucas Caldeira
+2656,Tocantins,TO,Nascimento do Galho,Trevo Maria Sophia Nunes
+2657,Tocantins,TO,Nascimento do Galho,Alameda Manuela Cavalcanti
+2658,Tocantins,TO,Nascimento do Galho,Jardim de da Costa
+2659,Tocantins,TO,Nascimento do Galho,Colônia de Cardoso
+2660,Tocantins,TO,Nascimento do Galho,Travessa Cavalcanti
+2661,Tocantins,TO,Viana,Lago de Barros
+2662,Tocantins,TO,Viana,Passarela Rezende
+2663,Tocantins,TO,Viana,Estrada Heitor Barros
+2664,Tocantins,TO,Viana,Residencial de da Costa
+2665,Tocantins,TO,Viana,Residencial Rezende
+2666,Tocantins,TO,da Conceição Paulista,Viela de da Mota
+2667,Tocantins,TO,da Conceição Paulista,Residencial Rodrigues
+2668,Tocantins,TO,da Conceição Paulista,Quadra Vieira
+2669,Tocantins,TO,da Conceição Paulista,Estrada de Oliveira
+2670,Tocantins,TO,da Conceição Paulista,Praça Teixeira
+2671,Tocantins,TO,Cardoso,Loteamento de das Neves
+2672,Tocantins,TO,Cardoso,Fazenda da Mota
+2673,Tocantins,TO,Cardoso,Parque Nunes
+2674,Tocantins,TO,Cardoso,Feira Bruna Rocha
+2675,Tocantins,TO,Cardoso,Trecho Emilly Fogaça
+2676,Tocantins,TO,Melo de Barbosa,Vereda Davi Almeida
+2677,Tocantins,TO,Melo de Barbosa,Recanto de Almeida
+2678,Tocantins,TO,Melo de Barbosa,Setor de Aragão
+2679,Tocantins,TO,Melo de Barbosa,Núcleo Pires
+2680,Tocantins,TO,Melo de Barbosa,Parque Julia Santos
+2681,Tocantins,TO,Nogueira,Campo de Barros
+2682,Tocantins,TO,Nogueira,Vereda Fernandes
+2683,Tocantins,TO,Nogueira,Lagoa de Cunha
+2684,Tocantins,TO,Nogueira,Travessa de Carvalho
+2685,Tocantins,TO,Nogueira,Estrada Duarte
+2686,Tocantins,TO,da Mata,Travessa de Cardoso
+2687,Tocantins,TO,da Mata,Lago da Rocha
+2688,Tocantins,TO,da Mata,Vale de Novaes
+2689,Tocantins,TO,da Mata,Parque de Santos
+2690,Tocantins,TO,da Mata,Praia Nina Lima
+2691,Tocantins,TO,da Luz do Oeste,Vale Silva
+2692,Tocantins,TO,da Luz do Oeste,Vila Ana Rodrigues
+2693,Tocantins,TO,da Luz do Oeste,Alameda de Azevedo
+2694,Tocantins,TO,da Luz do Oeste,Loteamento de da Mota
+2695,Tocantins,TO,da Luz do Oeste,Favela de Souza
+2696,Tocantins,TO,Cardoso,Vale de da Costa
+2697,Tocantins,TO,Cardoso,Avenida Viana
+2698,Tocantins,TO,Cardoso,Sítio de Melo
+2699,Tocantins,TO,Cardoso,Parque Gomes
+2700,Tocantins,TO,Cardoso,Praça de Carvalho

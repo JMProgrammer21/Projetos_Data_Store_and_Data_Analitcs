@@ -1,0 +1,11 @@
+Id,Nome,Descrição
+1,Produto não recebido ," O cliente fez a compra, mas o produto nunca chegou."
+2,Produto diferente do anunciado , O item recebido não corresponde à descrição ou imagens do site.
+3,Atraso na entrega , O pedido demorou mais do que o prazo estimado para chegar.
+4,Produto com defeito ," O item chegou danificado, quebrado ou com mau funcionamento."
+5,Tamanho ou cor errados , O cliente recebeu uma variação errada do produto (exemplo: camisa de tamanho M em vez de G).
+6,Erro no pagamento ," Cobrança duplicada, falha no processamento ou valores incorretos."
+7,Dificuldade para cancelar pedido ," O cliente tentou cancelar, mas não conseguiu ou foi cobrado indevidamente."
+8,Atendimento ruim ," O suporte ao cliente foi ineficiente, demorado ou rude."
+9,Problema com reembolso ," O cliente devolveu o produto, mas não recebeu o reembolso no prazo."
+10,Produto incompleto , Peças ou acessórios essenciais para o uso do produto não foram enviados.

@@ -1,0 +1,51 @@
+vendedor_id;nome_vendedor;sobrenome;Estado(vendedor);Sigla(vendedor);Cidade(vendedor);bairro(vendedor);reputacao
+1;Danilo;Caldeira;Tocantins;TO;Cardoso;Estrada Nogueira;2
+2;Ryan;Santos;Rio Grande do Sul;RS;Almeida;Vale Farias;2
+3;Alice;Viana;Bahia;BA;da Conceição;Campo Raul Barros;3
+4;Yuri;Fernandes;Piauí;PI;Vieira;Esplanada Alves;2
+5;Noah;Aragão;Bahia;BA;Pereira de Minas;Esplanada de Souza;3
+6;Thomas;Campos;Pará;PA;Barros do Oeste;Rua Marcelo Dias;3
+7;Caroline;Caldeira;Amazonas;AM;Jesus;Trevo Eloah Fernandes;4
+8;Clara;Aragão;Rio de Janeiro;RJ;Cardoso;Praia Luana Novaes;5
+9;Leonardo;Campos;Santa Catarina;SC;da Mata;Chácara de Farias;5
+10;Emanuellyda;Rocha;Rio Grande do Norte;RN;Castro da Serra;Travessa Melo;2
+11;André;Novaes;Maranhão;MA;Carvalho;Estrada Dias;5
+12;Srta;Maitê;Tocantins;TO;Cardoso;Parque de Silveira;3
+13;Luiz;Cruz;São Paulo;SP;Caldeira do Norte;Conjunto Danilo Campos;4
+14;Mariane;Lima;Piauí;PI;Fogaça de Ribeiro;Estrada de Fogaça;1
+15;Carlos;Martins;Rio Grande do Norte;RN;Novaes;Estação João Guilherme da Costa;5
+16;Felipe;Farias;Mato Grosso;MT;Jesus da Praia;Vale Nunes;4
+17;Theoda;Cruz;Paraíba;PB;Moraes;Campo Peixoto;5
+18;João;Miguel;Pará;PA;Farias de Ramos;Jardim Ramos;2
+19;Luiza;Monteiro;Paraná;PR;Fernandes;Lago de Azevedo;5
+20;Caio;Gomes;Rio Grande do Norte;RN;Moura da Praia;Praia Ferreira;5
+21;Camila;Nascimento;Rio Grande do Norte;RN;Gomes;Largo de da Luz;5
+22;Alice;Costa;Minas Gerais;MG;Cunha dos Dourados;Sítio Nunes;5
+23;Eduarda;Teixeira;Mato Grosso do Sul;MS;Gonçalves;Alameda Isaac da Paz;1
+24;Rebeca;Moreira;Ceará;CE;Farias;Colônia de Rezende;1
+25;Isabellyda;Rosa;Acre;AC;Nunes de da Costa;Vereda de da Cruz;4
+26;Lorena;Souza;Paraná;PR;Rodrigues;Largo de Fogaça;1
+27;Pedro;Miguel;Paraíba;PB;Correia;Passarela Ribeiro;4
+28;Cecília;Correia;Alagoas;AL;Rocha Paulista;Rua de da Mata;4
+29;Eduardo;Cardoso;Sergipe;SE;Moreira da Serra;Ladeira Pedro Lucas Gonçalves;2
+30;Natália;Barros;São Paulo;SP;Almeida Verde;Largo de da Conceição;2
+31;Emanuellyda;Mata;Pernambuco;PE;Alves Paulista;Colônia Stephany Oliveira;5
+32;Gustavo;Barbosa;Rio de Janeiro;RJ;Aragão;Vale de Moreira;2
+33;Maysa;Lima;Distrito Federal;DF;Rezende Verde;Esplanada da Cruz;1
+34;Alexiada;Costa;São Paulo;SP;Dias de Barros;Rua Caldeira;5
+35;Luiza;Rezende;Alagoas;AL;Rezende de Lima;Campo Castro;5
+36;Melissa;Jesus;Mato Grosso do Sul;MS;Araújo;Vale Júlia Pereira;4
+37;Maria;Sophia;Amapá;AP;Moraes de Minas;Loteamento da Rocha;4
+38;Francisco;Oliveira;Pernambuco;PE;Alves Paulista;Lagoa de Nunes;5
+39;André;Caldeira;Alagoas;AL;Peixoto;Jardim Monteiro;5
+40;Sophie;Campos;Paraná;PR;Fogaça;Distrito Kaique Cardoso;3
+41;Isabella;Viana;Rio de Janeiro;RJ;Souza de Cunha;Praça Eduardo Barbosa;4
+42;Kevin;Barros;Goiás;GO;Gomes;Distrito de Moraes;4
+43;Davi;Lucca;Ceará;CE;Pinto;Praça Renan da Mata;2
+44;Cauê;Sales;Roraima;RR;da Luz;Área de Nunes;3
+45;Leandro;Rocha;Rio Grande do Norte;RN;Melo de Sales;Chácara de Teixeira;4
+46;Benício;Aragão;Minas Gerais;MG;Cunha dos Dourados;Chácara de Gomes;4
+47;Enricoda;Mota;Santa Catarina;SC;Moura;Aeroporto Larissa Mendes;3
+48;Raul;Aragão;Rio Grande do Sul;RS;Martins;Feira Gustavo Pinto;1
+49;Davi;Luiz;Pernambuco;PE;Mendes do Amparo;Morro Santos;2
+50;Isadora;Castro;Espírito Santo;ES;Almeida Paulista;Esplanada Breno Freitas;3
